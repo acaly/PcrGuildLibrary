@@ -374,7 +374,22 @@
     ],
     "labels": [],
     "standard_damage": 3400000,
-    "sources": []
+    "sources": [
+      {
+        "description": "花舞-pts340w",
+        "author": "花舞-pts",
+        "damage": {
+          "value": 3400000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg6.docs.qq.com/image/7jKCC57MPv_d6bKCEvx3fg?w=1098&h=1102"
+        ],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "C1",
