@@ -30,7 +30,7 @@
       "high": null
     },
     "comments": [
-      "花舞组验轴均伤585w"
+      "花舞组验轴均伤585w\n验轴人：阿绚"
     ],
     "labels": [],
     "standard_damage": 5900000,
@@ -1694,20 +1694,6 @@
     "standard_damage": 5800000,
     "sources": [
       {
-        "description": "9-2水电Sora584w\n视频有轴",
-        "author": "Sora",
-        "damage": {
-          "value": 5840000,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1254y177in?p=4"
-        ],
-        "images": [],
-        "comments": []
-      },
-      {
         "description": "茶会参考伤害570~605w右边",
         "author": null,
         "damage": {
@@ -1717,6 +1703,20 @@
         },
         "links": [
           "https://docs.qq.com/sheet/DSXRZWnlYcUFVWWFy?groupUin=PT6t8Yb4%252B%252Bd9WWLwgQMpFQ%253D%253D&ADUIN=930587995&ADSESSION=1627942937&ADTAG=CLIENT.QQ.5827_.0&ADPUBNO=27151&tab=sdcuqa"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Sora 622w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 6220000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1254y177in?p=6"
         ],
         "images": [],
         "comments": []
@@ -2013,6 +2013,20 @@
         },
         "links": [
           "https://docs.qq.com/sheet/DSXRZWnlYcUFVWWFy?groupUin=PT6t8Yb4%252B%252Bd9WWLwgQMpFQ%253D%253D&ADUIN=930587995&ADSESSION=1627942937&ADTAG=CLIENT.QQ.5827_.0&ADPUBNO=27151&tab=zmi8so"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "9-2水电Sora584w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 5840000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1254y177in?p=4"
         ],
         "images": [],
         "comments": []
