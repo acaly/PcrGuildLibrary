@@ -65,6 +65,122 @@
   },
   {
     "boss": "A1",
+    "id": "A103",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1096,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5450000,
+    "sources": [
+      {
+        "description": "14-1水电头头猫547w视频有轴",
+        "author": "头头猫",
+        "damage": {
+          "value": 5470000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1m341167tS?from=search&seid=878727686825711035"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A1",
+    "id": "A104",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5400000,
+    "sources": [
+      {
+        "description": "阿联酋565w\n视频有轴",
+        "author": "阿联酋",
+        "damage": {
+          "value": 5650000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV15q4y197Hf?from=search&seid=878727686825711035"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-忧默君 552w",
+        "author": "花舞-忧默君",
+        "damage": {
+          "value": 5520000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg10.docs.qq.com/image/pQXEzO6FLOjpXUnnTBCm4A?w=1153&h=794"
+        ],
+        "comments": [
+          "←花舞轴"
+        ]
+      }
+    ]
+  },
+  {
+    "boss": "A1",
     "id": "A102",
     "characters": [
       {
@@ -109,6 +225,106 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1zy4y157EC?from=search&seid=11236339430595566733"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A1",
+    "id": "A106",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1096,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5350000,
+    "sources": [
+      {
+        "description": "花舞-忧默君 538w",
+        "author": "花舞-忧默君",
+        "damage": {
+          "value": 5380000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg8.docs.qq.com/image/DluTzFivvr8FJr3J6TqG5Q?w=1151&h=1000"
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A1",
+    "id": "A105",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5100000,
+    "sources": [
+      {
+        "description": "133级安\n阿联酋498w\n视频有轴",
+        "author": "阿联酋",
+        "damage": {
+          "value": 4980000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV15q4y197Hf?p=2"
         ],
         "images": [],
         "comments": []
@@ -216,6 +432,314 @@
         ],
         "images": [],
         "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A2",
+    "id": "A203",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5550000,
+    "sources": [
+      {
+        "description": "14-1水电头头猫580w视频有轴",
+        "author": "头头猫",
+        "damage": {
+          "value": 5800000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1m341167tS?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A2",
+    "id": "A202",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5350000,
+    "sources": [
+      {
+        "description": "花舞-忧默君 538w",
+        "author": "花舞-忧默君",
+        "damage": {
+          "value": 5380000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg4.docs.qq.com/image/pFjrXi-YEHY12pGMedZeVA?w=1168&h=756"
+        ],
+        "comments": [
+          "←花舞轴"
+        ]
+      }
+    ]
+  },
+  {
+    "boss": "A3",
+    "id": "A301",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4700000,
+    "sources": [
+      {
+        "description": "R9水电Sora472w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 4720000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1254y177in?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A3",
+    "id": "A302",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5350000,
+    "sources": [
+      {
+        "description": "花舞-忧默君 500-522w",
+        "author": "花舞-忧默君",
+        "damage": {
+          "value": null,
+          "low": 5000000,
+          "high": 5220000
+        },
+        "links": [],
+        "images": [
+          "https://docimg9.docs.qq.com/image/WDMVRRboAjJwhVpo7rmaaw?w=1180&h=896"
+        ],
+        "comments": [
+          "←花舞轴"
+        ]
+      }
+    ]
+  },
+  {
+    "boss": "A4",
+    "id": "A401",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5900000,
+    "sources": [
+      {
+        "description": "花舞-pts 595-605w",
+        "author": "花舞-pts",
+        "damage": {
+          "value": null,
+          "low": 5950000,
+          "high": 6050000
+        },
+        "links": [],
+        "images": [
+          "https://docimg7.docs.qq.com/image/6K9K2g_8rbSoRKwZ-Sgaiw?w=1113&h=1101"
+        ],
+        "comments": [
+          "←花舞轴"
+        ]
+      }
+    ]
+  },
+  {
+    "boss": "A5",
+    "id": "A501",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5900000,
+    "sources": [
+      {
+        "description": "花舞-忧默君 591w",
+        "author": "花舞-忧默君",
+        "damage": {
+          "value": 5910000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg3.docs.qq.com/image/QsQu9wwrcmETrYFA5lflZA?w=1087&h=1260"
+        ],
+        "comments": [
+          "←花舞轴"
+        ]
       }
     ]
   }
