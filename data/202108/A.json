@@ -1,1 +1,222 @@
-[]
+[
+  {
+    "boss": "A1",
+    "id": "A101",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1701,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5900000,
+    "sources": [
+      {
+        "description": "Sora 602w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 6020000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1254y177in?from=search&seid=6042680876336600086"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "ρ (>v<) ρ 609w",
+        "author": "ρ (>v<) ρ",
+        "damage": {
+          "value": 6090000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg3.docs.qq.com/image/1PGnIUP8TaXg0oAxJzdq2Q?w=1037&h=725"
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A1",
+    "id": "A102",
+    "characters": [
+      {
+        "id": 1701,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "半AUTO"
+    ],
+    "labels": [],
+    "standard_damage": 5100000,
+    "sources": [
+      {
+        "description": "FF半音半自动511w视频有轴",
+        "author": "FF半音",
+        "damage": {
+          "value": 5110000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1zy4y157EC?from=search&seid=11236339430595566733"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A1",
+    "id": "at101",
+    "characters": [
+      {
+        "id": 1701,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "半AUTO"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5100000,
+    "sources": [
+      {
+        "description": "FF半音半自动511w视频有轴",
+        "author": "FF半音",
+        "damage": {
+          "value": 5110000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1zy4y157EC?from=search&seid=11236339430595566733"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A2",
+    "id": "A201",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5900000,
+    "sources": [
+      {
+        "description": "R9水电 Sora\n600w视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 6000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1254y177in?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  }
+]
