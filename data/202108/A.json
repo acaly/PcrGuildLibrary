@@ -668,7 +668,7 @@
       "high": null
     },
     "comments": [
-      "考古伤害暂定"
+      "花舞组验轴均伤496w 区间480~520w\n验轴人：玖璃梦"
     ],
     "labels": [
       "Auto"
@@ -722,7 +722,7 @@
       "high": null
     },
     "comments": [
-      "考古伤害暂定"
+      "9-1水电\n花舞组验轴均伤453w 区间430~470w\n验轴人：玖璃梦"
     ],
     "labels": [
       "Auto"
@@ -1328,10 +1328,10 @@
       "high": null
     },
     "comments": [
-      "该轴标伤有点问题，待检测"
+      "花舞组验轴均伤549w 区间530~570w\n验轴人：STK"
     ],
     "labels": [],
-    "standard_damage": 5700000,
+    "standard_damage": 5500000,
     "sources": [
       {
         "description": "花舞-阿尔托利亚581w视频有轴",
@@ -2764,7 +2764,7 @@
     "standard_damage": 5800000,
     "sources": [
       {
-        "description": "茶会参考伤害570~605w右边",
+        "description": "9-6水电\n茶会参考伤害570~605w右边",
         "author": null,
         "damage": {
           "value": null,
@@ -2792,7 +2792,7 @@
         "comments": []
       },
       {
-        "description": "双姬塔演示\n阿联酋\n623w/587w\n视频有轴",
+        "description": "双姬塔演示\n14-1水电阿联酋\n623w/587w\n视频有轴",
         "author": "阿联酋",
         "damage": {
           "value": 6230000,
@@ -2806,20 +2806,34 @@
         "comments": []
       },
       {
-        "description": "花舞-pts 595-605w",
+        "description": "花舞-pts 580-600w",
         "author": "花舞-pts",
         "damage": {
           "value": null,
-          "low": 5950000,
-          "high": 6050000
+          "low": 5800000,
+          "high": 6000000
         },
         "links": [],
         "images": [
-          "https://docimg7.docs.qq.com/image/6K9K2g_8rbSoRKwZ-Sgaiw?w=1113&h=1101"
+          "https://docimg3.docs.qq.com/image/DXTCC5lUuePEJQ63DmHHYw?w=1113&h=1100"
         ],
         "comments": [
           "←花舞轴"
         ]
+      },
+      {
+        "description": "花舞-忧默579w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5790000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1P64y147as?p=4"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -2908,7 +2922,7 @@
     "standard_damage": 5000000,
     "sources": [
       {
-        "description": "花舞-云烨朱云508w评论有轴",
+        "description": "R14水电\n花舞-云烨朱云508w评论有轴",
         "author": "花舞-云烨朱云",
         "damage": {
           "value": 5080000,
@@ -3334,7 +3348,7 @@
         "comments": []
       },
       {
-        "description": "头头猫607w\n视频有轴",
+        "description": "14-1水电\n头头猫607w\n视频有轴",
         "author": "头头猫",
         "damage": {
           "value": 6070000,
@@ -3362,6 +3376,20 @@
         "comments": [
           "←花舞轴"
         ]
+      },
+      {
+        "description": "花舞-忧默590w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5900000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1P64y147as?p=5"
+        ],
+        "images": [],
+        "comments": []
       },
       {
         "description": "14-1水电玩具喵591w视频有轴",
