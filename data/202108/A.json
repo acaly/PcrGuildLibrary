@@ -776,12 +776,12 @@
       "high": null
     },
     "comments": [
-      "考古伤害暂定"
+      "花舞组验轴均伤465w 区间435~490w\n验轴人：STK"
     ],
     "labels": [
       "Auto"
     ],
-    "standard_damage": 4500000,
+    "standard_damage": 4600000,
     "sources": [
       {
         "description": "乔斯特立独行\n搬运\n全auto450w",
@@ -1040,12 +1040,12 @@
       "high": null
     },
     "comments": [
-      "考古伤害暂定"
+      "花舞组验轴均伤452w 区间440~470w\n验轴人：STK"
     ],
     "labels": [
       "Auto"
     ],
-    "standard_damage": 4600000,
+    "standard_damage": 4500000,
     "sources": [
       {
         "description": "乔斯特立独行\n搬运\n全auto460w",
@@ -1151,7 +1151,7 @@
     "labels": [
       "Auto"
     ],
-    "standard_damage": 4600000,
+    "standard_damage": 4200000,
     "sources": [
       {
         "description": "乔斯特立独行\n搬运\n全auto492w",
@@ -4703,10 +4703,10 @@
   },
   {
     "boss": "A5",
-    "id": "at505",
+    "id": "at513",
     "characters": [
       {
-        "id": 1071,
+        "id": 1103,
         "requirements": []
       },
       {
@@ -4714,7 +4714,7 @@
         "requirements": []
       },
       {
-        "id": 1096,
+        "id": 1027,
         "requirements": []
       },
       {
@@ -4731,24 +4731,36 @@
       "low": null,
       "high": null
     },
-    "comments": [
-      "视频5星忍扇,练度没拉"
-    ],
+    "comments": [],
     "labels": [
       "Auto"
     ],
-    "standard_damage": 4700000,
+    "standard_damage": 5000000,
     "sources": [
       {
-        "description": "透过现象看本质\n全auto475w",
-        "author": "透过现象看本质",
+        "description": "怕踢狗\n半auto519w",
+        "author": "怕踢狗",
         "damage": {
-          "value": 4750000,
+          "value": 5190000,
           "low": null,
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV16L411n7Nd?p=2"
+          "https://www.bilibili.com/video/BV1QA411A7UP?p=11"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "FF半音【物1】\n半auto540w",
+        "author": "FF半音",
+        "damage": {
+          "value": 5400000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1zy4y157EC?p=9"
         ],
         "images": [],
         "comments": []
@@ -4853,6 +4865,60 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1xM4y1N7h2?p=10"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A5",
+    "id": "at505",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1096,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "视频5星忍扇,练度没拉"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4700000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全auto475w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4750000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV16L411n7Nd?p=2"
         ],
         "images": [],
         "comments": []
