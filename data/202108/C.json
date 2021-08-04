@@ -663,6 +663,111 @@
   },
   {
     "boss": "C2",
+    "id": "C208",
+    "characters": [
+      {
+        "id": 1100,
+        "requirements": []
+      },
+      {
+        "id": 1701,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4100000,
+    "sources": []
+  },
+  {
+    "boss": "C2",
+    "id": "C209",
+    "characters": [
+      {
+        "id": 1063,
+        "requirements": []
+      },
+      {
+        "id": 1701,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4000000,
+    "sources": []
+  },
+  {
+    "boss": "C2",
+    "id": "C207",
+    "characters": [
+      {
+        "id": 1701,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4200000,
+    "sources": []
+  },
+  {
+    "boss": "C2",
     "id": "ct201",
     "characters": [
       {
@@ -1062,7 +1167,7 @@
       "high": null
     },
     "comments": [
-      "世界线轴，成刀率低，推荐不筛就不打"
+      "世界线轴，成刀率低，推荐不筛就不打\n（YLY的九九八十一难）"
     ],
     "labels": [],
     "standard_damage": 4200000,
