@@ -1,1 +1,1988 @@
-[]
+[
+  {
+    "boss": "C1",
+    "id": "C101",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4200000,
+    "sources": [
+      {
+        "description": "阿联酋406w\n视频有轴",
+        "author": "阿联酋",
+        "damage": {
+          "value": 4060000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1wv411K7s3?from=search&seid=7076785563277826475"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "ct101",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1015,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3700000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto374w",
+        "author": null,
+        "damage": {
+          "value": 3740000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=82"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "ct102",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "狼后面会死，考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3500000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto350w",
+        "author": null,
+        "damage": {
+          "value": 3500000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=82"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "ct103",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1096,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3300000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto331w",
+        "author": null,
+        "damage": {
+          "value": 3310000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=82"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "ct104",
+    "characters": [
+      {
+        "id": 0,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1096,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3150000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto318w",
+        "author": null,
+        "damage": {
+          "value": 3180000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=82"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "ct105",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3100000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto310w",
+        "author": null,
+        "damage": {
+          "value": 3100000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=82"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C201",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1037,
+        "requirements": []
+      },
+      {
+        "id": 1096,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4300000,
+    "sources": [
+      {
+        "description": "3★14-3忍扇\nSora437w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 4370000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1264y1x72U?from=search&seid=7076785563277826475"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C202",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1096,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4150000,
+    "sources": [
+      {
+        "description": "13-5狼\n阿联酋412w\n视频有轴",
+        "author": "阿联酋",
+        "damage": {
+          "value": 4120000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1wv411K7s3?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "ct201",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1096,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3600000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto366w",
+        "author": null,
+        "damage": {
+          "value": 3660000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=101"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "ct202",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3500000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto360w",
+        "author": null,
+        "damage": {
+          "value": 3600000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=95"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "ct203",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3400000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto346w",
+        "author": null,
+        "damage": {
+          "value": 3460000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=101"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "ct204",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3400000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto341w",
+        "author": null,
+        "damage": {
+          "value": 3410000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=101"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "ct205",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1037,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3350000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto338w",
+        "author": null,
+        "damage": {
+          "value": 3380000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=101"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "C301",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1015,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "世界线轴，成刀率低，推荐不筛就不打"
+    ],
+    "labels": [],
+    "standard_damage": 4200000,
+    "sources": [
+      {
+        "description": "Sora431w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 4310000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1264y1x72U?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "ct301",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3700000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto375w",
+        "author": null,
+        "damage": {
+          "value": 3750000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=129"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "ct302",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3600000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto360w",
+        "author": null,
+        "damage": {
+          "value": 3600000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=129"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "ct303",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3500000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto351w",
+        "author": null,
+        "damage": {
+          "value": 3510000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=129"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "ct304",
+    "characters": [
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 0,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3400000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto341w",
+        "author": null,
+        "damage": {
+          "value": 3410000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=129"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "ct305",
+    "characters": [
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3400000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto340w",
+        "author": null,
+        "damage": {
+          "value": 3400000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=129"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "ct306",
+    "characters": [
+      {
+        "id": 1042,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3100000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto316w",
+        "author": null,
+        "damage": {
+          "value": 3160000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=129"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "ct307",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      },
+      {
+        "id": 1021,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3100000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto312w",
+        "author": null,
+        "damage": {
+          "value": 3120000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=129"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "C401",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4600000,
+    "sources": [
+      {
+        "description": "Sora463w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 4630000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1264y1x72U?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "ct401",
+    "characters": [
+      {
+        "id": 0,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "109s关自动-102s开自动，考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3200000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n开关auto325w",
+        "author": null,
+        "damage": {
+          "value": 3250000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=155"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "ct402",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "后几秒可连点克，考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3100000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto315w",
+        "author": null,
+        "damage": {
+          "value": 3150000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=155"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "ct403",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 2900000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto291w",
+        "author": null,
+        "damage": {
+          "value": 2910000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=155"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "ct404",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 2900000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto291w",
+        "author": null,
+        "damage": {
+          "value": 2910000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=155"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "ct405",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1101,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "后几秒可连点安跟水老师,考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 2800000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto283w",
+        "author": null,
+        "damage": {
+          "value": 2830000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=155"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "ct406",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 2400000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto245w",
+        "author": null,
+        "damage": {
+          "value": 2450000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=155"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "C501",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4300000,
+    "sources": [
+      {
+        "description": "R9水电Sora452w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 4520000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1264y1x72U?p=3"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "R9水电\n阿联酋430w\n视频有轴",
+        "author": "阿联酋",
+        "damage": {
+          "value": 4300000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1wv411K7s3?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "C502",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 3750000,
+    "sources": [
+      {
+        "description": "3★11-6圣千\n阿联酋375w\n视频有轴",
+        "author": "阿联酋",
+        "damage": {
+          "value": 3750000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1wv411K7s3?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct501",
+    "characters": [
+      {
+        "id": 1042,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3300000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto330w",
+        "author": null,
+        "damage": {
+          "value": 3300000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=206"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct502",
+    "characters": [
+      {
+        "id": 1042,
+        "requirements": []
+      },
+      {
+        "id": 1076,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 2900000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto293w",
+        "author": null,
+        "damage": {
+          "value": 2930000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=206"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct503",
+    "characters": [
+      {
+        "id": 1042,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "511后面死，考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 2900000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto292w",
+        "author": null,
+        "damage": {
+          "value": 2920000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=206"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct504",
+    "characters": [
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 2500000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto255w",
+        "author": null,
+        "damage": {
+          "value": 2550000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=206"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct505",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1015,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 2900000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto295w",
+        "author": null,
+        "damage": {
+          "value": 2950000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=206"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct506",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1015,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 2750000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto278w",
+        "author": null,
+        "damage": {
+          "value": 2780000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=206"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct507",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1015,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1006,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 2900000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto296w",
+        "author": null,
+        "damage": {
+          "value": 2960000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sV411W7gN?p=206"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  }
+]
