@@ -279,7 +279,9 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "花舞组验轴均伤377w 区间367~398w\n验轴人：云烨朱云"
+    ],
     "labels": [],
     "standard_damage": 3750000,
     "sources": [
@@ -295,6 +297,56 @@
         "images": [
           "https://docimg1.docs.qq.com/image/LSsyQ6A12Db9IZWxbpVP1A?w=1161&h=947"
         ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "C105",
+    "characters": [
+      {
+        "id": 1701,
+        "requirements": []
+      },
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 3450000,
+    "sources": [
+      {
+        "description": "花舞-和奏343w简介有轴",
+        "author": null,
+        "damage": {
+          "value": 3430000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Xy4y157yL"
+        ],
+        "images": [],
         "comments": []
       }
     ]
@@ -1425,7 +1477,7 @@
         },
         "links": [],
         "images": [
-          "https://docimg4.docs.qq.com/image/30xXfm_5Wl4a79yd1QLU-A?w=1122&h=895"
+          "https://docimg2.docs.qq.com/image/XKnOZJxu1rQiLtApcYhTcQ?w=1090&h=945"
         ],
         "comments": []
       }
