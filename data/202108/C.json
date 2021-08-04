@@ -46,6 +46,48 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "135级yly\n茶会参考伤害450w最上面",
+        "author": null,
+        "damage": {
+          "value": 4500000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://docs.qq.com/sheet/DSXRZWnlYcUFVWWFy?groupUin=PT6t8Yb4%252B%252Bd9WWLwgQMpFQ%253D%253D&ADUIN=930587995&ADSESSION=1627942937&ADTAG=CLIENT.QQ.5827_.0&ADPUBNO=27151&tab=uqnciq"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "136级yly\n茶会参考伤害420-450w\n最下面",
+        "author": null,
+        "damage": {
+          "value": null,
+          "low": 4200000,
+          "high": 4500000
+        },
+        "links": [
+          "https://docs.qq.com/sheet/DSXRZWnlYcUFVWWFy?groupUin=PT6t8Yb4%252B%252Bd9WWLwgQMpFQ%253D%253D&ADUIN=930587995&ADSESSION=1627942937&ADTAG=CLIENT.QQ.5827_.0&ADPUBNO=27151&tab=uqnciq"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖加冰429w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 4290000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1QP4y1s7ME?from=search&seid=6452865244396717429"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -321,10 +363,18 @@
   },
   {
     "boss": "C2",
-    "id": "C201",
+    "id": "C204",
     "characters": [
       {
+        "id": 1103,
+        "requirements": []
+      },
+      {
         "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
         "requirements": []
       },
       {
@@ -332,7 +382,49 @@
         "requirements": []
       },
       {
-        "id": 1037,
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4400000,
+    "sources": [
+      {
+        "description": "13-5狼茶会参考伤害449w最右上",
+        "author": null,
+        "damage": {
+          "value": 4490000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://docs.qq.com/sheet/DSXRZWnlYcUFVWWFy?groupUin=PT6t8Yb4%252B%252Bd9WWLwgQMpFQ%253D%253D&ADUIN=930587995&ADSESSION=1627942937&ADTAG=CLIENT.QQ.5827_.0&ADPUBNO=27151&tab=omjl73"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C203",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
         "requirements": []
       },
       {
@@ -351,18 +443,18 @@
     },
     "comments": [],
     "labels": [],
-    "standard_damage": 4300000,
+    "standard_damage": 4400000,
     "sources": [
       {
-        "description": "3★14-3忍扇\nSora437w\n视频有轴",
-        "author": "Sora",
+        "description": "13-5狼茶会参考伤害442w最左上",
+        "author": null,
         "damage": {
-          "value": 4370000,
+          "value": 4420000,
           "low": null,
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1264y1x72U?from=search&seid=7076785563277826475"
+          "https://docs.qq.com/sheet/DSXRZWnlYcUFVWWFy?groupUin=PT6t8Yb4%252B%252Bd9WWLwgQMpFQ%253D%253D&ADUIN=930587995&ADSESSION=1627942937&ADTAG=CLIENT.QQ.5827_.0&ADPUBNO=27151&tab=omjl73"
         ],
         "images": [],
         "comments": []
@@ -413,6 +505,156 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1wv411K7s3?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C205",
+    "characters": [
+      {
+        "id": 1100,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1096,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4300000,
+    "sources": [
+      {
+        "description": "3/5★忍扇茶会参考伤害434~438w最左下",
+        "author": null,
+        "damage": {
+          "value": null,
+          "low": 4340000,
+          "high": 4380000
+        },
+        "links": [
+          "https://docs.qq.com/sheet/DSXRZWnlYcUFVWWFy?groupUin=PT6t8Yb4%252B%252Bd9WWLwgQMpFQ%253D%253D&ADUIN=930587995&ADSESSION=1627942937&ADTAG=CLIENT.QQ.5827_.0&ADPUBNO=27151&tab=omjl73"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C206",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1096,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4300000,
+    "sources": [
+      {
+        "description": "3★忍扇茶会参考伤害434w最右下",
+        "author": null,
+        "damage": {
+          "value": 4340000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://docs.qq.com/sheet/DSXRZWnlYcUFVWWFy?groupUin=PT6t8Yb4%252B%252Bd9WWLwgQMpFQ%253D%253D&ADUIN=930587995&ADSESSION=1627942937&ADTAG=CLIENT.QQ.5827_.0&ADPUBNO=27151&tab=omjl73"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C201",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1037,
+        "requirements": []
+      },
+      {
+        "id": 1096,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4300000,
+    "sources": [
+      {
+        "description": "3★14-3忍扇\nSora437w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 4370000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1264y1x72U?from=search&seid=7076785563277826475"
         ],
         "images": [],
         "comments": []
@@ -691,6 +933,106 @@
   },
   {
     "boss": "C3",
+    "id": "C302",
+    "characters": [
+      {
+        "id": 1701,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4300000,
+    "sources": [
+      {
+        "description": "茶会参考伤害436~446w中间",
+        "author": null,
+        "damage": {
+          "value": null,
+          "low": 4360000,
+          "high": 4460000
+        },
+        "links": [
+          "https://docs.qq.com/sheet/DSXRZWnlYcUFVWWFy?groupUin=PT6t8Yb4%252B%252Bd9WWLwgQMpFQ%253D%253D&ADUIN=930587995&ADSESSION=1627942937&ADTAG=CLIENT.QQ.5827_.0&ADPUBNO=27151&tab=u3tq0n"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "C303",
+    "characters": [
+      {
+        "id": 1701,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 3950000,
+    "sources": [
+      {
+        "description": "茶会参考伤害399~410w最下面",
+        "author": null,
+        "damage": {
+          "value": null,
+          "low": 3990000,
+          "high": 4100000
+        },
+        "links": [
+          "https://docs.qq.com/sheet/DSXRZWnlYcUFVWWFy?groupUin=PT6t8Yb4%252B%252Bd9WWLwgQMpFQ%253D%253D&ADUIN=930587995&ADSESSION=1627942937&ADTAG=CLIENT.QQ.5827_.0&ADPUBNO=27151&tab=u3tq0n"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
     "id": "C301",
     "characters": [
       {
@@ -738,8 +1080,127 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "5★安\n茶会参考伤害420~430w最上面",
+        "author": null,
+        "damage": {
+          "value": null,
+          "low": 4200000,
+          "high": 4300000
+        },
+        "links": [
+          "https://docs.qq.com/sheet/DSXRZWnlYcUFVWWFy?groupUin=PT6t8Yb4%252B%252Bd9WWLwgQMpFQ%253D%253D&ADUIN=930587995&ADSESSION=1627942937&ADTAG=CLIENT.QQ.5827_.0&ADPUBNO=27151&tab=u3tq0n"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
+  },
+  {
+    "boss": "C3",
+    "id": "C305",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 3800000,
+    "sources": []
+  },
+  {
+    "boss": "C3",
+    "id": "C304",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1099,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 3700000,
+    "sources": []
+  },
+  {
+    "boss": "C3",
+    "id": "C306",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      },
+      {
+        "id": 1021,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 3600000,
+    "sources": []
   },
   {
     "boss": "C3",
@@ -1166,6 +1627,122 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "茶会参考伤害461w最上面",
+        "author": null,
+        "damage": {
+          "value": 4610000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://docs.qq.com/sheet/DSXRZWnlYcUFVWWFy?groupUin=PT6t8Yb4%252B%252Bd9WWLwgQMpFQ%253D%253D&ADUIN=930587995&ADSESSION=1627942937&ADTAG=CLIENT.QQ.5827_.0&ADPUBNO=27151&tab=7qpw8n"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "C402",
+    "characters": [
+      {
+        "id": 1701,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "狼需要稍微自强一下才能活\n非常努力想暴击最后才有UB"
+    ],
+    "labels": [],
+    "standard_damage": 4200000,
+    "sources": [
+      {
+        "description": "茶会参考伤害420~460w最下面",
+        "author": null,
+        "damage": {
+          "value": null,
+          "low": 4200000,
+          "high": 4600000
+        },
+        "links": [
+          "https://docs.qq.com/sheet/DSXRZWnlYcUFVWWFy?groupUin=PT6t8Yb4%252B%252Bd9WWLwgQMpFQ%253D%253D&ADUIN=930587995&ADSESSION=1627942937&ADTAG=CLIENT.QQ.5827_.0&ADPUBNO=27151&tab=7qpw8n"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "C403",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4000000,
+    "sources": [
+      {
+        "description": "玩具喵416w\n视频有轴",
+        "author": "玩具喵",
+        "damage": {
+          "value": 4160000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1gU4y1J7K5"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -1554,6 +2131,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "R9水电\n茶会参考伤害440w最上面",
+        "author": null,
+        "damage": {
+          "value": 4400000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://docs.qq.com/sheet/DSXRZWnlYcUFVWWFy?groupUin=PT6t8Yb4%252B%252Bd9WWLwgQMpFQ%253D%253D&ADUIN=930587995&ADSESSION=1627942937&ADTAG=CLIENT.QQ.5827_.0&ADPUBNO=27151&tab=ktmy8m"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -1587,7 +2178,9 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "R14-3水电"
+    ],
     "labels": [],
     "standard_damage": 3750000,
     "sources": [
@@ -1604,8 +2197,73 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "5★安|11-6千\n茶会参考伤害414.5w中间",
+        "author": null,
+        "damage": {
+          "value": 50000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://docs.qq.com/sheet/DSXRZWnlYcUFVWWFy?groupUin=PT6t8Yb4%252B%252Bd9WWLwgQMpFQ%253D%253D&ADUIN=930587995&ADSESSION=1627942937&ADTAG=CLIENT.QQ.5827_.0&ADPUBNO=27151&tab=ktmy8m"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "4★安|11-6千\n茶会参考伤害412w最下面",
+        "author": null,
+        "damage": {
+          "value": 4120000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://docs.qq.com/sheet/DSXRZWnlYcUFVWWFy?groupUin=PT6t8Yb4%252B%252Bd9WWLwgQMpFQ%253D%253D&ADUIN=930587995&ADSESSION=1627942937&ADTAG=CLIENT.QQ.5827_.0&ADPUBNO=27151&tab=ktmy8m"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
+  },
+  {
+    "boss": "C5",
+    "id": "C503",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1015,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "安星级理论3/4/5★通用，具体待测试"
+    ],
+    "labels": [],
+    "standard_damage": 3600000,
+    "sources": []
   },
   {
     "boss": "C5",
