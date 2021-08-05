@@ -130,6 +130,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "Ty外放\n参考伤害447~453w多世界线",
+        "author": null,
+        "damage": {
+          "value": null,
+          "low": 4470000,
+          "high": 4530000
+        },
+        "links": [
+          "https://docs.qq.com/sheet/DTHlObm9oR3VpSE1V?tab=BB08JC"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -528,7 +542,7 @@
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1Ug41177Fm?p=6"
+          "https://www.bilibili.com/video/BV1Ug41177Fm?p=7"
         ],
         "images": [],
         "comments": []
@@ -692,7 +706,7 @@
     "standard_damage": 3500000,
     "sources": [
       {
-        "description": "川包\n全auto356w",
+        "description": "川包\n半auto356w",
         "author": "川包",
         "damage": {
           "value": 3560000,
@@ -821,6 +835,60 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Ug41177Fm"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "ct115",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1096,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "演示为未满级的r13满强5星忍扇\n忍扇可A后UB加快循环,否则最后可能会少一个UB"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3550000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全auto359w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 3590000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV16L411n7Nd?p=10"
         ],
         "images": [],
         "comments": []
@@ -1128,7 +1196,7 @@
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1Ug41177Fm?p=11"
+          "https://www.bilibili.com/video/BV1Ug41177Fm?p=12"
         ],
         "images": [],
         "comments": []
@@ -2815,7 +2883,9 @@
           "low": null,
           "high": null
         },
-        "links": [],
+        "links": [
+          "https://www.bilibili.com/video/BV1Ug41177Fm?p=8"
+        ],
         "images": [],
         "comments": []
       },
@@ -2828,6 +2898,60 @@
           "high": null
         },
         "links": [],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "ct210",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1096,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "演示为未满级的r13满强5星忍扇"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3400000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全auto340w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 3400000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV16L411n7Nd?p=10"
+        ],
         "images": [],
         "comments": []
       }
@@ -2905,6 +3029,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1wv411K7s3?p=7"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Ty外放\n参考伤害441~455w多世界线",
+        "author": null,
+        "damage": {
+          "value": null,
+          "low": 4410000,
+          "high": 4550000
+        },
+        "links": [
+          "https://docs.qq.com/sheet/DTHlObm9oR3VpSE1V?tab=BB08JE"
         ],
         "images": [],
         "comments": []
@@ -3019,6 +3157,110 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1xQ4y1f7Rd?from=search&seid=12053819056900110599"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "C310",
+    "characters": [
+      {
+        "id": 1100,
+        "requirements": []
+      },
+      {
+        "id": 1076,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "花舞组验轴均伤335w 区间322~354w\n验轴人：STK\n（狗拳需要至少暴击一拳才能成刀）"
+    ],
+    "labels": [],
+    "standard_damage": 3300000,
+    "sources": [
+      {
+        "description": "战意投稿345w\n视频有轴",
+        "author": "战意",
+        "damage": {
+          "value": 3450000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV12L411n78u"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "C311",
+    "characters": [
+      {
+        "id": 1076,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "花舞组验轴均伤392w 区间376~422w\n验轴人：西点"
+    ],
+    "labels": [],
+    "standard_damage": 3850000,
+    "sources": [
+      {
+        "description": "微光DL420w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 4200000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1XA411A7Rv?share_source=copy_web"
         ],
         "images": [],
         "comments": []
@@ -3250,45 +3492,17 @@
     "standard_damage": 4300000,
     "sources": [
       {
-        "description": "云鬼430w内卷轴1/3",
-        "author": "云鬼",
+        "description": "Ty外放\n参考伤害432w\n多世界线",
+        "author": null,
         "damage": {
-          "value": 4300000,
+          "value": 4320000,
           "low": null,
           "high": null
         },
-        "links": [],
-        "images": [
-          "https://docimg1.docs.qq.com/image/lKFtouPTRXkEKvNCs-f4xw?w=2996&h=1114"
+        "links": [
+          "https://docs.qq.com/sheet/DTHlObm9oR3VpSE1V?tab=hvp5rc"
         ],
-        "comments": []
-      },
-      {
-        "description": "云鬼430w内卷轴2/3",
-        "author": "云鬼",
-        "damage": {
-          "value": 4300000,
-          "low": null,
-          "high": null
-        },
-        "links": [],
-        "images": [
-          "https://docimg4.docs.qq.com/image/dd-PJHwThommxzwGYWwlkw?w=1849&h=361"
-        ],
-        "comments": []
-      },
-      {
-        "description": "云鬼430w内卷轴3/3",
-        "author": "云鬼",
-        "damage": {
-          "value": 4300000,
-          "low": null,
-          "high": null
-        },
-        "links": [],
-        "images": [
-          "https://docimg6.docs.qq.com/image/EpBTFljRG8hiOybbaNTbIw?w=1051&h=1499"
-        ],
+        "images": [],
         "comments": []
       },
       {
@@ -3338,7 +3552,7 @@
       "high": null
     },
     "comments": [
-      "赌就对了\n该轴的14-3yly需要135级，或136级13-6\n136级的14-3也能打但038容易寄\nEMT最高练度就是13-6左右中1星，可以低不可以高"
+      "视频有稳定成刀轴\n该轴的14-3yly需要135级，或136级13-6\n136级的14-3也能打但038容易寄\nEMT最高练度就是13-6左右中1星，可以低不可以高"
     ],
     "labels": [],
     "standard_damage": 3700000,
@@ -3375,7 +3589,7 @@
   },
   {
     "boss": "C3",
-    "id": "AUTO区",
+    "id": "C306",
     "characters": [
       {
         "id": 1036,
@@ -3406,9 +3620,7 @@
     "comments": [
       "还是小萝莉深得人心"
     ],
-    "labels": [
-      "Auto"
-    ],
+    "labels": [],
     "standard_damage": 3600000,
     "sources": [
       {
@@ -3475,6 +3687,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1sV411W7gN?p=129"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "黑暗中的光340w",
+        "author": null,
+        "damage": {
+          "value": 3400000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1v44y117AU?from=search&seid=12053819056900110599"
         ],
         "images": [],
         "comments": []
@@ -3669,6 +3895,60 @@
   },
   {
     "boss": "C3",
+    "id": "ct321",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "演示应该是r14满强511\n最后时间可慢速点吉塔\n(暴毙率待测试)"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3500000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全auto352w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 3520000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV16L411n7Nd?p=9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
     "id": "ct314",
     "characters": [
       {
@@ -3697,7 +3977,9 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "收到反馈特意检验此轴，本轴具有概率暴毙点\n验轴人：世界一级卡哇伊哟\n十次测试511死1次，重要的是511暴击吸血大于少被晕（毕竟c面晕率给点面子吧"
+    ],
     "labels": [
       "Auto"
     ],
@@ -3712,7 +3994,7 @@
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1Ug41177Fm?p=8"
+          "https://www.bilibili.com/video/BV1Ug41177Fm?p=9"
         ],
         "images": [],
         "comments": []
@@ -3979,6 +4261,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1sq4y1p7HB?p=8"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "仙侠记【刀2】\n全auto321w",
+        "author": null,
+        "damage": {
+          "value": 3210000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1xM4y1N7h2?p=9"
         ],
         "images": [],
         "comments": []
@@ -4421,58 +4717,6 @@
   },
   {
     "boss": "C3",
-    "id": "ct320",
-    "characters": [
-      {
-        "id": 1036,
-        "requirements": []
-      },
-      {
-        "id": 1078,
-        "requirements": []
-      },
-      {
-        "id": 1088,
-        "requirements": []
-      },
-      {
-        "id": 1092,
-        "requirements": []
-      },
-      {
-        "id": 1103,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [],
-    "labels": [
-      "Auto"
-    ],
-    "standard_damage": 4100000,
-    "sources": [
-      {
-        "description": "黑暗中的光340w",
-        "author": null,
-        "damage": {
-          "value": 3400000,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1v44y117AU?from=search&seid=12053819056900110599"
-        ],
-        "images": [],
-        "comments": []
-      }
-    ]
-  },
-  {
-    "boss": "C3",
     "id": "ct317",
     "characters": [
       {
@@ -4518,7 +4762,21 @@
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1Ug41177Fm?p=12"
+          "https://www.bilibili.com/video/BV1Ug41177Fm?p=13"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "玖琉璃投稿\n12-5圣千\n半AUTO378w\n无轴",
+        "author": null,
+        "damage": {
+          "value": 3780000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Zh411q741"
         ],
         "images": [],
         "comments": []
@@ -4773,6 +5031,110 @@
   },
   {
     "boss": "C4",
+    "id": "C409",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "需要病娇毒斧尽量多暴击，水电情姐吃一些暴击什么的\n验轴人：STK（此轴尚未完善，如果第一次缩壳伤害不够会导致乱轴，需自行悟道）只有一条世界线，只要反伤不够就开启悟道模式了"
+    ],
+    "labels": [],
+    "standard_damage": 3900000,
+    "sources": [
+      {
+        "description": "花舞-永夜410w",
+        "author": null,
+        "damage": {
+          "value": 4100000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg4.docs.qq.com/image/Ek49sQi8Rqg1DtLDIBLZVg?w=1208&h=1138"
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "C406",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1096,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "440~464w"
+    ],
+    "labels": [],
+    "standard_damage": 4400000,
+    "sources": [
+      {
+        "description": "13-6忍扇\nTy外放\n参考伤害440~464w",
+        "author": null,
+        "damage": {
+          "value": null,
+          "low": 4400000,
+          "high": 4640000
+        },
+        "links": [
+          "https://docs.qq.com/sheet/DTHlObm9oR3VpSE1V?tab=BB08JG"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
     "id": "C404",
     "characters": [
       {
@@ -4865,6 +5227,112 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV19A411A7Qz/"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "C408",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1101,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "阴间法刀\n（半音的五个视频有四个是失败演示你们看着办）"
+    ],
+    "labels": [],
+    "standard_damage": 3200000,
+    "sources": [
+      {
+        "description": "FF半音327w\n视频有轴",
+        "author": "FF半音",
+        "damage": {
+          "value": 3270000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Xg41177R7?p=5"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "AUTO区",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1006,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "走投无路法\n这轴前面暴击多了就寄"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 2900000,
+    "sources": [
+      {
+        "description": "花舞-某歪312w评论有轴",
+        "author": "花舞-某歪",
+        "damage": {
+          "value": 3120000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1wP4y1x72u?from=search&seid=3040731881517825798"
         ],
         "images": [],
         "comments": []
@@ -5033,6 +5501,60 @@
   },
   {
     "boss": "C4",
+    "id": "ct414",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1096,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "108-102关自动"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3050000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n开关auto308w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 3080000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV16L411n7Nd?p=11"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
     "id": "ct411",
     "characters": [
       {
@@ -5080,6 +5602,45 @@
         "comments": []
       }
     ]
+  },
+  {
+    "boss": "C4",
+    "id": "ct415",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "情姐12-2 水电14-1 其他满 连点情姐511，其他不用管\n340-370左右"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3400000,
+    "sources": []
   },
   {
     "boss": "C4",
@@ -5318,7 +5879,7 @@
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1Ug41177Fm?p=9"
+          "https://www.bilibili.com/video/BV1Ug41177Fm?p=10"
         ],
         "images": [],
         "comments": []
@@ -5463,7 +6024,9 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "中后排强烈推荐，水老师我的女神\nxcw开心能上400w"
+    ],
     "labels": [
       "Auto"
     ],
@@ -5478,7 +6041,7 @@
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1Ug41177Fm?p=13"
+          "https://www.bilibili.com/video/BV1Ug41177Fm?p=14"
         ],
         "images": [],
         "comments": []
@@ -5516,7 +6079,7 @@
       "high": null
     },
     "comments": [
-      "后几秒可连点安跟水老师,考古伤害暂定"
+      "中后排强烈推荐，水老师我的女神"
     ],
     "labels": [
       "Auto"
@@ -5624,8 +6187,7 @@
       "high": null
     },
     "comments": [
-      "玩具喵轴370~蓝405w",
-      "449w内卷轴"
+      "玩具喵轴370~蓝405w"
     ],
     "labels": [],
     "standard_damage": 4300000,
@@ -5687,6 +6249,20 @@
         "comments": []
       },
       {
+        "description": "3★情xbg414w视频有轴",
+        "author": "xbg",
+        "damage": {
+          "value": 4140000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1PU4y1J7es?p=7"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
         "description": "14-1水电玩具喵402w视频有轴",
         "author": "玩具喵",
         "damage": {
@@ -5695,7 +6271,7 @@
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1gU4y1J7K5?p=5"
+          "https://www.bilibili.com/video/BV1gU4y1J7K5?p=7"
         ],
         "images": [],
         "comments": []
@@ -5743,17 +6319,147 @@
         "comments": []
       },
       {
-        "description": "云鬼449w内卷轴",
-        "author": "云鬼",
+        "description": "Ty外放\n参考伤害442~451w",
+        "author": null,
         "damage": {
-          "value": 4490000,
+          "value": null,
+          "low": 4420000,
+          "high": 4510000
+        },
+        "links": [
+          "https://docs.qq.com/sheet/DTHlObm9oR3VpSE1V?tab=abcv9v"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Q弹佩可稳定打法478w视频有轴",
+        "author": "Q弹佩可",
+        "damage": {
+          "value": 4780000,
           "low": null,
           "high": null
         },
-        "links": [],
-        "images": [
-          "https://docimg9.docs.qq.com/image/aY9KFVk36hKe4-I5Tr5OVQ?w=1294&h=1442"
+        "links": [
+          "https://www.bilibili.com/video/BV1ih411q7Y2"
         ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "4★情姐\n内鬼投稿433w\n评论有轴",
+        "author": null,
+        "damage": {
+          "value": 4330000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1rq4y1D7zm"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "C504",
+    "characters": [
+      {
+        "id": 1076,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "验轴人-西点：玩具喵这个轴511在053到048之间的横扫和竖批至少要爆一个才能活，不然必死。水白R10兼容。"
+    ],
+    "labels": [],
+    "standard_damage": 3700000,
+    "sources": [
+      {
+        "description": "玩具喵407w\n视频有轴",
+        "author": "玩具喵",
+        "damage": {
+          "value": 4070000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1gU4y1J7K5?p=6"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "C505",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4100000,
+    "sources": [
+      {
+        "description": "优化轴\n千北Guai457w视频有轴",
+        "author": "千北Guai",
+        "damage": {
+          "value": 4570000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1464y1B7cQ/"
+        ],
+        "images": [],
         "comments": []
       }
     ]
@@ -5789,8 +6495,7 @@
       "high": null
     },
     "comments": [
-      "5星圣千轴410~430w\n圣千默认3★，5★会标注\nR14水电",
-      "435w内卷轴"
+      "5星圣千轴410~430w\n圣千默认3★，5★会标注\nR14水电"
     ],
     "labels": [],
     "standard_damage": 3950000,
@@ -5880,17 +6585,31 @@
         "comments": []
       },
       {
-        "description": "云鬼-435w内卷轴",
-        "author": "云鬼",
+        "description": "11-5圣千Newfirefly投稿403w评论有轴",
+        "author": null,
         "damage": {
-          "value": 4350000,
+          "value": 4030000,
           "low": null,
           "high": null
         },
-        "links": [],
-        "images": [
-          "https://docimg4.docs.qq.com/image/wQV2RKC_NQkaVG3aF4isvA?w=2049&h=1955"
+        "links": [
+          "https://www.bilibili.com/video/BV1iP4y1x7Di"
         ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Ty外放\n参考伤害408~435w",
+        "author": null,
+        "damage": {
+          "value": null,
+          "low": 4080000,
+          "high": 4350000
+        },
+        "links": [
+          "https://docs.qq.com/sheet/DTHlObm9oR3VpSE1V?tab=BB08JH"
+        ],
+        "images": [],
         "comments": []
       }
     ]
@@ -5926,7 +6645,7 @@
       "high": null
     },
     "comments": [
-      "安星级理论3/4/5★通用，具体待测试\n目前验轴下限330w"
+      "安星级理论3/4/5★通用，具体待测试\n目前验轴下限330w\n启明的视频重新优化了一些地方"
     ],
     "labels": [],
     "standard_damage": 3600000,
@@ -6383,6 +7102,99 @@
   },
   {
     "boss": "C5",
+    "id": "ct517",
+    "characters": [
+      {
+        "id": 1042,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "稳定"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 2600000,
+    "sources": [
+      {
+        "description": "玩具喵【刀1】\n半auto264w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 2640000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Ug41177Fm?p=5"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct518",
+    "characters": [
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "纯AUTO"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 2600000,
+    "sources": []
+  },
+  {
+    "boss": "C5",
     "id": "ct512",
     "characters": [
       {
@@ -6426,7 +7238,7 @@
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1Ug41177Fm?p=5"
+          "https://www.bilibili.com/video/BV1Ug41177Fm?p=6"
         ],
         "images": [],
         "comments": []
@@ -6628,7 +7440,7 @@
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1Ug41177Fm?p=14"
+          "https://www.bilibili.com/video/BV1Ug41177Fm?p=15"
         ],
         "images": [],
         "comments": []
@@ -6702,6 +7514,99 @@
         "comments": []
       }
     ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct515",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "最后时间最好点下xcw跟安"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 2700000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全auto277w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 2770000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV16L411n7Nd?p=13"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct519",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1060,
+        "requirements": []
+      },
+      {
+        "id": 1015,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "纯AUTO"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 2600000,
+    "sources": []
   },
   {
     "boss": "C5",
@@ -6788,7 +7693,7 @@
       "high": null
     },
     "comments": [
-      "考古伤害暂定"
+      "花舞组验轴均伤258w 区间220~280w\n验轴人：STK"
     ],
     "labels": [
       "Auto"
@@ -6805,6 +7710,60 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1sV411W7gN?p=206"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct516",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1006,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "xcw最后UB可能需要点下"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 2700000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全auto273w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 2730000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV16L411n7Nd?p=12"
         ],
         "images": [],
         "comments": []
