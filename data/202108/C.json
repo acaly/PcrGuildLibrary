@@ -132,7 +132,7 @@
         "comments": []
       },
       {
-        "description": "Ty外放\n参考伤害447~453w多世界线",
+        "description": "Ty外放\n参考伤害447~453w\n多世界线",
         "author": null,
         "damage": {
           "value": null,
@@ -2323,7 +2323,7 @@
     },
     "comments": [],
     "labels": [],
-    "standard_damage": 4000000,
+    "standard_damage": 3800000,
     "sources": [
       {
         "description": "xbg432w\n视频有轴",
@@ -3107,6 +3107,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1wv411K7s3?p=6"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "C312",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "作者说稳，姑且暂时相信他吧"
+    ],
+    "labels": [],
+    "standard_damage": 3800000,
+    "sources": [
+      {
+        "description": "花舞-和奏408w轴是左图",
+        "author": null,
+        "damage": {
+          "value": 4080000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/bv1if4y1V7Mk"
         ],
         "images": [],
         "comments": []
@@ -6359,6 +6411,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "14-1水电优化轴\n千北Guai457w视频有轴",
+        "author": "千北Guai",
+        "damage": {
+          "value": 4570000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1464y1B7cQ/"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -6408,56 +6474,6 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1gU4y1J7K5?p=6"
-        ],
-        "images": [],
-        "comments": []
-      }
-    ]
-  },
-  {
-    "boss": "C5",
-    "id": "C505",
-    "characters": [
-      {
-        "id": 1103,
-        "requirements": []
-      },
-      {
-        "id": 1091,
-        "requirements": []
-      },
-      {
-        "id": 1071,
-        "requirements": []
-      },
-      {
-        "id": 1027,
-        "requirements": []
-      },
-      {
-        "id": 1043,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [],
-    "labels": [],
-    "standard_damage": 4100000,
-    "sources": [
-      {
-        "description": "优化轴\n千北Guai457w视频有轴",
-        "author": "千北Guai",
-        "damage": {
-          "value": 4570000,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1464y1B7cQ/"
         ],
         "images": [],
         "comments": []
