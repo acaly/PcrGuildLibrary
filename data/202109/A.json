@@ -4974,6 +4974,60 @@
   },
   {
     "boss": "A4",
+    "id": "at415",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1701,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "半auto"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5200000,
+    "sources": [
+      {
+        "description": " 利維亚的傑洛特519w简介有说明",
+        "author": null,
+        "damage": {
+          "value": 5190000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1xb4y1m7tY/"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A4",
     "id": "at414",
     "characters": [
       {
@@ -5656,7 +5710,7 @@
   },
   {
     "boss": "A4",
-    "id": "at407",
+    "id": "编号",
     "characters": [
       {
         "id": 1036,
@@ -5677,6 +5731,50 @@
       {
         "id": 1095,
         "requirements": []
+      },
+      {
+        "id": 0,
+        "requirements": []
+      },
+      {
+        "id": 0,
+        "requirements": []
+      },
+      {
+        "id": 0,
+        "requirements": []
+      },
+      {
+        "id": 0,
+        "requirements": []
+      },
+      {
+        "id": 0,
+        "requirements": []
+      },
+      {
+        "id": 0,
+        "requirements": []
+      },
+      {
+        "id": 0,
+        "requirements": []
+      },
+      {
+        "id": 0,
+        "requirements": []
+      },
+      {
+        "id": 0,
+        "requirements": []
+      },
+      {
+        "id": 0,
+        "requirements": []
+      },
+      {
+        "id": 0,
+        "requirements": []
       }
     ],
     "time": {
@@ -5685,7 +5783,9 @@
       "high": null
     },
     "comments": [
-      "考古伤害暂定\n显示视频不见请F5刷新"
+      "考古伤害暂定\n显示视频不见请F5刷新",
+      "备注",
+      "Rank星级请以轴or视频为标准，注意甄别烟雾弹\n参考伤害由于变数过多，上下限请自行按自己box练度测试"
     ],
     "labels": [
       "Auto"
