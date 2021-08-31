@@ -1174,7 +1174,7 @@
       "high": null
     },
     "comments": [
-      "考古伤害暂定\r\n显示视频不见请F5刷新"
+      "考古伤害暂定\n显示视频不见请F5刷新"
     ],
     "labels": [
       "Auto"
@@ -3456,6 +3456,70 @@
   },
   {
     "boss": "A3",
+    "id": "A306",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1015,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4500000,
+    "sources": [
+      {
+        "description": "千城忆梦\n434w无轴",
+        "author": null,
+        "damage": {
+          "value": 4340000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UU4y1j7At/"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": " FD丶矮冷474w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 4740000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1NL4y1Y76q"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A3",
     "id": "at312",
     "characters": [
       {
@@ -4786,6 +4850,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV17f4y1N7GZ?p=6"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": " FD丶矮冷625w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 6250000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SL4y1Y7Ry"
         ],
         "images": [],
         "comments": []
