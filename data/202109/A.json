@@ -34,7 +34,36 @@
     ],
     "labels": [],
     "standard_damage": 6000000,
-    "sources": []
+    "sources": [
+      {
+        "description": "Sora\n600w返15s\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 6000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1C64y1a7w2?p=1"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "阿联酋\n600w返13s\n视频有轴",
+        "author": "阿联酋",
+        "damage": {
+          "value": 6000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1af4y1N7u2?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "A1",
@@ -71,7 +100,22 @@
     ],
     "labels": [],
     "standard_damage": 6000000,
-    "sources": []
+    "sources": [
+      {
+        "description": "5★水狼\n花舞-无糖加冰\n600w返13s\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 6000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1eQ4y1h7QX?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "A1",
@@ -108,7 +152,22 @@
     ],
     "labels": [],
     "standard_damage": 6000000,
-    "sources": []
+    "sources": [
+      {
+        "description": "3★水狼\n阿联酋\n600w返13s\n视频有轴",
+        "author": "阿联酋",
+        "damage": {
+          "value": 6000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1af4y1N7u2?from=search&seid=2514955294416232510"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "A1",
@@ -143,7 +202,22 @@
     "comments": [],
     "labels": [],
     "standard_damage": 6000000,
-    "sources": []
+    "sources": [
+      {
+        "description": "5★水狼\n花舞-阿尔托利亚600w返11s\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 6000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV17f4y1N7GZ?from=search&seid=2485648598039764197"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "A1",
@@ -178,7 +252,22 @@
     "comments": [],
     "labels": [],
     "standard_damage": 6000000,
-    "sources": []
+    "sources": [
+      {
+        "description": "5★水狼\n花舞-阿尔托利亚600w返11s\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 6000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV17f4y1N7GZ?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "A1",
@@ -923,6 +1012,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1af4y1N7u2?p=3"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "4★水狼\n花舞-忧默628w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 6280000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/av762686747"
         ],
         "images": [],
         "comments": []
