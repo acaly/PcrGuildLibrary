@@ -32,7 +32,114 @@
     "comments": [],
     "labels": [],
     "standard_damage": 5300000,
-    "sources": []
+    "sources": [
+      {
+        "description": "花舞-忧默\n532w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5320000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1PL4y1Y7ui"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Sora534w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 5340000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Bq4y1K7pS"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "阿联酋527w\n视频有轴",
+        "author": "阿联酋",
+        "damage": {
+          "value": 5270000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1zq4y1K7ZZ?from=search&seid=14825189761781010479"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖×艺人524w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5240000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1dU4y1j7f9?from=search&seid=14825189761781010479"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "C102",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4450000,
+    "sources": [
+      {
+        "description": "花舞-无糖×艺人461w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 4610000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1dU4y1j7f9?p=2&spm_id_from=pageDriver"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "C1",
@@ -468,6 +575,84 @@
   },
   {
     "boss": "C2",
+    "id": "C204",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5200000,
+    "sources": [
+      {
+        "description": "Sora537w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 5370000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Bq4y1K7pS?p=2"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "阿联酋521w\n视频有轴",
+        "author": "阿联酋",
+        "damage": {
+          "value": 5210000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1zq4y1K7ZZ?p=2&spm_id_from=pageDriver"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖×艺人461w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 4610000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1dU4y1j7f9?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
     "id": "C201",
     "characters": [
       {
@@ -496,10 +681,27 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "稳定成刀"
+    ],
     "labels": [],
-    "standard_damage": 5000000,
-    "sources": []
+    "standard_damage": 4900000,
+    "sources": [
+      {
+        "description": "花舞-忧默489w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 4890000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hb4y1m7uk"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "C2",
@@ -535,6 +737,70 @@
     "labels": [],
     "standard_damage": 4700000,
     "sources": []
+  },
+  {
+    "boss": "C2",
+    "id": "C205",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5100000,
+    "sources": [
+      {
+        "description": "Sora545w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 5450000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Bq4y1K7pS?p=3"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "阿联酋499w\n视频有轴",
+        "author": "阿联酋",
+        "damage": {
+          "value": 4990000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1zq4y1K7ZZ?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "C2",
@@ -1036,7 +1302,36 @@
     "comments": [],
     "labels": [],
     "standard_damage": 4000000,
-    "sources": []
+    "sources": [
+      {
+        "description": "花舞-无糖×艺人453w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 4530000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1dU4y1j7f9?p=5"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-忧默440w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 4400000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/bv1XU4y1j7Pa"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "C3",
@@ -1072,6 +1367,138 @@
     "labels": [],
     "standard_damage": 3900000,
     "sources": []
+  },
+  {
+    "boss": "C3",
+    "id": "C303",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1015,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "Sora轴水黑138级\n450~500w 看xcw心情"
+    ],
+    "labels": [],
+    "standard_damage": 4500000,
+    "sources": [
+      {
+        "description": "4★安\nSora480w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 4800000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Bq4y1K7pS?p=6"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "4★安\n阿联酋445w\n视频有轴",
+        "author": "阿联酋",
+        "damage": {
+          "value": 4450000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1zq4y1K7ZZ?p=4"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖×艺人469w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 4690000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1dU4y1j7f9?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "C304",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "春田减攻低于95级\n480~505w"
+    ],
+    "labels": [],
+    "standard_damage": 4900000,
+    "sources": [
+      {
+        "description": "4★安\nSora535w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 5350000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Bq4y1K7pS?p=8"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "C3",
@@ -1305,6 +1732,72 @@
   },
   {
     "boss": "C4",
+    "id": "C405",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1056,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "版本答案之一，但不大筛是筛不出成刀的\n没那个筛刀条件就别排这刀，建议先看看成刀理论\n寄线底伤可能低于400w"
+    ],
+    "labels": [],
+    "standard_damage": 4800000,
+    "sources": [
+      {
+        "description": "Sora513w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 5130000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Bq4y1K7pS?p=4"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "双世界线 阿联酋435w/511w\n视频有轴",
+        "author": "阿联酋",
+        "damage": {
+          "value": 4350000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1zq4y1K7ZZ?p=6"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
     "id": "C401",
     "characters": [
       {
@@ -1333,10 +1826,55 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "真·版本答案"
+    ],
     "labels": [],
     "standard_damage": 4500000,
-    "sources": []
+    "sources": [
+      {
+        "description": "花舞-忧默451w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 4510000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1N3411z7hr"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Sora452w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 4520000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Bq4y1K7pS?p=7"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "阿联酋469w\n视频有轴",
+        "author": "阿联酋",
+        "damage": {
+          "value": 4690000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1zq4y1K7ZZ?p=5"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "C4",
@@ -1912,7 +2450,50 @@
     "comments": [],
     "labels": [],
     "standard_damage": 4450000,
-    "sources": []
+    "sources": [
+      {
+        "description": "3★安\n花舞-忧默448w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 4480000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV19Q4y1h7Hg"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "3★安\nSora450w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 4500000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Bq4y1K7pS?p=5"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "3★安\n花舞-无糖×艺人465w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 4650000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1dU4y1j7f9?p=6"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "C5",
@@ -1950,6 +2531,56 @@
     "labels": [],
     "standard_damage": 3450000,
     "sources": []
+  },
+  {
+    "boss": "C5",
+    "id": "C503",
+    "characters": [
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4400000,
+    "sources": [
+      {
+        "description": "3★安\n花舞-无糖×艺人445w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 4450000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1dU4y1j7f9?p=7"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "C5",
