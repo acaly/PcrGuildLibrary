@@ -399,10 +399,10 @@
   },
   {
     "boss": "C1",
-    "id": "ct111",
+    "id": "ct116",
     "characters": [
       {
-        "id": 1038,
+        "id": 1701,
         "requirements": []
       },
       {
@@ -431,7 +431,61 @@
     "labels": [
       "Auto"
     ],
-    "standard_damage": 3900000,
+    "standard_damage": 4000000,
+    "sources": [
+      {
+        "description": "花舞-仙侠记\n【二物 刀2】\n全auto420w",
+        "author": "花舞-仙侠记",
+        "damage": {
+          "value": 4200000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1YQ4y117T2?p=6"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "ct111",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "参考伤害修正：390→385  验轴人：玖璃梦\n狼第2第3个UB不暴击就寄，寄了伤害360~370w左右\n均伤385，测试十次狼寄了一次，还有两次最后一秒寄"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3850000,
     "sources": [
       {
         "description": "江风渔火\n全auto396w",
@@ -509,6 +563,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1af4y1N7p7?p=2"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-仙侠记\n【二物 刀1】\n全auto433w",
+        "author": "花舞-仙侠记",
+        "damage": {
+          "value": 4330000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1YQ4y117T2?p=2"
         ],
         "images": [],
         "comments": []
@@ -1164,6 +1232,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "花舞-仙侠记\n【二物 刀3】\n连点auto430w",
+        "author": "花舞-仙侠记",
+        "damage": {
+          "value": 4300000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1YQ4y117T2?p=11"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -1686,6 +1768,20 @@
         "comments": []
       },
       {
+        "description": "花舞-仙侠记\n【二物 刀1】\n全auto462w",
+        "author": "花舞-仙侠记",
+        "damage": {
+          "value": 4620000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1YQ4y117T2?p=3"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
         "description": "江风渔火\n全auto485w",
         "author": null,
         "damage": {
@@ -1731,14 +1827,16 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "半auto"
+    ],
     "labels": [
       "Auto"
     ],
     "standard_damage": 4200000,
     "sources": [
       {
-        "description": "是katsuto啊\n连点auto478w",
+        "description": "是katsuto啊\n半auto478w\n视频有轴",
         "author": null,
         "damage": {
           "value": 4780000,
@@ -2024,6 +2122,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "花舞-仙侠记\n【二物 刀2】\n全auto426w",
+        "author": "花舞-仙侠记",
+        "damage": {
+          "value": 4260000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1YQ4y117T2?p=7"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -2177,6 +2289,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Hf4y1N7sS?p=5"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-仙侠记\n【二物 刀3】\n连点auto420w",
+        "author": "花舞-仙侠记",
+        "damage": {
+          "value": 4200000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1YQ4y117T2?p=12"
         ],
         "images": [],
         "comments": []
@@ -3116,6 +3242,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "花舞-仙侠记\n【二物 刀3】\n全auto372w",
+        "author": "花舞-仙侠记",
+        "damage": {
+          "value": 3720000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1YQ4y117T2?p=13"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -3267,6 +3407,60 @@
   },
   {
     "boss": "C3",
+    "id": "ct314",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "非常不稳定：全程连点黄骑，最后几秒连点安(5*)"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3700000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n连点auto384w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 3840000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1rf4y1H7wK?p=9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
     "id": "ct303",
     "characters": [
       {
@@ -3295,9 +3489,7 @@
       "low": null,
       "high": null
     },
-    "comments": [
-      "考古伤害暂定,视频r14水电\n显示视频不见请F5刷新"
-    ],
+    "comments": [],
     "labels": [
       "Auto"
     ],
@@ -3313,6 +3505,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1kq4y1K7eP?p=7"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-仙侠记\n【二物 刀1】\n全auto344w",
+        "author": "花舞-仙侠记",
+        "damage": {
+          "value": 3440000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1YQ4y117T2?p=4"
         ],
         "images": [],
         "comments": []
@@ -3393,6 +3599,112 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1af4y1N7p7?p=12"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "ct313",
+    "characters": [
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3350000,
+    "sources": [
+      {
+        "description": "花舞-云烨朱云\n全auto343w",
+        "author": "花舞-云烨朱云",
+        "damage": {
+          "value": 3430000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV12Q4y1h7aW/"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "ct304",
+    "characters": [
+      {
+        "id": 1028,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "考古伤害暂定\n显示视频不见请F5刷新"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 2800000,
+    "sources": [
+      {
+        "description": "乔斯特立独行\n搬运\n全auto282w",
+        "author": null,
+        "damage": {
+          "value": 2820000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1j3411z7ib?p=148&spm_id_from=pageDriver"
         ],
         "images": [],
         "comments": []
@@ -3519,6 +3831,58 @@
   },
   {
     "boss": "C3",
+    "id": "ct315",
+    "characters": [
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3400000,
+    "sources": [
+      {
+        "description": "花舞-仙侠记\n【二物 刀2】\n全auto340w",
+        "author": "花舞-仙侠记",
+        "damage": {
+          "value": 3400000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1YQ4y117T2?p=8"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
     "id": "ct309",
     "characters": [
       {
@@ -3563,60 +3927,6 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1rf4y1H7wK?p=6"
-        ],
-        "images": [],
-        "comments": []
-      }
-    ]
-  },
-  {
-    "boss": "C3",
-    "id": "ct304",
-    "characters": [
-      {
-        "id": 1028,
-        "requirements": []
-      },
-      {
-        "id": 1034,
-        "requirements": []
-      },
-      {
-        "id": 1104,
-        "requirements": []
-      },
-      {
-        "id": 1043,
-        "requirements": []
-      },
-      {
-        "id": 1017,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [
-      "考古伤害暂定\n显示视频不见请F5刷新"
-    ],
-    "labels": [
-      "Auto"
-    ],
-    "standard_damage": 2800000,
-    "sources": [
-      {
-        "description": "乔斯特立独行\n搬运\n全auto282w",
-        "author": null,
-        "damage": {
-          "value": 2820000,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1j3411z7ib?p=148&spm_id_from=pageDriver"
         ],
         "images": [],
         "comments": []
@@ -3775,58 +4085,6 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1rf4y1H7wK?p=7"
-        ],
-        "images": [],
-        "comments": []
-      }
-    ]
-  },
-  {
-    "boss": "C3",
-    "id": "ct313",
-    "characters": [
-      {
-        "id": 1034,
-        "requirements": []
-      },
-      {
-        "id": 1031,
-        "requirements": []
-      },
-      {
-        "id": 1071,
-        "requirements": []
-      },
-      {
-        "id": 1043,
-        "requirements": []
-      },
-      {
-        "id": 1061,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [],
-    "labels": [
-      "Auto"
-    ],
-    "standard_damage": 3350000,
-    "sources": [
-      {
-        "description": "花舞-云烨朱云\n全auto343w",
-        "author": "花舞-云烨朱云",
-        "damage": {
-          "value": 3430000,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV12Q4y1h7aW/"
         ],
         "images": [],
         "comments": []
@@ -4043,6 +4301,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1T44y187sV?p=5"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "C406",
+    "characters": [
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1032,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "惯例整活\n或许还能救命"
+    ],
+    "labels": [],
+    "standard_damage": 3500000,
+    "sources": [
+      {
+        "description": "花舞-樱岛麻衣355w视频有轴",
+        "author": "花舞-樱岛麻衣",
+        "damage": {
+          "value": 3550000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV17f4y1N7eP?p=4"
         ],
         "images": [],
         "comments": []
@@ -4358,6 +4668,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "花舞-仙侠记\n【二物 刀2】\n全auto372w",
+        "author": "花舞-仙侠记",
+        "damage": {
+          "value": 3720000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1YQ4y117T2?p=9"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -4409,6 +4733,60 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1j3411z7ib?p=191"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "ct417",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "视频有多世界线伤害详情"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3400000,
+    "sources": [
+      {
+        "description": "花舞-仙侠记\n【二物 刀1】\n连点auto352w",
+        "author": "花舞-仙侠记",
+        "damage": {
+          "value": 3520000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1YQ4y117T2?p=5"
         ],
         "images": [],
         "comments": []
@@ -5297,7 +5675,9 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "主要是解决box问题\n但是yly暴毙率估算有三成，耗子尾汁"
+    ],
     "labels": [],
     "standard_damage": 4400000,
     "sources": [
@@ -5569,7 +5949,9 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "验轴人：玖璃梦\n全程连点安 均伤324w\n验轴用的138级水黑"
+    ],
     "labels": [
       "Auto"
     ],
@@ -5641,6 +6023,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1kq4y1K7eP?p=9"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-仙侠记\n【二物 刀3】\n连点auto330w",
+        "author": "花舞-仙侠记",
+        "damage": {
+          "value": 3300000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1YQ4y117T2?p=14"
         ],
         "images": [],
         "comments": []
@@ -5789,6 +6185,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1af4y1N7p7?p=20"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-仙侠记\n【二物 刀2】\n全auto274w",
+        "author": "花舞-仙侠记",
+        "damage": {
+          "value": 2740000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1YQ4y117T2?p=10"
         ],
         "images": [],
         "comments": []
