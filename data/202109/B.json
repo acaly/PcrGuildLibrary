@@ -2686,7 +2686,7 @@
       "high": null
     },
     "comments": [
-      "倾家散轴救众生\n粗轴，能救多少人随缘，感觉也救不了人\r\n摸轴人 花舞-忧默"
+      "倾家散轴救众生\n粗轴，能救多少人随缘，感觉也救不了人\n摸轴人 花舞-忧默   优化变现人 花舞-永夜之殇"
     ],
     "labels": [],
     "standard_damage": 4900000,
@@ -3198,25 +3198,21 @@
       "low": null,
       "high": null
     },
-    "comments": [
-      "考古伤害暂定，最后可能要点下狼\n显示视频不见请F5刷新"
-    ],
+    "comments": [],
     "labels": [
       "Auto"
     ],
-    "standard_damage": 3400000,
+    "standard_damage": 3700000,
     "sources": [
       {
-        "description": "乔斯特立独行\n搬运\n全auto342w",
+        "description": "Dominance\n半auto370w",
         "author": null,
         "damage": {
-          "value": 3420000,
+          "value": 3700000,
           "low": null,
           "high": null
         },
-        "links": [
-          "https://www.bilibili.com/video/BV1j3411z7ib?p=58"
-        ],
+        "links": [],
         "images": [],
         "comments": []
       }
