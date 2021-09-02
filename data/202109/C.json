@@ -533,11 +533,13 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "参考伤害修正：450→440  验轴人：STK\n（连点轴）均伤440w"
+    ],
     "labels": [
       "Auto"
     ],
-    "standard_damage": 4500000,
+    "standard_damage": 4400000,
     "sources": [
       {
         "description": "玩具喵【刀1】\n连点auto452w",
@@ -773,7 +775,9 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "验轴人：STK\n全auto均伤381w"
+    ],
     "labels": [
       "Auto"
     ],
@@ -945,11 +949,13 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "参考伤害修正：375→380 \n验轴人：STK（全满配全auto最后抢水狐狸UB）\n均伤384w"
+    ],
     "labels": [
       "Auto"
     ],
-    "standard_damage": 3750000,
+    "standard_damage": 3800000,
     "sources": [
       {
         "description": "玩具喵【刀3】\n连点auto370w",
@@ -1623,6 +1629,58 @@
   },
   {
     "boss": "C2",
+    "id": "C207",
+    "characters": [
+      {
+        "id": 1100,
+        "requirements": []
+      },
+      {
+        "id": 1701,
+        "requirements": []
+      },
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "作者：全程连点普狼氵狼环奈氵爆（氵爆必须连点，001多UB，破甲溢出可全部卡掉狼吼）（不连点忍只是因为怕卡掉骷髅）（004环奈可以不用连点，压剑气）"
+    ],
+    "labels": [],
+    "standard_damage": 4100000,
+    "sources": [
+      {
+        "description": "430钢琴手\n地鼠轴443w\n简介评论有说明",
+        "author": null,
+        "damage": {
+          "value": 4430000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1R3411B7Yu"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
     "id": "ct201",
     "characters": [
       {
@@ -1652,12 +1710,12 @@
       "high": null
     },
     "comments": [
-      "考古伤害暂定\n显示视频不见请F5刷新"
+      "参考伤害修正：495→480\n验轴人：STK（全auto，最后抢一下狼和水狼）\n均伤482w"
     ],
     "labels": [
       "Auto"
     ],
-    "standard_damage": 4950000,
+    "standard_damage": 4800000,
     "sources": [
       {
         "description": "乔斯特立独行\n搬运\n全auto498w",
@@ -1705,7 +1763,9 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "验轴人：STK\n（酷乐连点轴）511第二次拔刀如果暴击少了可能会寄\n测试10次511寄2次 均伤478w"
+    ],
     "labels": [
       "Auto"
     ],
@@ -2394,12 +2454,12 @@
       "high": null
     },
     "comments": [
-      "考古伤害暂定\n显示视频不见请F5刷新"
+      "参考伤害修正：400→420\n验轴人：STK\n均伤423w"
     ],
     "labels": [
       "Auto"
     ],
-    "standard_damage": 4000000,
+    "standard_damage": 4200000,
     "sources": [
       {
         "description": "乔斯特立独行\n搬运\n全auto407w",
@@ -2921,6 +2981,56 @@
         "images": [
           "https://docimg5.docs.qq.com/image/RF8lwuf7zI3DqKEYqulpOQ.png?w=1123&h=972"
         ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "C306",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 3900000,
+    "sources": [
+      {
+        "description": " Haxhii\n390w评论有轴",
+        "author": null,
+        "damage": {
+          "value": 3900000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1M34y1Q7Gd?p=1&share_medium=android&share_plat=android&share_session_id=d78588e3-eccf-47a6-931f-2d8ad5d66b2d&share_source=COPY&share_tag=s_i&timestamp=1630553006&unique_k=4zY3ZZ"
+        ],
+        "images": [],
         "comments": []
       }
     ]
@@ -3807,11 +3917,13 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "参考伤害修正：280→285\n验轴人：樱岛麻衣\n均伤287w"
+    ],
     "labels": [
       "Auto"
     ],
-    "standard_damage": 2800000,
+    "standard_damage": 2850000,
     "sources": [
       {
         "description": "川包\n全auto289w",
@@ -4015,11 +4127,13 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "参考伤害修正：350→375\n验轴人：STK\n均伤379w"
+    ],
     "labels": [
       "Auto"
     ],
-    "standard_damage": 3500000,
+    "standard_damage": 3750000,
     "sources": [
       {
         "description": "川包\n半auto377w",
@@ -4301,6 +4415,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1T44y187sV?p=5"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "千北Guai473w视频、评论有轴",
+        "author": "千北Guai",
+        "damage": {
+          "value": 4730000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV19h411W7zg#reply5319599428"
         ],
         "images": [],
         "comments": []
@@ -4716,23 +4844,23 @@
       "high": null
     },
     "comments": [
-      "考古伤害暂定,最后几秒黑骑减员\n显示视频不见请F5刷新"
+      "视频水猫专武50级"
     ],
     "labels": [
       "Auto"
     ],
-    "standard_damage": 4000000,
+    "standard_damage": 3800000,
     "sources": [
       {
-        "description": "乔斯特立独行\n搬运\n全auto400w",
+        "description": "落月_瑶情390w",
         "author": null,
         "damage": {
-          "value": 4000000,
+          "value": 3900000,
           "low": null,
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1j3411z7ib?p=191"
+          "https://www.bilibili.com/video/BV1944y187o8/"
         ],
         "images": [],
         "comments": []
@@ -5104,7 +5232,7 @@
       "high": null
     },
     "comments": [
-      "考古伤害暂定\r\n显示视频不见请F5刷新"
+      "验轴人：STK（狼暴击少后面可能会寄，影响不大）\n均伤 346w"
     ],
     "labels": [
       "Auto"
@@ -5639,6 +5767,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1T44y187sV?p=6"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "春田11-3一技能1级，4★安\nV丶Shen424w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 4240000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1jL4y1Y7dD?from=search&seid=11517407188711575672"
         ],
         "images": [],
         "comments": []
