@@ -1,1 +1,485 @@
-[]
+[
+  {
+    "boss": "B1",
+    "id": "B100",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1037,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "返21~23s"
+    ],
+    "labels": [],
+    "standard_damage": 6000000,
+    "sources": []
+  },
+  {
+    "boss": "B1",
+    "id": "B102",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "返21~22s\n14-4水狼"
+    ],
+    "labels": [],
+    "standard_damage": 6000000,
+    "sources": []
+  },
+  {
+    "boss": "B1",
+    "id": "B101",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "4★安 返22s"
+    ],
+    "labels": [],
+    "standard_damage": 6000000,
+    "sources": []
+  },
+  {
+    "boss": "B2",
+    "id": "B201",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 6300000,
+    "sources": [
+      {
+        "description": "花舞-忧默632w",
+        "author": null,
+        "damage": {
+          "value": 6320000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg1.docs.qq.com/image/ujrQhDXNnwVefHTvXGpCOQ.png?w=1013&h=885"
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B2",
+    "id": "B202",
+    "characters": [
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "14-4病娇"
+    ],
+    "labels": [],
+    "standard_damage": 5550000,
+    "sources": [
+      {
+        "description": "花舞-某歪559w",
+        "author": "花舞-某歪",
+        "damage": {
+          "value": 5590000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg9.docs.qq.com/image/wJLlojSXJby4cnhohLM_GQ.png?w=1014&h=933"
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B3",
+    "id": "B301",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "留意练度"
+    ],
+    "labels": [],
+    "standard_damage": 6250000,
+    "sources": [
+      {
+        "description": "花舞-忧默629w",
+        "author": null,
+        "damage": {
+          "value": 6290000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg9.docs.qq.com/image/KuSBCVwWtrDqbXll9N_CAg.png?w=1101&h=869"
+        ],
+        "comments": []
+      },
+      {
+        "description": "4★安 3★NNK\nSora宝\n655w视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 6550000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV16v411G7oX?p=11"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
+    "id": "B401",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5750000,
+    "sources": [
+      {
+        "description": "花舞-忧默575w",
+        "author": null,
+        "damage": {
+          "value": 5750000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg6.docs.qq.com/image/t8hJ59CoC_GCtpCsNTESPg.png?w=1097&h=1026"
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
+    "id": "B402",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 6300000,
+    "sources": [
+      {
+        "description": "Sora宝\n629w视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 6290000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV16v411G7oX?p=8"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B5",
+    "id": "B504",
+    "characters": [
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1060,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "5★14-4.6 NNK 安"
+    ],
+    "labels": [],
+    "standard_damage": 5900000,
+    "sources": [
+      {
+        "description": "Sora宝\n590w视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 5900000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV16v411G7oX?p=9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B5",
+    "id": "B503",
+    "characters": [
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1060,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "R9水电\n5★14-5NNK"
+    ],
+    "labels": [],
+    "standard_damage": 5800000,
+    "sources": [
+      {
+        "description": "Sora宝\n593w视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 5930000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV16v411G7oX?p=10"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  }
+]
