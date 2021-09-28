@@ -312,7 +312,9 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "*目前川包的所有视频都没有模拟战/实战，只有轴"
+    ],
     "labels": [
       "Auto"
     ],
@@ -555,7 +557,7 @@
     "standard_damage": 5200000,
     "sources": [
       {
-        "description": "Daemonlucifer\n520w",
+        "description": "Daemonlucifer\n纯auto520w",
         "author": null,
         "damage": {
           "value": 5200000,
@@ -711,7 +713,7 @@
     "standard_damage": 5620000,
     "sources": [
       {
-        "description": "Daemonlucifer\n562w",
+        "description": "Daemonlucifer\n纯auto562w",
         "author": null,
         "damage": {
           "value": 5620000,
@@ -765,7 +767,7 @@
     "standard_damage": 5550000,
     "sources": [
       {
-        "description": "江风渔火\n555w",
+        "description": "江风渔火\n纯auto555w",
         "author": null,
         "damage": {
           "value": 5550000,
@@ -869,7 +871,7 @@
     "standard_damage": 5480000,
     "sources": [
       {
-        "description": "江风渔火\n548w",
+        "description": "江风渔火\n纯auto548w",
         "author": null,
         "damage": {
           "value": 5480000,
@@ -921,7 +923,7 @@
     "standard_damage": 5440000,
     "sources": [
       {
-        "description": "江风渔火\n544w",
+        "description": "江风渔火\n纯auto544w",
         "author": null,
         "damage": {
           "value": 5440000,
@@ -973,7 +975,7 @@
     "standard_damage": 5290000,
     "sources": [
       {
-        "description": "Daemonlucifer\n529w",
+        "description": "Daemonlucifer\n纯auto529w",
         "author": null,
         "damage": {
           "value": 5290000,
@@ -1633,7 +1635,7 @@
     "standard_damage": 5390000,
     "sources": [
       {
-        "description": "江风渔火\n539w",
+        "description": "江风渔火\n纯auto539w",
         "author": null,
         "damage": {
           "value": 5390000,
@@ -1803,7 +1805,7 @@
     "standard_damage": 5520000,
     "sources": [
       {
-        "description": "4★水猫\n江风渔火\n552w",
+        "description": "4★水猫\n江风渔火\n纯auto552w",
         "author": null,
         "damage": {
           "value": 5520000,
@@ -1857,7 +1859,7 @@
     "standard_damage": 5420000,
     "sources": [
       {
-        "description": "Daemonlucifer\n542w",
+        "description": "Daemonlucifer\n纯auto542w",
         "author": null,
         "damage": {
           "value": 5420000,
@@ -1961,7 +1963,7 @@
     "standard_damage": 5130000,
     "sources": [
       {
-        "description": "Daemonlucifer\n513w",
+        "description": "Daemonlucifer\n纯auto513w",
         "author": null,
         "damage": {
           "value": 5130000,
@@ -2013,7 +2015,7 @@
     "standard_damage": 5730000,
     "sources": [
       {
-        "description": "Daemonlucifer\n573w",
+        "description": "Daemonlucifer\n纯auto573w",
         "author": null,
         "damage": {
           "value": 5730000,
@@ -2166,56 +2168,6 @@
   },
   {
     "boss": "A3",
-    "id": "A302",
-    "characters": [
-      {
-        "id": 1036,
-        "requirements": []
-      },
-      {
-        "id": 1078,
-        "requirements": []
-      },
-      {
-        "id": 1070,
-        "requirements": []
-      },
-      {
-        "id": 1092,
-        "requirements": []
-      },
-      {
-        "id": 1044,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [],
-    "labels": [],
-    "standard_damage": 6000000,
-    "sources": [
-      {
-        "description": "韭月初八\n半auto636w\n简介有轴",
-        "author": "韭月初八",
-        "damage": {
-          "value": 6360000,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1zT4y1Z7fc?spm_id_from=444.41.0.0"
-        ],
-        "images": [],
-        "comments": []
-      }
-    ]
-  },
-  {
-    "boss": "A3",
     "id": "at301",
     "characters": [
       {
@@ -2251,7 +2203,7 @@
     "standard_damage": 6000000,
     "sources": [
       {
-        "description": "川包\n635w",
+        "description": "川包\n半auto635w",
         "author": "川包",
         "damage": {
           "value": 6350000,
@@ -2310,6 +2262,110 @@
   },
   {
     "boss": "A3",
+    "id": "at315",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5300000,
+    "sources": [
+      {
+        "description": "蓬莱山逸\n半auto537w",
+        "author": null,
+        "damage": {
+          "value": 5370000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1of4y1F7vE?p=7"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A3",
+    "id": "at314",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6000000,
+    "sources": [
+      {
+        "description": "韭月初八\n半auto636w",
+        "author": "韭月初八",
+        "damage": {
+          "value": 6360000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1zT4y1Z7fc?spm_id_from=444.41.0.0"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A3",
     "id": "at310",
     "characters": [
       {
@@ -2345,7 +2401,7 @@
     "standard_damage": 5510000,
     "sources": [
       {
-        "description": "Daemonlucifer\n551w",
+        "description": "Daemonlucifer\n纯auto551w",
         "author": null,
         "damage": {
           "value": 5510000,
@@ -2397,7 +2453,7 @@
     "standard_damage": 5250000,
     "sources": [
       {
-        "description": "川包\n525w",
+        "description": "川包\n半auto525w",
         "author": "川包",
         "damage": {
           "value": 5250000,
@@ -2619,7 +2675,7 @@
     "standard_damage": 5150000,
     "sources": [
       {
-        "description": "川包\n490-540w",
+        "description": "川包\n半auto490-540w",
         "author": "川包",
         "damage": {
           "value": null,
@@ -2775,7 +2831,7 @@
     "standard_damage": 5100000,
     "sources": [
       {
-        "description": "川包\n480-540w",
+        "description": "川包\n半auto480-540w",
         "author": "川包",
         "damage": {
           "value": null,
@@ -2881,7 +2937,7 @@
     "standard_damage": 4750000,
     "sources": [
       {
-        "description": "Daemonlucifer\n475w",
+        "description": "Daemonlucifer\n纯auto475w",
         "author": null,
         "damage": {
           "value": 4750000,
@@ -2935,7 +2991,7 @@
     "standard_damage": 5050000,
     "sources": [
       {
-        "description": "Daemonlucifer\n505w",
+        "description": "Daemonlucifer\n纯auto505w",
         "author": null,
         "damage": {
           "value": 5050000,
@@ -3261,7 +3317,7 @@
     "standard_damage": 5800000,
     "sources": [
       {
-        "description": "川包\n580w",
+        "description": "川包\n半auto580w",
         "author": "川包",
         "damage": {
           "value": 5800000,
@@ -3341,7 +3397,7 @@
     "standard_damage": 4950000,
     "sources": [
       {
-        "description": "Daemonlucifer\n495w",
+        "description": "Daemonlucifer\n纯auto495w",
         "author": null,
         "damage": {
           "value": 4950000,
@@ -3395,7 +3451,7 @@
     "standard_damage": 4770000,
     "sources": [
       {
-        "description": "川包\n477w",
+        "description": "川包\n半auto477w",
         "author": "川包",
         "damage": {
           "value": 4770000,
@@ -3461,7 +3517,7 @@
     "standard_damage": 5700000,
     "sources": [
       {
-        "description": "川包\n570w",
+        "description": "川包\n半auto570w",
         "author": "川包",
         "damage": {
           "value": 5700000,
@@ -3529,7 +3585,7 @@
         "comments": []
       },
       {
-        "description": "江风渔火\n534w",
+        "description": "江风渔火\n纯auto534w",
         "author": null,
         "damage": {
           "value": 5340000,
@@ -3633,7 +3689,7 @@
     "standard_damage": 5000000,
     "sources": [
       {
-        "description": "川包\n520w",
+        "description": "川包\n半auto520w",
         "author": "川包",
         "damage": {
           "value": 5200000,
@@ -3642,6 +3698,74 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1S341127CH?p=38"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A4",
+    "id": "at411",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "最后抢水狼ub"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6000000,
+    "sources": [
+      {
+        "description": "韭月初八\n半auto600w",
+        "author": "韭月初八",
+        "damage": {
+          "value": 6000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1MP4y1874B"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "江风渔火\n全auto469w",
+        "author": null,
+        "damage": {
+          "value": 4690000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1zf4y1F7aL?p=17"
         ],
         "images": [],
         "comments": []
@@ -3739,7 +3863,7 @@
     "standard_damage": 4750000,
     "sources": [
       {
-        "description": "Daemonlucifer\n475w",
+        "description": "Daemonlucifer\n纯auto475w",
         "author": null,
         "damage": {
           "value": 4750000,
@@ -3748,60 +3872,6 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV19u411f7yU?p=10"
-        ],
-        "images": [],
-        "comments": []
-      }
-    ]
-  },
-  {
-    "boss": "A4",
-    "id": "at411",
-    "characters": [
-      {
-        "id": 1071,
-        "requirements": []
-      },
-      {
-        "id": 1057,
-        "requirements": []
-      },
-      {
-        "id": 1027,
-        "requirements": []
-      },
-      {
-        "id": 1104,
-        "requirements": []
-      },
-      {
-        "id": 1061,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [
-      "最后抢水狼ub"
-    ],
-    "labels": [
-      "Auto"
-    ],
-    "standard_damage": 4690000,
-    "sources": [
-      {
-        "description": "江风渔火\n469w",
-        "author": null,
-        "damage": {
-          "value": 4690000,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1zf4y1F7aL?p=14"
         ],
         "images": [],
         "comments": []
@@ -3847,7 +3917,7 @@
     "standard_damage": 5020000,
     "sources": [
       {
-        "description": "Daemonlucifer\n502w",
+        "description": "Daemonlucifer\n纯auto502w",
         "author": null,
         "damage": {
           "value": 5020000,
@@ -4137,6 +4207,106 @@
   },
   {
     "boss": "A5",
+    "id": "A507",
+    "characters": [
+      {
+        "id": 1060,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5700000,
+    "sources": [
+      {
+        "description": "一起去炸鱼吗\n573w\n简介有轴",
+        "author": null,
+        "damage": {
+          "value": 5730000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Dq4y1o7A4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A5",
+    "id": "A506",
+    "characters": [
+      {
+        "id": 1080,
+        "requirements": []
+      },
+      {
+        "id": 1037,
+        "requirements": []
+      },
+      {
+        "id": 1096,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5900000,
+    "sources": [
+      {
+        "description": "寄宝590w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5900000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1RP4y1b7xR?p=7"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A5",
     "id": "at511",
     "characters": [
       {
@@ -4332,7 +4502,7 @@
     "standard_damage": 6000000,
     "sources": [
       {
-        "description": "韭月初八\n614w",
+        "description": "韭月初八\n半auto614w",
         "author": "韭月初八",
         "damage": {
           "value": 6140000,
@@ -4438,7 +4608,7 @@
     "standard_damage": 5620000,
     "sources": [
       {
-        "description": "Daemonlucifer\n562w",
+        "description": "Daemonlucifer\n全auto562w",
         "author": null,
         "damage": {
           "value": 5620000,
@@ -4490,7 +4660,7 @@
     "standard_damage": 5600000,
     "sources": [
       {
-        "description": "川包\n569w",
+        "description": "川包\n半auto569w",
         "author": "川包",
         "damage": {
           "value": 5690000,
@@ -4742,7 +4912,7 @@
     "standard_damage": 5120000,
     "sources": [
       {
-        "description": "川包\n512w",
+        "description": "川包\n半auto512w",
         "author": "川包",
         "damage": {
           "value": 5120000,
@@ -4902,7 +5072,7 @@
     "standard_damage": 5310000,
     "sources": [
       {
-        "description": "川包\n531w",
+        "description": "川包\n全auto531w",
         "author": "川包",
         "damage": {
           "value": 5310000,
@@ -5059,7 +5229,7 @@
     "standard_damage": 5000000,
     "sources": [
       {
-        "description": "江风渔火\n500w",
+        "description": "江风渔火\n全auto500w",
         "author": null,
         "damage": {
           "value": 5000000,
@@ -5108,7 +5278,7 @@
     "labels": [
       "Auto"
     ],
-    "standard_damage": 4900000,
+    "standard_damage": 4950000,
     "sources": [
       {
         "description": "透过现象看本质\n全auto499w",
@@ -5120,6 +5290,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1zq4y1P7Mt?p=2"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "南城花依旧\n全auto554w",
+        "author": null,
+        "damage": {
+          "value": 5540000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Jf4y1J7bo"
         ],
         "images": [],
         "comments": []
@@ -5304,7 +5488,7 @@
     "standard_damage": 4790000,
     "sources": [
       {
-        "description": "川包\n479w",
+        "description": "川包\n全auto479w",
         "author": "川包",
         "damage": {
           "value": 4790000,
