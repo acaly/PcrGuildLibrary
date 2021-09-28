@@ -1,1 +1,1112 @@
-[]
+[
+  {
+    "boss": "C1",
+    "id": "C101",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "返21s"
+    ],
+    "labels": [],
+    "standard_damage": 6000000,
+    "sources": [
+      {
+        "description": "きゃるちゃん\n575w\n轴在动态",
+        "author": null,
+        "damage": {
+          "value": 5750000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1kP4y1b7ga?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "C103",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1037,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5300000,
+    "sources": [
+      {
+        "description": "きゃるちゃん\n556w\n轴在动态",
+        "author": null,
+        "damage": {
+          "value": 5560000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1kP4y1b7ga?p=1"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "C102",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5050000,
+    "sources": [
+      {
+        "description": "花舞-忧默505w",
+        "author": null,
+        "damage": {
+          "value": 5050000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg2.docs.qq.com/image/Wv3VM7IGePehUzk8jDm1Xg.png?w=771&h=783"
+        ],
+        "comments": []
+      },
+      {
+        "description": "花舞-某歪505w",
+        "author": "花舞-某歪",
+        "damage": {
+          "value": 5050000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg9.docs.qq.com/image/XKuFN-YUfBcZNZnX7ILV_w.png?w=771&h=786"
+        ],
+        "comments": []
+      },
+      {
+        "description": "140级14-4水狼\n寄宝510w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5100000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Qf4y1F77B?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C202",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "高伤对水电有要求"
+    ],
+    "labels": [],
+    "standard_damage": 5250000,
+    "sources": [
+      {
+        "description": "花舞-忧默520w",
+        "author": null,
+        "damage": {
+          "value": 5200000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg6.docs.qq.com/image/w21gPz5w0cESm361wJkP4g.png?w=750&h=738"
+        ],
+        "comments": []
+      },
+      {
+        "description": "寄宝544w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5440000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Qf4y1F77B?p=4"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "きゃるちゃん\n528w\n轴在动态",
+        "author": null,
+        "damage": {
+          "value": 5280000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1kP4y1b7ga?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C201",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5100000,
+    "sources": [
+      {
+        "description": "寄宝539w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5390000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Qf4y1F77B?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C205",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4700000,
+    "sources": [
+      {
+        "description": "花舞-卡哇伊哟\n470w",
+        "author": null,
+        "damage": {
+          "value": 4700000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg6.docs.qq.com/image/OkeJ1SJikxVi0F9alAQMKQ.png?w=880&h=687"
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C203",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5750000,
+    "sources": [
+      {
+        "description": "花舞-Pts 550w",
+        "author": null,
+        "damage": {
+          "value": 5500000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg8.docs.qq.com/image/Yg5aE_73gHPf43bRtMpeqQ.png?w=881&h=606"
+        ],
+        "comments": []
+      },
+      {
+        "description": "花舞-Pts 560w",
+        "author": null,
+        "damage": {
+          "value": 5600000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg1.docs.qq.com/image/J3xNr_2R2yj_NTnhD8xnpg.png?w=879&h=684"
+        ],
+        "comments": []
+      },
+      {
+        "description": "全员左中3★\n寄宝535w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5350000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Qf4y1F77B?p=4"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Sora宝588w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 5880000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C204",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5350000,
+    "sources": [
+      {
+        "description": "花舞-永夜之殇541w",
+        "author": "花舞-永夜之殇",
+        "damage": {
+          "value": 5410000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg1.docs.qq.com/image/SvKyYXNg08DjMcy6ZGliQg.png?w=881&h=745"
+        ],
+        "comments": []
+      },
+      {
+        "description": "花舞-永夜之殇532w",
+        "author": "花舞-永夜之殇",
+        "damage": {
+          "value": 5320000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg4.docs.qq.com/image/fmnzSernXO92mzlu0RrqCw.png?w=879&h=722"
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "C303",
+    "characters": [
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "开头两连爆，神仙也难保"
+    ],
+    "labels": [],
+    "standard_damage": 5100000,
+    "sources": [
+      {
+        "description": "花舞-启明480w",
+        "author": null,
+        "damage": {
+          "value": 4800000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg3.docs.qq.com/image/rX6HHuXr1-SPTm1qJlhy4Q.png?w=940&h=739"
+        ],
+        "comments": []
+      },
+      {
+        "description": "きゃるちゃん\n508w\n轴在动态",
+        "author": null,
+        "damage": {
+          "value": 5080000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1kP4y1b7ga?p=4"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Sora宝525w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 5250000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qh411H7CM?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "C302",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "浓度太高了不愧是你永夜"
+    ],
+    "labels": [],
+    "standard_damage": 4800000,
+    "sources": [
+      {
+        "description": "花舞-永夜之殇471w",
+        "author": "花舞-永夜之殇",
+        "damage": {
+          "value": 4710000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg5.docs.qq.com/image/67-PidMH52Jq3uaTVUhbig.png?w=941&h=756"
+        ],
+        "comments": []
+      },
+      {
+        "description": "花舞-永夜之殇478w",
+        "author": "花舞-永夜之殇",
+        "damage": {
+          "value": 4780000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg2.docs.qq.com/image/P1auNUpgvgZNJU5WJvpmoQ.png?w=941&h=748"
+        ],
+        "comments": []
+      },
+      {
+        "description": "花舞-永夜之殇482w",
+        "author": "花舞-永夜之殇",
+        "damage": {
+          "value": 4820000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg6.docs.qq.com/image/G_kKaRqvV-QDQQNmmbanKw.png?w=943&h=760"
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "C301",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4750000,
+    "sources": [
+      {
+        "description": "花舞-忧默477w",
+        "author": null,
+        "damage": {
+          "value": 4770000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg4.docs.qq.com/image/KiUPwNLzfI0rAxhpEaoscQ.png?w=1032&h=753"
+        ],
+        "comments": []
+      },
+      {
+        "description": "全员左中3★\n寄宝470w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 4700000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Qf4y1F77B?p=6"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "きゃるちゃん\n4x安 475w\n轴在动态",
+        "author": null,
+        "damage": {
+          "value": 4750000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1kP4y1b7ga?p=5"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "きゃるちゃん\n5x安 489w\n轴在动态",
+        "author": null,
+        "damage": {
+          "value": 4890000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1kP4y1b7ga?p=6"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "C304",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4600000,
+    "sources": [
+      {
+        "description": "花舞-永夜之殇467w",
+        "author": "花舞-永夜之殇",
+        "damage": {
+          "value": 4670000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg2.docs.qq.com/image/XD0KPlwJirzdlv3gg9GP7g.png?w=806&h=763"
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "C305",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "只要打队友不暴击，就能成刀"
+    ],
+    "labels": [],
+    "standard_damage": 4000000,
+    "sources": [
+      {
+        "description": "花舞-云烨朱云400w评论有轴",
+        "author": "花舞-云烨朱云",
+        "damage": {
+          "value": 4000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1og411G7Vy/"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "C401",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "金框妈奶不动"
+    ],
+    "labels": [],
+    "standard_damage": 5600000,
+    "sources": [
+      {
+        "description": "花舞-忧默560w",
+        "author": null,
+        "damage": {
+          "value": 5600000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg1.docs.qq.com/image/RGScwsDi26dKT1szEweEDw.png?w=637&h=792"
+        ],
+        "comments": []
+      },
+      {
+        "description": "14-5水狼\n寄宝598w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5980000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Qf4y1F77B?p=7"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "左中3★栞\nSora567w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 5670000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qh411H7CM?p=5"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "C402",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1056,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4450000,
+    "sources": [
+      {
+        "description": "花舞-启明445w",
+        "author": null,
+        "damage": {
+          "value": 4450000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg5.docs.qq.com/image/VA-yDFCB-FHBCOPFtN4Qcg.png?w=746&h=759"
+        ],
+        "comments": []
+      },
+      {
+        "description": "Sora宝\n860w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 8600000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qh411H7CM?p=1"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "寄宝824w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 8240000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Qf4y1F77B?p=8"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Q弹佩可考古827w视频有轴",
+        "author": "Q弹佩可",
+        "damage": {
+          "value": 8270000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1cP4y187Mb?p=2"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "R10妈\nQ弹佩可688w\n视频有轴",
+        "author": "Q弹佩可",
+        "damage": {
+          "value": 6880000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1cP4y187Mb?p=3"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "4★春田Q弹佩可661w视频有轴",
+        "author": "Q弹佩可",
+        "damage": {
+          "value": 6610000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1cP4y187Mb?p=4"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "5★春田Q弹佩可570w视频有轴",
+        "author": "Q弹佩可",
+        "damage": {
+          "value": 5700000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1cP4y187Mb?p=5"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "R10妈非时停\nQ弹佩可490w\n视频有轴",
+        "author": "Q弹佩可",
+        "damage": {
+          "value": 4900000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1cP4y187Mb?p=6"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "R14妈非时停\nQ弹佩可487w\n视频有轴",
+        "author": "Q弹佩可",
+        "damage": {
+          "value": 4870000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1cP4y187Mb?p=7"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  }
+]
