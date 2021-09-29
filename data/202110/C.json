@@ -392,7 +392,7 @@
     "standard_damage": 4500000,
     "sources": [
       {
-        "description": "老艾莉娜\n484w评论等轴",
+        "description": "老艾莉娜\n484w评论有轴",
         "author": null,
         "damage": {
           "value": 4840000,
@@ -519,6 +519,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV11341127ez?p=6"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全auto418w",
+        "author": null,
+        "damage": {
+          "value": 4180000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Bv411G77c?p=2"
         ],
         "images": [],
         "comments": []
@@ -679,6 +693,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV11341127ez?p=2"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全auto426w",
+        "author": null,
+        "damage": {
+          "value": 4260000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Bv411G77c?p=1"
         ],
         "images": [],
         "comments": []
@@ -922,6 +950,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全auto387w",
+        "author": null,
+        "damage": {
+          "value": 3870000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Bv411G77c?p=3"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -1129,7 +1171,7 @@
     },
     "comments": [],
     "labels": [],
-    "standard_damage": 5500000,
+    "standard_damage": 5600000,
     "sources": [
       {
         "description": "花舞-永夜之殇541w",
@@ -1146,17 +1188,17 @@
         "comments": []
       },
       {
-        "description": "花舞-永夜之殇532w",
+        "description": "花舞-永夜之殇576w视频有轴",
         "author": "花舞-永夜之殇",
         "damage": {
-          "value": 5320000,
+          "value": 5760000,
           "low": null,
           "high": null
         },
-        "links": [],
-        "images": [
-          "https://docimg1.docs.qq.com/image/SvKyYXNg08DjMcy6ZGliQg.png?w=881&h=745"
+        "links": [
+          "https://www.bilibili.com/video/BV16Q4y167Ds?p=2"
         ],
+        "images": [],
         "comments": []
       },
       {
@@ -1530,6 +1572,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全auto441w",
+        "author": null,
+        "damage": {
+          "value": 4410000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Bv411G77c?p=4"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -1685,6 +1741,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1RP4y1b7Rw?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "ct211",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4000000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全auto399w",
+        "author": null,
+        "damage": {
+          "value": 3990000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Bv411G77c?p=5"
         ],
         "images": [],
         "comments": []
@@ -1855,6 +1963,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV11341127ez?p=3"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全auto428w",
+        "author": null,
+        "damage": {
+          "value": 4280000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Bv411G77c?p=6"
         ],
         "images": [],
         "comments": []
@@ -3362,6 +3484,45 @@
   },
   {
     "boss": "C4",
+    "id": "ct411",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "妈14-4满专，中途连点或断妈的后摇"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4000000,
+    "sources": []
+  },
+  {
+    "boss": "C4",
     "id": "ct401",
     "characters": [
       {
@@ -3897,7 +4058,98 @@
         ],
         "images": [],
         "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "C510",
+    "characters": [
+      {
+        "id": 1084,
+        "requirements": []
       },
+      {
+        "id": 1060,
+        "requirements": []
+      },
+      {
+        "id": 1015,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "轴的配置要求很严格，大部分公会打不了\n就是给你们康康而已"
+    ],
+    "labels": [],
+    "standard_damage": 13000000,
+    "sources": [
+      {
+        "description": "摩卡_moca\n1291w无轴演示",
+        "author": null,
+        "damage": {
+          "value": 12910000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1744y1t71x"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "打不了春田和三圣母时停刀的，可以参考考古视频悟道，但是别参考日服，日服循环不一样C5毫无参考性，可以参考韩服\n考古视频的轴，按照简中服的练度不一定能打出来，练度自己感受，怎么优化或者负优化全靠自己知识量\n没人产轴，怎么自救看你们自己\n躺平等轴的结果就像现在这样\n压根不会有人义务为你们负责",
+    "characters": [
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1060,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "它终于来了 请仔细核对rank、等级和星级",
+      "【春田时停刀】\n圣千&春田RANK检测表"
+    ],
+    "labels": [],
+    "standard_damage": 8500000,
+    "sources": [
       {
         "description": "Sora宝\n860w\n视频有轴",
         "author": "Sora",
@@ -4048,6 +4300,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1M341117rq?from=search&seid=11498053136927917630&spm_id_from=333.337.0.0"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": " 满中满黑猫\n平子=皿=750w评论有轴",
+        "author": null,
+        "damage": {
+          "value": 7500000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1gQ4y167xM"
         ],
         "images": [],
         "comments": []
@@ -4388,7 +4654,7 @@
     "labels": [
       "Auto"
     ],
-    "standard_damage": 3100000,
+    "standard_damage": 2900000,
     "sources": [
       {
         "description": "川包\n连点auto310w",
