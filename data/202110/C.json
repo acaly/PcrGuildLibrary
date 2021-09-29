@@ -53,6 +53,56 @@
   },
   {
     "boss": "C1",
+    "id": "C104",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5450000,
+    "sources": [
+      {
+        "description": "玩具喵538w\n视频有轴",
+        "author": "玩具喵",
+        "damage": {
+          "value": 5380000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Fh411H7LH?p=1"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
     "id": "C103",
     "characters": [
       {
@@ -176,6 +226,512 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "花舞-无糖×艺人509w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5090000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1kT4y1Z7FY?from=search&seid=8970185268808367275&spm_id_from=333.337.0.0"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "C106",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4300000,
+    "sources": [
+      {
+        "description": "FF半音430w\n视频有轴",
+        "author": "FF半音",
+        "damage": {
+          "value": 4300000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1d3411y7R8?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "C105",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4200000,
+    "sources": [
+      {
+        "description": "FF半音428w\n视频有轴",
+        "author": "FF半音",
+        "damage": {
+          "value": 4280000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1d3411y7R8?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "ct101",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4400000,
+    "sources": [
+      {
+        "description": "川包440w",
+        "author": "川包",
+        "damage": {
+          "value": 4400000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341127CH?p=1"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "ct102",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4400000,
+    "sources": [
+      {
+        "description": "川包440w",
+        "author": "川包",
+        "damage": {
+          "value": 4400000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341127CH?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "ct103",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3750000,
+    "sources": [
+      {
+        "description": "川包375w",
+        "author": "川包",
+        "damage": {
+          "value": 3750000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341127CH?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "ct104",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1095,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "全程连点NNK"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3710000,
+    "sources": [
+      {
+        "description": "川包\n半auto371w",
+        "author": "川包",
+        "damage": {
+          "value": 3710000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341127CH?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C203",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5750000,
+    "sources": [
+      {
+        "description": "花舞-Pts 550w",
+        "author": null,
+        "damage": {
+          "value": 5500000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg8.docs.qq.com/image/Yg5aE_73gHPf43bRtMpeqQ.png?w=881&h=606"
+        ],
+        "comments": []
+      },
+      {
+        "description": "花舞-Pts 560w",
+        "author": null,
+        "damage": {
+          "value": 5600000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg1.docs.qq.com/image/J3xNr_2R2yj_NTnhD8xnpg.png?w=879&h=684"
+        ],
+        "comments": []
+      },
+      {
+        "description": "全员左中3★\n寄宝535w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5350000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Qf4y1F77B?p=4"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Sora宝588w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 5880000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "139(140)级水黑\n花舞-无糖×艺人\n535w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5350000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1kT4y1Z7FY?p=2"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "玩具喵580w\n视频有轴",
+        "author": "玩具喵",
+        "damage": {
+          "value": 5800000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Fh411H7LH?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C204",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5350000,
+    "sources": [
+      {
+        "description": "花舞-永夜之殇541w",
+        "author": "花舞-永夜之殇",
+        "damage": {
+          "value": 5410000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg4.docs.qq.com/image/fmnzSernXO92mzlu0RrqCw.png?w=879&h=722"
+        ],
+        "comments": []
+      },
+      {
+        "description": "花舞-永夜之殇532w",
+        "author": "花舞-永夜之殇",
+        "damage": {
+          "value": 5320000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg1.docs.qq.com/image/SvKyYXNg08DjMcy6ZGliQg.png?w=881&h=745"
+        ],
+        "comments": []
       }
     ]
   },
@@ -225,7 +781,7 @@
         },
         "links": [],
         "images": [
-          "https://docimg6.docs.qq.com/image/w21gPz5w0cESm361wJkP4g.png?w=750&h=738"
+          "https://docimg10.docs.qq.com/image/WbSiVT2mU9va-wQcYHYcyQ.png?w=1099&h=1075"
         ],
         "comments": []
       },
@@ -353,7 +909,7 @@
         },
         "links": [],
         "images": [
-          "https://docimg6.docs.qq.com/image/OkeJ1SJikxVi0F9alAQMKQ.png?w=880&h=687"
+          "https://docimg2.docs.qq.com/image/6f3JIJlxj3erexl1dlrS3A.png?w=1102&h=841"
         ],
         "comments": []
       }
@@ -361,7 +917,7 @@
   },
   {
     "boss": "C2",
-    "id": "C203",
+    "id": "ct201",
     "characters": [
       {
         "id": 1036,
@@ -390,60 +946,22 @@
       "high": null
     },
     "comments": [],
-    "labels": [],
-    "standard_damage": 5750000,
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5250000,
     "sources": [
       {
-        "description": "花舞-Pts 550w",
-        "author": null,
+        "description": "川包525w",
+        "author": "川包",
         "damage": {
-          "value": 5500000,
-          "low": null,
-          "high": null
-        },
-        "links": [],
-        "images": [
-          "https://docimg8.docs.qq.com/image/Yg5aE_73gHPf43bRtMpeqQ.png?w=881&h=606"
-        ],
-        "comments": []
-      },
-      {
-        "description": "花舞-Pts 560w",
-        "author": null,
-        "damage": {
-          "value": 5600000,
-          "low": null,
-          "high": null
-        },
-        "links": [],
-        "images": [
-          "https://docimg1.docs.qq.com/image/J3xNr_2R2yj_NTnhD8xnpg.png?w=879&h=684"
-        ],
-        "comments": []
-      },
-      {
-        "description": "全员左中3★\n寄宝535w\n视频有轴",
-        "author": null,
-        "damage": {
-          "value": 5350000,
+          "value": 5250000,
           "low": null,
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1Qf4y1F77B?p=4"
+          "https://www.bilibili.com/video/BV1S341127CH?p=5"
         ],
-        "images": [],
-        "comments": []
-      },
-      {
-        "description": "Sora宝588w\n视频有轴",
-        "author": "Sora",
-        "damage": {
-          "value": 5880000,
-          "low": null,
-          "high": null
-        },
-        "links": [],
         "images": [],
         "comments": []
       }
@@ -451,7 +969,7 @@
   },
   {
     "boss": "C2",
-    "id": "C204",
+    "id": "ct202",
     "characters": [
       {
         "id": 1106,
@@ -462,15 +980,15 @@
         "requirements": []
       },
       {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
         "id": 1070,
-        "requirements": []
-      },
-      {
-        "id": 1092,
-        "requirements": []
-      },
-      {
-        "id": 1009,
         "requirements": []
       }
     ],
@@ -480,35 +998,129 @@
       "high": null
     },
     "comments": [],
-    "labels": [],
-    "standard_damage": 5350000,
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4450000,
     "sources": [
       {
-        "description": "花舞-永夜之殇541w",
-        "author": "花舞-永夜之殇",
+        "description": "川包445w",
+        "author": "川包",
         "damage": {
-          "value": 5410000,
+          "value": 4450000,
           "low": null,
           "high": null
         },
-        "links": [],
-        "images": [
-          "https://docimg1.docs.qq.com/image/SvKyYXNg08DjMcy6ZGliQg.png?w=881&h=745"
+        "links": [
+          "https://www.bilibili.com/video/BV1S341127CH?p=6"
         ],
+        "images": [],
         "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "ct203",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
       },
       {
-        "description": "花舞-永夜之殇532w",
-        "author": "花舞-永夜之殇",
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4860000,
+    "sources": [
+      {
+        "description": "川包\n半auto486w",
+        "author": "川包",
         "damage": {
-          "value": 5320000,
+          "value": 4860000,
           "low": null,
           "high": null
         },
-        "links": [],
-        "images": [
-          "https://docimg4.docs.qq.com/image/fmnzSernXO92mzlu0RrqCw.png?w=879&h=722"
+        "links": [
+          "https://www.bilibili.com/video/BV1S341127CH?p=6"
         ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "ct204",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "全程连点511"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4110000,
+    "sources": [
+      {
+        "description": "川包\n半auto486w",
+        "author": "川包",
+        "damage": {
+          "value": 4860000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341127CH?p=8"
+        ],
+        "images": [],
         "comments": []
       }
     ]
@@ -587,6 +1199,70 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1qh411H7CM?p=4"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖×艺人\n480w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 4800000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1kT4y1Z7FY?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "C306",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4750000,
+    "sources": [
+      {
+        "description": "玩具喵499w\n视频有轴",
+        "author": "玩具喵",
+        "damage": {
+          "value": 4990000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Fh411H7LH?p=3"
         ],
         "images": [],
         "comments": []
@@ -669,6 +1345,20 @@
         "images": [
           "https://docimg6.docs.qq.com/image/G_kKaRqvV-QDQQNmmbanKw.png?w=943&h=760"
         ],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖×艺人471w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 4710000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1kT4y1Z7FY?p=5"
+        ],
+        "images": [],
         "comments": []
       }
     ]
@@ -800,16 +1490,16 @@
     "standard_damage": 4600000,
     "sources": [
       {
-        "description": "花舞-永夜之殇467w",
+        "description": "花舞-永夜之殇465w",
         "author": "花舞-永夜之殇",
         "damage": {
-          "value": 4670000,
+          "value": 4650000,
           "low": null,
           "high": null
         },
         "links": [],
         "images": [
-          "https://docimg2.docs.qq.com/image/XD0KPlwJirzdlv3gg9GP7g.png?w=806&h=763"
+          "https://docimg1.docs.qq.com/image/bZZPs1ELeUvo3EOllpbCnQ.png?w=1121&h=1047"
         ],
         "comments": []
       }
@@ -817,7 +1507,113 @@
   },
   {
     "boss": "C3",
-    "id": "C305",
+    "id": "ct301",
+    "characters": [
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "全程连点yly nnk"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4640000,
+    "sources": [
+      {
+        "description": "川包\n半auto464w",
+        "author": "川包",
+        "damage": {
+          "value": 4640000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341127CH?p=9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "ct304",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4300000,
+    "sources": [
+      {
+        "description": "FF半音\n半auto430w",
+        "author": "FF半音",
+        "damage": {
+          "value": 4300000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1d3411y7R8?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "ct302",
     "characters": [
       {
         "id": 1036,
@@ -832,11 +1628,115 @@
         "requirements": []
       },
       {
-        "id": 1092,
+        "id": 1013,
         "requirements": []
       },
       {
-        "id": 1034,
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4210000,
+    "sources": [
+      {
+        "description": "川包\n半auto464w",
+        "author": "川包",
+        "damage": {
+          "value": 4640000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341127CH?p=10"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "ct305",
+    "characters": [
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1015,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3800000,
+    "sources": [
+      {
+        "description": "FF半音\n半auto381w",
+        "author": "FF半音",
+        "damage": {
+          "value": 3810000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1d3411y7R8?p=5"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "ct303",
+    "characters": [
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1060,
+        "requirements": []
+      },
+      {
+        "id": 0,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1103,
         "requirements": []
       }
     ],
@@ -846,21 +1746,23 @@
       "high": null
     },
     "comments": [
-      "只要打队友不暴击，就能成刀"
+      "全程连点NNK 驴\n驴还是来得太早了些"
     ],
-    "labels": [],
-    "standard_damage": 4000000,
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 2600000,
     "sources": [
       {
-        "description": "花舞-云烨朱云400w评论有轴",
-        "author": "花舞-云烨朱云",
+        "description": "川包\n半auto260w",
+        "author": "川包",
         "damage": {
-          "value": 4000000,
+          "value": 2600000,
           "low": null,
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1og411G7Vy/"
+          "https://www.bilibili.com/video/BV1S341127CH?p=10"
         ],
         "images": [],
         "comments": []
@@ -913,7 +1815,7 @@
         },
         "links": [],
         "images": [
-          "https://docimg1.docs.qq.com/image/RGScwsDi26dKT1szEweEDw.png?w=637&h=792"
+          "https://docimg1.docs.qq.com/image/e_Q5eruLUZwEKYqSLknKoQ.png?w=1098&h=1363"
         ],
         "comments": []
       },
@@ -941,6 +1843,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1qh411H7CM?p=5"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖×艺人\n558w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5580000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1kT4y1Z7FY?p=4"
         ],
         "images": [],
         "comments": []
@@ -991,8 +1907,166 @@
         },
         "links": [],
         "images": [
-          "https://docimg5.docs.qq.com/image/VA-yDFCB-FHBCOPFtN4Qcg.png?w=746&h=759"
+          "https://docimg3.docs.qq.com/image/wYPul0SQBQPAMtnzUE3lvw.png?w=1100&h=1127"
         ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "ct401",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1056,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3990000,
+    "sources": [
+      {
+        "description": "川包\n半auto399w",
+        "author": "川包",
+        "damage": {
+          "value": 3990000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341127CH?p=10"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "ct402",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1058,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "全程连点511\n5星吃货也行，大概"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3770000,
+    "sources": [
+      {
+        "description": "川包\n半auto377w",
+        "author": "川包",
+        "damage": {
+          "value": 3770000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341127CH?p=13"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "ct403",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3260000,
+    "sources": [
+      {
+        "description": "川包326w",
+        "author": "川包",
+        "damage": {
+          "value": 3260000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341127CH?p=13"
+        ],
+        "images": [],
         "comments": []
       },
       {
@@ -1103,6 +2177,284 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1cP4y187Mb?p=7"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖x艺人\n考古780-800w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": null,
+          "low": 7800000,
+          "high": 8000000
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1kT4y1Z7FY?p=6"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "C502",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1015,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "本期顶尖三圣母"
+    ],
+    "labels": [],
+    "standard_damage": 13000000,
+    "sources": [
+      {
+        "description": "Sora宝\n1308w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 13080000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qh411H7CM?p=7"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct501",
+    "characters": [
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1060,
+        "requirements": []
+      },
+      {
+        "id": 1015,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4210000,
+    "sources": [
+      {
+        "description": "川包421w",
+        "author": "川包",
+        "damage": {
+          "value": 4210000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341127CH?p=15"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct502",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1080,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "全程连点狼&妈"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3960000,
+    "sources": [
+      {
+        "description": "川包\n半auto396w",
+        "author": "川包",
+        "damage": {
+          "value": 3960000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341127CH?p=16"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct503",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1101,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1058,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "全程连点NNK"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3100000,
+    "sources": [
+      {
+        "description": "川包\n半auto310w",
+        "author": "川包",
+        "damage": {
+          "value": 3100000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341127CH?p=17"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct504",
+    "characters": [
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1080,
+        "requirements": []
+      },
+      {
+        "id": 1037,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1056,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 2200000,
+    "sources": [
+      {
+        "description": "川包220w",
+        "author": "川包",
+        "damage": {
+          "value": 2200000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341127CH?p=18"
         ],
         "images": [],
         "comments": []
