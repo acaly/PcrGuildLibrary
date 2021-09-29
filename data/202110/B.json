@@ -540,6 +540,58 @@
   },
   {
     "boss": "B1",
+    "id": "bt110",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1037,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5100000,
+    "sources": [
+      {
+        "description": "大贤者斯巴鲁\n全auto523w",
+        "author": null,
+        "damage": {
+          "value": 5230000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Nq4y1N7fW?p=1"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B1",
     "id": "bt109",
     "characters": [
       {
@@ -1009,6 +1061,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "大贤者斯巴鲁\n全auto558w",
+        "author": null,
+        "damage": {
+          "value": 5580000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Nq4y1N7fW?p=2"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -1049,7 +1115,7 @@
     "standard_damage": 5250000,
     "sources": [
       {
-        "description": "韭月初八526w",
+        "description": "韭月初八\n全auto526w",
         "author": "韭月初八",
         "damage": {
           "value": 5260000,
@@ -1468,6 +1534,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1pQ4y167dX?p=20"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "大贤者斯巴鲁\n全auto477w",
+        "author": null,
+        "damage": {
+          "value": 4770000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Nq4y1N7fW?p=3"
         ],
         "images": [],
         "comments": []
@@ -1930,6 +2010,34 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV11341127ez?p=8"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "大贤者斯巴鲁\n全auto577w",
+        "author": null,
+        "damage": {
+          "value": 5770000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Nq4y1N7fW?p=4"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "韭月初八\n可全auto585w",
+        "author": "韭月初八",
+        "damage": {
+          "value": 5850000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1BT4y1Z7bt"
         ],
         "images": [],
         "comments": []
@@ -2526,6 +2634,56 @@
   },
   {
     "boss": "B4",
+    "id": "B406",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5350000,
+    "sources": [
+      {
+        "description": "韭月初八535w\n简介有轴",
+        "author": "韭月初八",
+        "damage": {
+          "value": 5350000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1iQ4y1Q7YF"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
     "id": "B404",
     "characters": [
       {
@@ -2590,7 +2748,7 @@
   },
   {
     "boss": "B4",
-    "id": "B403",
+    "id": "AUTO区",
     "characters": [
       {
         "id": 1038,
@@ -2619,7 +2777,9 @@
       "high": null
     },
     "comments": [],
-    "labels": [],
+    "labels": [
+      "Auto"
+    ],
     "standard_damage": 5200000,
     "sources": [
       {
@@ -2816,6 +2976,34 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1pQ4y1C7mf?p=4"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "沁园尘生\n全auto540w",
+        "author": null,
+        "damage": {
+          "value": 5400000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Lb4y117nW"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "大贤者斯巴鲁\n全auto515w\n全程连点吉塔",
+        "author": null,
+        "damage": {
+          "value": 5150000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Nq4y1N7fW?p=5"
         ],
         "images": [],
         "comments": []
@@ -3338,7 +3526,7 @@
       "high": null
     },
     "comments": [
-      "141级511"
+      "139/141级511\n据说139级伤害高点"
     ],
     "labels": [],
     "standard_damage": 5500000,
@@ -3510,6 +3698,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "韭月初八\n全auto548w",
+        "author": "韭月初八",
+        "damage": {
+          "value": 5480000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV12r4y117Ji"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -3606,6 +3808,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "大贤者斯巴鲁\n全auto520w",
+        "author": null,
+        "damage": {
+          "value": 5200000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Nq4y1N7fW?p=6"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -3669,6 +3885,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1pQ4y167dX?p=22"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "南城花依旧\n半auto461w",
+        "author": null,
+        "damage": {
+          "value": 4610000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV18Q4y167fQ"
         ],
         "images": [],
         "comments": []
@@ -3789,6 +4019,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1jL411s7x1"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B5",
+    "id": "bt512",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4400000,
+    "sources": [
+      {
+        "description": "大贤者斯巴鲁\n全auto457w\n全程连点吉塔",
+        "author": null,
+        "damage": {
+          "value": 4570000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Nq4y1N7fW?p=7"
         ],
         "images": [],
         "comments": []
