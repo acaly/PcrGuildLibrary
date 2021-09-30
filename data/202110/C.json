@@ -259,6 +259,72 @@
   },
   {
     "boss": "C1",
+    "id": "C108",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "拯救不想拉妈打C4的小伙伴"
+    ],
+    "labels": [],
+    "standard_damage": 4700000,
+    "sources": [
+      {
+        "description": "花舞-不辅主的忠戏子\n469w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 4690000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV16Q4y167Ds?p=8"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-STK优化轴494w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 4940000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV16Q4y167Ds?p=9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
     "id": "C106",
     "characters": [
       {
@@ -762,6 +828,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "韭月初八\n全auto421w",
+        "author": "韭月初八",
+        "damage": {
+          "value": 4210000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1TU4y1P7fB"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -1056,34 +1136,6 @@
     "standard_damage": 5750000,
     "sources": [
       {
-        "description": "花舞-Pts 550w",
-        "author": null,
-        "damage": {
-          "value": 5500000,
-          "low": null,
-          "high": null
-        },
-        "links": [],
-        "images": [
-          "https://docimg8.docs.qq.com/image/Yg5aE_73gHPf43bRtMpeqQ.png?w=881&h=606"
-        ],
-        "comments": []
-      },
-      {
-        "description": "花舞-Pts 560w",
-        "author": null,
-        "damage": {
-          "value": 5600000,
-          "low": null,
-          "high": null
-        },
-        "links": [],
-        "images": [
-          "https://docimg1.docs.qq.com/image/J3xNr_2R2yj_NTnhD8xnpg.png?w=879&h=684"
-        ],
-        "comments": []
-      },
-      {
         "description": "全员左中3★\n寄宝535w\n视频有轴",
         "author": null,
         "damage": {
@@ -1135,6 +1187,48 @@
           "https://www.bilibili.com/video/BV1Fh411H7LH?p=2"
         ],
         "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-启明\n565w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5650000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV16Q4y167Ds?p=3"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-Pts 550w",
+        "author": null,
+        "damage": {
+          "value": 5500000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg8.docs.qq.com/image/Yg5aE_73gHPf43bRtMpeqQ.png?w=881&h=606"
+        ],
+        "comments": []
+      },
+      {
+        "description": "花舞-Pts 560w",
+        "author": null,
+        "damage": {
+          "value": 5600000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg1.docs.qq.com/image/J3xNr_2R2yj_NTnhD8xnpg.png?w=879&h=684"
+        ],
         "comments": []
       }
     ]
@@ -1219,6 +1313,56 @@
   },
   {
     "boss": "C2",
+    "id": "C206",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5200000,
+    "sources": [
+      {
+        "description": "亚舞野栗子\n531w简介有轴",
+        "author": null,
+        "damage": {
+          "value": 5310000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1z34y1D7GH"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
     "id": "C202",
     "characters": [
       {
@@ -1291,6 +1435,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1kP4y1b7ga?p=3"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "卢姥爷531w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5310000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1QP4y1b7qX?p=2"
         ],
         "images": [],
         "comments": []
@@ -1487,6 +1645,72 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1cq4y1Z7u5?p=4"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "巨人城里\n全auto538w",
+        "author": null,
+        "damage": {
+          "value": 5380000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1aT4y1Z7Ly"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "ct212",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5200000,
+    "sources": [
+      {
+        "description": "韭月初八\n全auto530w",
+        "author": "韭月初八",
+        "damage": {
+          "value": 5300000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1U44y147Gv"
         ],
         "images": [],
         "comments": []
@@ -2074,17 +2298,17 @@
     "standard_damage": 5100000,
     "sources": [
       {
-        "description": "花舞-启明480w",
+        "description": "花舞-启明479w视频有轴",
         "author": null,
         "damage": {
-          "value": 4800000,
+          "value": 4790000,
           "low": null,
           "high": null
         },
-        "links": [],
-        "images": [
-          "https://docimg3.docs.qq.com/image/rX6HHuXr1-SPTm1qJlhy4Q.png?w=940&h=739"
+        "links": [
+          "https://www.bilibili.com/video/BV16Q4y167Ds?p=5"
         ],
+        "images": [],
         "comments": []
       },
       {
@@ -2183,6 +2407,58 @@
   },
   {
     "boss": "C3",
+    "id": "C307",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1006,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "除了中二 哪里亮了点哪里 唯一注意0.24xcw加攻后点ub"
+    ],
+    "labels": [],
+    "standard_damage": 3300000,
+    "sources": [
+      {
+        "description": "遊び屋\n地鼠刀337w",
+        "author": null,
+        "damage": {
+          "value": 3370000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1734y1U7xx"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
     "id": "C302",
     "characters": [
       {
@@ -2218,17 +2494,17 @@
     "standard_damage": 4800000,
     "sources": [
       {
-        "description": "花舞-永夜之殇471w",
+        "description": "花舞-永夜之殇\n宝宝轴479w\n视频有轴",
         "author": "花舞-永夜之殇",
         "damage": {
-          "value": 4710000,
+          "value": 4790000,
           "low": null,
           "high": null
         },
-        "links": [],
-        "images": [
-          "https://docimg5.docs.qq.com/image/67-PidMH52Jq3uaTVUhbig.png?w=941&h=756"
+        "links": [
+          "https://www.bilibili.com/video/BV16Q4y167Ds?p=4"
         ],
+        "images": [],
         "comments": []
       },
       {
@@ -2429,6 +2705,58 @@
         "images": [
           "https://docimg3.docs.qq.com/image/VMQ_dShfEDeDJSJfUExAJw.jpeg?w=513&h=622"
         ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "C305",
+    "characters": [
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1015,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "除了中二 圣母 哪里亮了点哪里"
+    ],
+    "labels": [],
+    "standard_damage": 4100000,
+    "sources": [
+      {
+        "description": "韭月初八\n413w地鼠刀",
+        "author": "韭月初八",
+        "damage": {
+          "value": 4130000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1T44y1t7kB"
+        ],
+        "images": [],
         "comments": []
       }
     ]
@@ -2693,6 +3021,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1cq4y1Z7u5?p=7"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "がってたものは\n半auto446w",
+        "author": null,
+        "damage": {
+          "value": 4460000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1M44y1t7Vt?p=1"
         ],
         "images": [],
         "comments": []
@@ -3035,6 +3377,84 @@
   },
   {
     "boss": "C4",
+    "id": "C402",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1056,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4450000,
+    "sources": [
+      {
+        "description": "花舞合集-启明\n442w评论有轴",
+        "author": null,
+        "damage": {
+          "value": 4420000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV16Q4y167Ds?p=5"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-云烨朱云423w评论有轴",
+        "author": "花舞-云烨朱云",
+        "damage": {
+          "value": 4230000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1y34y1D7jq/"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-启明442w评论有轴",
+        "author": null,
+        "damage": {
+          "value": 4420000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1eU4y1c7a6"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
     "id": "C403",
     "characters": [
       {
@@ -3257,70 +3677,6 @@
   },
   {
     "boss": "C4",
-    "id": "C402",
-    "characters": [
-      {
-        "id": 1059,
-        "requirements": []
-      },
-      {
-        "id": 1057,
-        "requirements": []
-      },
-      {
-        "id": 1027,
-        "requirements": []
-      },
-      {
-        "id": 1104,
-        "requirements": []
-      },
-      {
-        "id": 1056,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [],
-    "labels": [],
-    "standard_damage": 4450000,
-    "sources": [
-      {
-        "description": "花舞-启明445w",
-        "author": null,
-        "damage": {
-          "value": 4450000,
-          "low": null,
-          "high": null
-        },
-        "links": [],
-        "images": [
-          "https://docimg3.docs.qq.com/image/wYPul0SQBQPAMtnzUE3lvw.png?w=1100&h=1127"
-        ],
-        "comments": []
-      },
-      {
-        "description": "花舞-云烨朱云423w评论有轴",
-        "author": "花舞-云烨朱云",
-        "damage": {
-          "value": 4230000,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1y34y1D7jq/"
-        ],
-        "images": [],
-        "comments": []
-      }
-    ]
-  },
-  {
-    "boss": "C4",
     "id": "C409",
     "characters": [
       {
@@ -3513,13 +3869,42 @@
       "high": null
     },
     "comments": [
-      "妈14-4满专，中途连点或断妈的后摇"
+      "妈14-4满专，中途连点或断妈的后摇\n这刀有暴毙的可能性"
     ],
     "labels": [
       "Auto"
     ],
-    "standard_damage": 4000000,
-    "sources": []
+    "standard_damage": 4100000,
+    "sources": [
+      {
+        "description": "我的身高三米\n全auto472w",
+        "author": null,
+        "damage": {
+          "value": 4720000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1GQ4y167dQ"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "韭月初八\n连点auto400w",
+        "author": "韭月初八",
+        "damage": {
+          "value": 4000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1P7jw"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "C4",
@@ -3581,6 +3966,34 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV11341127ez?p=4"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "初冬赏雪\n全auto415w",
+        "author": null,
+        "damage": {
+          "value": 4150000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1i34y1D7Nn"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "相麻堇一定要幸福啊\n全auto417w",
+        "author": null,
+        "damage": {
+          "value": 4170000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ZL411W75Y"
         ],
         "images": [],
         "comments": []
@@ -3794,6 +4207,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "狂三酱的丈夫\n全auto334w",
+        "author": null,
+        "damage": {
+          "value": 3340000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV19f4y1F7r2"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -3853,6 +4280,58 @@
   },
   {
     "boss": "C4",
+    "id": "ct412",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3450000,
+    "sources": [
+      {
+        "description": "Sin老二刺螈了\n全auto354w",
+        "author": null,
+        "damage": {
+          "value": 3540000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1jR4y1n7gB"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
     "id": "ct403",
     "characters": [
       {
@@ -3897,6 +4376,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1S341127CH?p=14"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "ct413",
+    "characters": [
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 2100000,
+    "sources": [
+      {
+        "description": "淋雨日\n全auto228w",
+        "author": null,
+        "damage": {
+          "value": 2280000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1DU4y1A7z6"
         ],
         "images": [],
         "comments": []
@@ -4058,6 +4589,34 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "brucemark1\n1394w无轴演示",
+        "author": null,
+        "damage": {
+          "value": 13940000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1YR4y1n7UD"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "草野咔咔4x水壶\n1188w演示",
+        "author": null,
+        "damage": {
+          "value": 11880000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S34y1D7Yf"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -4096,7 +4655,7 @@
     "standard_damage": 12500000,
     "sources": [
       {
-        "description": "寄宝\n1301w\n视频有轴",
+        "description": "寄宝139级黑猫\n1301w\n视频有轴",
         "author": null,
         "damage": {
           "value": 13010000,
@@ -4110,15 +4669,29 @@
         "comments": []
       },
       {
-        "description": "摩卡_moca\n1291w无轴演示",
+        "description": "寄宝142级黑猫\n1297w\n视频有轴",
         "author": null,
         "damage": {
-          "value": 12910000,
+          "value": 12970000,
           "low": null,
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1744y1t71x"
+          "https://www.bilibili.com/video/BV1Qf4y1F77B?p=11"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "fwKori\n1359w无轴演示",
+        "author": null,
+        "damage": {
+          "value": 13590000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1KL4y1h7tC"
         ],
         "images": [],
         "comments": []
@@ -4161,7 +4734,8 @@
     },
     "comments": [
       "它终于来了 请仔细核对rank、等级和星级",
-      "【春田时停刀】\n圣千&春田RANK检测表"
+      "【春田时停刀】\n圣千&春田RANK检测表",
+      "【花舞整活】C5时停轴有感"
     ],
     "labels": [],
     "standard_damage": 8500000,
@@ -4181,15 +4755,127 @@
         "comments": []
       },
       {
-        "description": "寄宝824w\n视频有轴",
+        "description": "寄宝788w\n视频有轴",
         "author": null,
         "damage": {
-          "value": 8240000,
+          "value": 7880000,
           "low": null,
           "high": null
         },
         "links": [
           "https://www.bilibili.com/video/BV1Qf4y1F77B?p=8"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖x艺人\n820w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 8200000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1kT4y1Z7FY?p=6"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "R14妈\n花舞-启明\n815w评论有轴",
+        "author": null,
+        "damage": {
+          "value": 8150000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Nq4y1Z75k"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "142黑猫R14妈\n花舞合集-启明\n829w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 8290000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV16Q4y167Ds?p=6"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "满中满黑猫\n花舞-墨夕794w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 7940000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1sQ4y167H8"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "满剧情妈\n林薄暮兮 寄宝轴\n830w简介有说明",
+        "author": null,
+        "damage": {
+          "value": 8300000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1M341117rq?from=search&seid=11498053136927917630&spm_id_from=333.337.0.0"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": " 满中满黑猫\n平子=皿=750w评论有轴",
+        "author": null,
+        "damage": {
+          "value": 7500000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1gQ4y167xM"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "玩具喵\n771w视频有轴",
+        "author": "玩具喵",
+        "damage": {
+          "value": 7710000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Fh411H7LH?p=5"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "免费宝石x15000\n825w评论有具体配置以及轴",
+        "author": null,
+        "damage": {
+          "value": 8250000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/bv1gq4y1Z7vQ"
         ],
         "images": [],
         "comments": []
@@ -4223,29 +4909,15 @@
         "comments": []
       },
       {
-        "description": "花舞-无糖x艺人\n780-800w\n视频有轴",
-        "author": null,
+        "description": "4★春田Q弹佩可661w视频有轴",
+        "author": "Q弹佩可",
         "damage": {
-          "value": null,
-          "low": 7800000,
-          "high": 8000000
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1kT4y1Z7FY?p=6"
-        ],
-        "images": [],
-        "comments": []
-      },
-      {
-        "description": "R14妈\n花舞-启明\n815w评论有轴",
-        "author": null,
-        "damage": {
-          "value": 8150000,
+          "value": 6610000,
           "low": null,
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1Nq4y1Z75k"
+          "https://www.bilibili.com/video/BV1cP4y187Mb?p=4"
         ],
         "images": [],
         "comments": []
@@ -4265,20 +4937,6 @@
         "comments": []
       },
       {
-        "description": "R10妈非时停\nQ弹佩可490w\n视频有轴",
-        "author": "Q弹佩可",
-        "damage": {
-          "value": 4900000,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1cP4y187Mb?p=6"
-        ],
-        "images": [],
-        "comments": []
-      },
-      {
         "description": "R14妈非时停\nQ弹佩可487w\n视频有轴",
         "author": "Q弹佩可",
         "damage": {
@@ -4293,43 +4951,15 @@
         "comments": []
       },
       {
-        "description": "4★春田Q弹佩可661w视频有轴",
+        "description": "R10妈非时停\nQ弹佩可490w\n视频有轴",
         "author": "Q弹佩可",
         "damage": {
-          "value": 6610000,
+          "value": 4900000,
           "low": null,
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1cP4y187Mb?p=4"
-        ],
-        "images": [],
-        "comments": []
-      },
-      {
-        "description": "满剧情妈\n林薄暮兮 寄宝轴\n830w简介有说明",
-        "author": null,
-        "damage": {
-          "value": 8300000,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1M341117rq?from=search&seid=11498053136927917630&spm_id_from=333.337.0.0"
-        ],
-        "images": [],
-        "comments": []
-      },
-      {
-        "description": " 满中满黑猫\n平子=皿=750w评论有轴",
-        "author": null,
-        "damage": {
-          "value": 7500000,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1gQ4y167xM"
+          "https://www.bilibili.com/video/BV1cP4y187Mb?p=6"
         ],
         "images": [],
         "comments": []
@@ -4382,6 +5012,112 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Ff4y1c7Et?from=search&seid=3580038355808816786&spm_id_from=333.337.0.0"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "C511",
+    "characters": [
+      {
+        "id": 1042,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1060,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "练度未知"
+    ],
+    "labels": [],
+    "standard_damage": 3600000,
+    "sources": [
+      {
+        "description": "彼方鸢羽\n369w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 3690000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Xh411n7ix"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct508",
+    "characters": [
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1060,
+        "requirements": []
+      },
+      {
+        "id": 1101,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "硬性要求：连点器（109点不出直接寄），r10脆脆妈\n练度：法核全员满级满星14-4.6，水师4x11-6满；妈借的，战力21318（6星30专r10-6满好感妈战力为22385）"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4200000,
+    "sources": [
+      {
+        "description": "剑煌-\n连点auto433w",
+        "author": null,
+        "damage": {
+          "value": 4330000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1nh411H77L"
         ],
         "images": [],
         "comments": []
@@ -4504,6 +5240,74 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1cq4y1Z7u5?p=10"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "韭月初八\n全auto432w",
+        "author": "韭月初八",
+        "damage": {
+          "value": 4320000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qQ4y1Q75X"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct510",
+    "characters": [
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1101,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "3x水老师，中途抢了一次妈，否则水电会死"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3600000,
+    "sources": [
+      {
+        "description": "天降砖雨\n连点auto366w",
+        "author": null,
+        "damage": {
+          "value": 3660000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mT4y1Z7pm"
         ],
         "images": [],
         "comments": []
@@ -4636,6 +5440,43 @@
   },
   {
     "boss": "C5",
+    "id": "ct509",
+    "characters": [
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1080,
+        "requirements": []
+      },
+      {
+        "id": 1037,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 2500000,
+    "sources": []
+  },
+  {
+    "boss": "C5",
     "id": "ct503",
     "characters": [
       {
@@ -4762,6 +5603,60 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1QT4y1Z7MS?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct511",
+    "characters": [
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1095,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "视频后半段 1：57开始"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 2750000,
+    "sources": [
+      {
+        "description": "芸出无心\n全auto279w",
+        "author": null,
+        "damage": {
+          "value": 2790000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mq4y1P7FV"
         ],
         "images": [],
         "comments": []
