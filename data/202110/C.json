@@ -1921,6 +1921,58 @@
   },
   {
     "boss": "C2",
+    "id": "ct213",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4200000,
+    "sources": [
+      {
+        "description": "爱之天使降临\n半auto434w",
+        "author": null,
+        "damage": {
+          "value": 4340000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV183411y7fa"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
     "id": "ct205",
     "characters": [
       {
@@ -2906,6 +2958,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "狂三酱的丈夫\n全auto387w",
+        "author": null,
+        "damage": {
+          "value": 3870000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1xL4y1z7Yw"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -3520,12 +3586,25 @@
       "low": null,
       "high": null
     },
-    "comments": [
-      "考古视频，怎么悟道看你们了"
-    ],
+    "comments": [],
     "labels": [],
     "standard_damage": 4870000,
-    "sources": []
+    "sources": [
+      {
+        "description": "アウグスティヌス\n447w评论有轴",
+        "author": null,
+        "damage": {
+          "value": 4470000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Df4y1E7YN"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "C4",
@@ -3677,6 +3756,56 @@
   },
   {
     "boss": "C4",
+    "id": "C412",
+    "characters": [
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 3900000,
+    "sources": [
+      {
+        "description": "刻录机斯\n396w暂时无轴",
+        "author": null,
+        "damage": {
+          "value": 3960000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ib4y117Dk"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
     "id": "C409",
     "characters": [
       {
@@ -3751,7 +3880,7 @@
   },
   {
     "boss": "C4",
-    "id": "C411",
+    "id": "AUTO区",
     "characters": [
       {
         "id": 1091,
@@ -3782,7 +3911,9 @@
     "comments": [
       "8：55开始\n考古视频，怎么悟道看你们了"
     ],
-    "labels": [],
+    "labels": [
+      "Auto"
+    ],
     "standard_damage": 3690000,
     "sources": []
   },
@@ -3900,6 +4031,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1hq4y1P7jw"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "ct414",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1056,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4100000,
+    "sources": [
+      {
+        "description": "维斯酱LV\n半auto423w",
+        "author": null,
+        "damage": {
+          "value": 4230000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Cf4y1j7Gv"
         ],
         "images": [],
         "comments": []
@@ -4143,10 +4326,10 @@
     "standard_damage": 3620000,
     "sources": [
       {
-        "description": "酷乐【物2】\n半auto428w",
+        "description": "酷乐【物2】\n半auto362w",
         "author": "酷乐",
         "damage": {
-          "value": 4280000,
+          "value": 3620000,
           "low": null,
           "high": null
         },
@@ -4695,6 +4878,34 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "5★圣母\n1080w演示",
+        "author": null,
+        "damage": {
+          "value": 10800000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SU4y1A7vY?from=search&seid=18154858642999256216&spm_id_from=333.337.0.0"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "5★圣母\n1086w简介有轴",
+        "author": null,
+        "damage": {
+          "value": 10860000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV17b4y1172C"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -5012,6 +5223,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Ff4y1c7Et?from=search&seid=3580038355808816786&spm_id_from=333.337.0.0"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "C512",
+    "characters": [
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1060,
+        "requirements": []
+      },
+      {
+        "id": 1015,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "黑猫卡了137级"
+    ],
+    "labels": [],
+    "standard_damage": 4750000,
+    "sources": [
+      {
+        "description": "花舞-pts \n金框妈 5★圣母\n476w评论有轴",
+        "author": "花舞-pts",
+        "damage": {
+          "value": 4760000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1i3411y7Yp"
         ],
         "images": [],
         "comments": []
