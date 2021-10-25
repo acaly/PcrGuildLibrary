@@ -11,15 +11,19 @@
 
 ### 数据文件地址
 
+<s>
 原始数据，以2021年7月会战A面为例：
 
-* 索引：https://gitee.com/acaly/PcrGuildLibrary/raw/master/raw/202107/A/index.json
-* 数据文件：https://gitee.com/acaly/PcrGuildLibrary/raw/master/raw/202107/A/<索引中提供的文件名>
+* 索引：https://github.com/acaly/PcrGuildLibrary/raw/master/raw/202107/A/index.json
+* 数据文件：https://github.com/acaly/PcrGuildLibrary/raw/master/raw/202107/A/<索引中提供的文件名>
+</s>
 
-转换后数据，以2021年7月会战A面为例：
+为节省空间，不再记录原始数据。
 
-* https://gitee.com/acaly/PcrGuildLibrary/raw/master/data/202107/A.json
-* App中可以将`https://gitee.com/acaly/PcrGuildLibrary/raw/master/data/`记录为地址前缀
+转换后数据，以2021年7月会战（7月6日开始）A面为例：
+
+* https://github.com/acaly/PcrGuildLibrary/raw/master/data/20210706/A.json
+* App中可以将`https://github.com/acaly/PcrGuildLibrary/raw/master/data/`记录为地址前缀
 
 ### Json数据文件格式
 
