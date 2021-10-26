@@ -291,6 +291,43 @@
   },
   {
     "boss": "A1",
+    "id": "at108",
+    "characters": [
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6000000,
+    "sources": []
+  },
+  {
+    "boss": "A1",
     "id": "at101",
     "characters": [
       {
@@ -324,6 +361,43 @@
       "Auto"
     ],
     "standard_damage": 6000000,
+    "sources": []
+  },
+  {
+    "boss": "A1",
+    "id": "at109",
+    "characters": [
+      {
+        "id": 1701,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5900000,
     "sources": []
   },
   {
@@ -454,6 +528,117 @@
       },
       {
         "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6000000,
+    "sources": []
+  },
+  {
+    "boss": "A1",
+    "id": "at110",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6000000,
+    "sources": []
+  },
+  {
+    "boss": "A1",
+    "id": "at111",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6000000,
+    "sources": []
+  },
+  {
+    "boss": "A1",
+    "id": "at112",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1044,
         "requirements": []
       }
     ],
@@ -890,6 +1075,124 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "江风渔火\n全自动724w",
+        "author": null,
+        "damage": {
+          "value": 7240000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1MR4y1n7rV?p=8"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A2",
+    "id": "at207",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6000000,
+    "sources": [
+      {
+        "description": "芥荒\n全自动613w",
+        "author": null,
+        "damage": {
+          "value": 6130000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1RL411g7Th?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A2",
+    "id": "at208",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5800000,
+    "sources": [
+      {
+        "description": "FF半音\n半自动582w",
+        "author": "FF半音",
+        "damage": {
+          "value": 5820000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1GQ4y1q74o?p=4"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -939,6 +1242,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1xF411e7RX?from=search&seid=15292812203132529723&spm_id_from=333.337.0.0"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A2",
+    "id": "at209",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6300000,
+    "sources": [
+      {
+        "description": "芥荒\n半自动659w",
+        "author": null,
+        "damage": {
+          "value": 6590000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1RL411g7Th?p=5"
         ],
         "images": [],
         "comments": []
@@ -999,6 +1354,110 @@
   },
   {
     "boss": "A2",
+    "id": "at210",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5600000,
+    "sources": [
+      {
+        "description": "江风渔火\n全自动569w",
+        "author": null,
+        "damage": {
+          "value": 5690000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1MR4y1n7rV?p=9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A2",
+    "id": "at211",
+    "characters": [
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6100000,
+    "sources": [
+      {
+        "description": "芥荒\n半自动620w",
+        "author": null,
+        "damage": {
+          "value": 6200000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1RL411g7Th?p=6"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A2",
     "id": "at206",
     "characters": [
       {
@@ -1043,6 +1502,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Nh4118757?p=7"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "江风渔火\n全自动584w",
+        "author": null,
+        "damage": {
+          "value": 5840000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1MR4y1n7rV?p=7"
         ],
         "images": [],
         "comments": []
@@ -1103,6 +1576,58 @@
   },
   {
     "boss": "A2",
+    "id": "at212",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6300000,
+    "sources": [
+      {
+        "description": "FF半音\n半自动647w",
+        "author": "FF半音",
+        "damage": {
+          "value": 6470000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1GQ4y1q74o?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A2",
     "id": "at205",
     "characters": [
       {
@@ -1147,6 +1672,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Nh4118757?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A2",
+    "id": "at213",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5800000,
+    "sources": [
+      {
+        "description": "江风渔火\n全自动589w",
+        "author": null,
+        "damage": {
+          "value": 5890000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1MR4y1n7rV?p=6"
         ],
         "images": [],
         "comments": []
@@ -1369,6 +1946,58 @@
   },
   {
     "boss": "A3",
+    "id": "at307",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6300000,
+    "sources": [
+      {
+        "description": "芥荒\n半auto719w",
+        "author": null,
+        "damage": {
+          "value": 7190000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1RL411g7Th?p=7"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A3",
     "id": "at303",
     "characters": [
       {
@@ -1430,6 +2059,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "江风渔火\n全自动676w",
+        "author": null,
+        "damage": {
+          "value": 6760000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1MR4y1n7rV?p=10"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -1481,6 +2124,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Nh4118757?p=8"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "江风渔火\n全自动545w",
+        "author": null,
+        "damage": {
+          "value": 5450000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1MR4y1n7rV?p=11"
         ],
         "images": [],
         "comments": []
@@ -1595,6 +2252,58 @@
   },
   {
     "boss": "A3",
+    "id": "at308",
+    "characters": [
+      {
+        "id": 1701,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5500000,
+    "sources": [
+      {
+        "description": "FF半音\n半自动550w",
+        "author": "FF半音",
+        "damage": {
+          "value": 5500000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1GQ4y1q74o?p=6"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A3",
     "id": "at302",
     "characters": [
       {
@@ -1647,6 +2356,58 @@
   },
   {
     "boss": "A3",
+    "id": "at309",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6000000,
+    "sources": [
+      {
+        "description": "FF半音\n半自动638w",
+        "author": "FF半音",
+        "damage": {
+          "value": 6380000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1GQ4y1q74o?p=5"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A3",
     "id": "at305",
     "characters": [
       {
@@ -1691,6 +2452,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Nh4118757?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A3",
+    "id": "at310",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5000000,
+    "sources": [
+      {
+        "description": "江风渔火\n全自动507w",
+        "author": null,
+        "damage": {
+          "value": 5070000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1MR4y1n7rV?p=12"
         ],
         "images": [],
         "comments": []
@@ -1967,6 +2780,58 @@
   },
   {
     "boss": "A4",
+    "id": "at408",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6000000,
+    "sources": [
+      {
+        "description": "江风渔火\n全自动609w",
+        "author": null,
+        "damage": {
+          "value": 6090000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1MR4y1n7rV?p=14"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A4",
     "id": "at407",
     "characters": [
       {
@@ -2120,6 +2985,34 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "江风渔火\n全自动527w",
+        "author": null,
+        "damage": {
+          "value": 5270000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1MR4y1n7rV?p=13"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "FF半音\n半自动601w",
+        "author": "FF半音",
+        "damage": {
+          "value": 6010000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1GQ4y1q74o?p=7"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -2221,6 +3114,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1BL411g7WY?p=5"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A4",
+    "id": "at409",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5000000,
+    "sources": [
+      {
+        "description": "江风渔火\n全自动508w",
+        "author": null,
+        "damage": {
+          "value": 5080000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1MR4y1n7rV?p=14"
         ],
         "images": [],
         "comments": []
@@ -2476,6 +3421,34 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "江风渔火\n全自动563w",
+        "author": null,
+        "damage": {
+          "value": 5630000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1MR4y1n7rV?p=16"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "FF半音\n半自动614w",
+        "author": "FF半音",
+        "damage": {
+          "value": 6140000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1GQ4y1q74o?p=8"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -2577,6 +3550,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1BL411g7WY?p=16"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A5",
+    "id": "at508",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4200000,
+    "sources": [
+      {
+        "description": "江风渔火\n全自动428w",
+        "author": null,
+        "damage": {
+          "value": 4280000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1MR4y1n7rV?p=19"
         ],
         "images": [],
         "comments": []
@@ -2733,6 +3758,110 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1BL411g7WY?p=6"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A5",
+    "id": "at509",
+    "characters": [
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4500000,
+    "sources": [
+      {
+        "description": "江风渔火\n全自动463w",
+        "author": null,
+        "damage": {
+          "value": 4630000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1MR4y1n7rV?p=18"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A5",
+    "id": "at510",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4500000,
+    "sources": [
+      {
+        "description": "江风渔火\n全自动462w",
+        "author": null,
+        "damage": {
+          "value": 4620000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1MR4y1n7rV?p=17"
         ],
         "images": [],
         "comments": []
