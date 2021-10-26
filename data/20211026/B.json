@@ -191,6 +191,41 @@
   },
   {
     "boss": "B1",
+    "id": "B105",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 6000000,
+    "sources": []
+  },
+  {
+    "boss": "B1",
     "id": "bt101",
     "characters": [
       {
@@ -235,6 +270,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1H3411y7jm?p=2"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "力拔山兮~\n全自动552w",
+        "author": null,
+        "damage": {
+          "value": 5520000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1VQ4y1S7ip?p=2"
         ],
         "images": [],
         "comments": []
@@ -317,6 +366,110 @@
   },
   {
     "boss": "B1",
+    "id": "bt108",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4900000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动496w",
+        "author": null,
+        "damage": {
+          "value": 4960000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1iL4y1i7oA?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B1",
+    "id": "bt109",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1037,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4900000,
+    "sources": [
+      {
+        "description": "力拔山兮~\n全自动496w",
+        "author": null,
+        "damage": {
+          "value": 4960000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1VQ4y1S7ip?p=1"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B1",
     "id": "bt105",
     "characters": [
       {
@@ -369,6 +522,58 @@
   },
   {
     "boss": "B1",
+    "id": "bt107",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5400000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动544w",
+        "author": null,
+        "damage": {
+          "value": 5440000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1iL4y1i7oA?p=1"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B1",
     "id": "bt103",
     "characters": [
       {
@@ -403,6 +608,58 @@
     ],
     "standard_damage": 6000000,
     "sources": []
+  },
+  {
+    "boss": "B1",
+    "id": "bt110",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5600000,
+    "sources": [
+      {
+        "description": "力拔山兮~\n全自动574w",
+        "author": null,
+        "damage": {
+          "value": 5740000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1VQ4y1S7ip?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "B1",
@@ -453,8 +710,59 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动541w",
+        "author": null,
+        "damage": {
+          "value": 5410000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1iL4y1i7oA?p=4"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
+  },
+  {
+    "boss": "B1",
+    "id": "bt111",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5350000,
+    "sources": []
   },
   {
     "boss": "B2",
@@ -528,6 +836,56 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1xF411e7RX?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B2",
+    "id": "B206",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 6150000,
+    "sources": [
+      {
+        "description": "花舞-云烨朱云622w评论有轴",
+        "author": "花舞-云烨朱云",
+        "damage": {
+          "value": 6220000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Tq4y1V7Um"
         ],
         "images": [],
         "comments": []
@@ -736,6 +1094,56 @@
   },
   {
     "boss": "B2",
+    "id": "B207",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5870000,
+    "sources": [
+      {
+        "description": "破晓の残血587w\n评论有轴",
+        "author": null,
+        "damage": {
+          "value": 5870000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1kb4y1b7wa"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B2",
     "id": "bt205",
     "characters": [
       {
@@ -797,6 +1205,34 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动661w",
+        "author": null,
+        "damage": {
+          "value": 6610000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1iL4y1i7oA?p=7"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "墨夕\n全自动627w",
+        "author": null,
+        "damage": {
+          "value": 6270000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1BL411g7WY?p=8"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -846,6 +1282,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1H3411y7jm?p=3"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "力拔山兮~\n全自动557w",
+        "author": null,
+        "damage": {
+          "value": 5570000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1VQ4y1S7ip?p=5"
         ],
         "images": [],
         "comments": []
@@ -914,6 +1364,86 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1T44y1i7A7?p=27"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动567w",
+        "author": null,
+        "damage": {
+          "value": 5670000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1iL4y1i7oA?p=8"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "墨夕\n全自动543w",
+        "author": null,
+        "damage": {
+          "value": 5430000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1BL411g7WY?p=13"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B2",
+    "id": "bt208",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5200000,
+    "sources": [
+      {
+        "description": "力拔山兮~\n全自动521w",
+        "author": null,
+        "damage": {
+          "value": 5210000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1VQ4y1S7ip?p=6"
         ],
         "images": [],
         "comments": []
@@ -1040,6 +1570,58 @@
   },
   {
     "boss": "B2",
+    "id": "bt209",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5000000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动503w",
+        "author": null,
+        "damage": {
+          "value": 5030000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1iL4y1i7oA?p=6"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B2",
     "id": "bt202",
     "characters": [
       {
@@ -1084,6 +1666,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1H3411y7jm?p=4"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "墨夕\n全自动490w",
+        "author": null,
+        "damage": {
+          "value": 4900000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1BL411g7WY?p=3"
         ],
         "images": [],
         "comments": []
@@ -1136,6 +1732,72 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1T44y1i7A7?p=29"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B2",
+    "id": "bt210",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5000000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动511w",
+        "author": null,
+        "damage": {
+          "value": 5110000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1iL4y1i7oA?p=5"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "力拔山兮~\n全自动502w",
+        "author": null,
+        "damage": {
+          "value": 5020000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1VQ4y1S7ip?p=4"
         ],
         "images": [],
         "comments": []
@@ -1380,6 +2042,56 @@
   },
   {
     "boss": "B3",
+    "id": "B306",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5700000,
+    "sources": [
+      {
+        "description": "花舞-云烨朱云572w 无轴",
+        "author": "花舞-云烨朱云",
+        "damage": {
+          "value": 5720000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV19r4y1y7Ww/"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B3",
     "id": "bt304",
     "characters": [
       {
@@ -1440,6 +2152,34 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1T44y1i7A7?p=30"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动640w",
+        "author": null,
+        "damage": {
+          "value": 6400000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1iL4y1i7oA?p=11"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "墨夕\n全自动605w",
+        "author": null,
+        "damage": {
+          "value": 6050000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1BL411g7WY?p=9"
         ],
         "images": [],
         "comments": []
@@ -1523,6 +2263,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "力拔山兮~\n全自动570w",
+        "author": null,
+        "damage": {
+          "value": 5700000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1VQ4y1S7ip?p=7"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -1574,6 +2328,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1hh41187KH?p=5"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "力拔山兮~\n全自动542w",
+        "author": null,
+        "damage": {
+          "value": 5420000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1VQ4y1S7ip?p=8"
         ],
         "images": [],
         "comments": []
@@ -1692,6 +2460,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1T44y1i7A7?p=32"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B3",
+    "id": "bt310",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4800000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动480w",
+        "author": null,
+        "damage": {
+          "value": 4800000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1iL4y1i7oA?p=12"
         ],
         "images": [],
         "comments": []
@@ -1858,6 +2678,58 @@
   },
   {
     "boss": "B3",
+    "id": "bt315",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4700000,
+    "sources": [
+      {
+        "description": "墨夕\n全自动471w",
+        "author": null,
+        "damage": {
+          "value": 4710000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1BL411g7WY?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B3",
     "id": "bt307",
     "characters": [
       {
@@ -1902,6 +2774,214 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1T44y1i7A7?p=31"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B3",
+    "id": "bt311",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5010000,
+    "sources": [
+      {
+        "description": "力拔山兮~\n全自动501w",
+        "author": null,
+        "damage": {
+          "value": 5010000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1VQ4y1S7ip?p=8"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B3",
+    "id": "bt314",
+    "characters": [
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5000000,
+    "sources": [
+      {
+        "description": "墨夕\n全自动508w",
+        "author": null,
+        "damage": {
+          "value": 5080000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1BL411g7WY?p=9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B3",
+    "id": "bt312",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4900000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动492w",
+        "author": null,
+        "damage": {
+          "value": 4920000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1iL4y1i7oA?p=10"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B3",
+    "id": "bt313",
+    "characters": [
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4800000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动484w",
+        "author": null,
+        "damage": {
+          "value": 4840000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1iL4y1i7oA?p=9"
         ],
         "images": [],
         "comments": []
@@ -2054,6 +3134,56 @@
   },
   {
     "boss": "B4",
+    "id": "B403",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4400000,
+    "sources": [
+      {
+        "description": "花舞-云烨朱云445w 无轴",
+        "author": "花舞-云烨朱云",
+        "damage": {
+          "value": 4450000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1of4y1g7fN/"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
     "id": "bt404",
     "characters": [
       {
@@ -2098,6 +3228,34 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Nh4118757?p=23"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "力拔山兮~\n全自动512w",
+        "author": null,
+        "damage": {
+          "value": 5120000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1VQ4y1S7ip?p=12"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "墨夕\n全自动512w",
+        "author": null,
+        "damage": {
+          "value": 5120000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1BL411g7WY?p=10"
         ],
         "images": [],
         "comments": []
@@ -2348,6 +3506,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "墨夕\n全自动502w",
+        "author": null,
+        "damage": {
+          "value": 5020000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1BL411g7WY?p=5"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -2457,6 +3629,58 @@
   },
   {
     "boss": "B4",
+    "id": "bt416",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4800000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动480w",
+        "author": null,
+        "damage": {
+          "value": 4800000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1iL4y1i7oA?p=14"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
     "id": "bt403",
     "characters": [
       {
@@ -2501,6 +3725,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Nh4118757?p=23"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
+    "id": "bt417",
+    "characters": [
+      {
+        "id": 1105,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4200000,
+    "sources": [
+      {
+        "description": "墨夕\n全自动428w",
+        "author": null,
+        "damage": {
+          "value": 4280000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1BL411g7WY?p=15"
         ],
         "images": [],
         "comments": []
@@ -2608,6 +3884,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "力拔山兮~\n全自动504w",
+        "author": null,
+        "damage": {
+          "value": 5040000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1VQ4y1S7ip?p=10"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -2659,6 +3949,110 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1hh41187KH/"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
+    "id": "bt414",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4600000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动468w",
+        "author": null,
+        "damage": {
+          "value": 4680000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1iL4y1i7oA?p=13"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
+    "id": "bt415",
+    "characters": [
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5110000,
+    "sources": [
+      {
+        "description": "力拔山兮~\n全自动511w",
+        "author": null,
+        "damage": {
+          "value": 5110000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1VQ4y1S7ip?p=11"
         ],
         "images": [],
         "comments": []
@@ -2943,6 +4337,56 @@
   },
   {
     "boss": "B5",
+    "id": "B506",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4700000,
+    "sources": [
+      {
+        "description": "花舞-云烨朱云 475w 无轴",
+        "author": "花舞-云烨朱云",
+        "damage": {
+          "value": 4750000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1b44y1v7D5/"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B5",
     "id": "bt501",
     "characters": [
       {
@@ -3017,6 +4461,138 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1T44y1i7A7?p=38"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "力拔山兮~\n全自动589w",
+        "author": null,
+        "damage": {
+          "value": 5890000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1VQ4y1S7ip?p=13"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "墨夕\n全自动563w",
+        "author": null,
+        "damage": {
+          "value": 5630000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1BL411g7WY?p=11"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B5",
+    "id": "bt507",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5000000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动505w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 5050000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hh41187KH?p=7"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B5",
+    "id": "bt508",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4900000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动500w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 5000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hh41187KH?p=6"
         ],
         "images": [],
         "comments": []
@@ -3121,6 +4697,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1T44y1i7A7?p=40"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "墨夕\n全自动466w",
+        "author": null,
+        "damage": {
+          "value": 4660000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1BL411g7WY?p=6"
         ],
         "images": [],
         "comments": []
@@ -3281,6 +4871,110 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1T44y1i7A7?p=39"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B5",
+    "id": "bt509",
+    "characters": [
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1015,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4000000,
+    "sources": [
+      {
+        "description": "力拔山兮~\n全自动400w",
+        "author": null,
+        "damage": {
+          "value": 4000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1VQ4y1S7ip?p=14"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B5",
+    "id": "bt510",
+    "characters": [
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3650000,
+    "sources": [
+      {
+        "description": "力拔山兮~\n全自动365w",
+        "author": null,
+        "damage": {
+          "value": 3650000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1VQ4y1S7ip?p=15"
         ],
         "images": [],
         "comments": []
