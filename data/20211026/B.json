@@ -331,5 +331,469 @@
         "comments": []
       }
     ]
+  },
+  {
+    "boss": "B3",
+    "id": "B304",
+    "characters": [
+      {
+        "id": 1113,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "说是最优线成刀率20%\n第一天建议放过自己\n出完刀才是胜利"
+    ],
+    "labels": [],
+    "standard_damage": 6200000,
+    "sources": []
+  },
+  {
+    "boss": "B3",
+    "id": "B301",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5800000,
+    "sources": []
+  },
+  {
+    "boss": "B3",
+    "id": "B302",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "悟道飞升"
+    ],
+    "labels": [],
+    "standard_damage": 6600000,
+    "sources": [
+      {
+        "description": "Sora宝660w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 6600000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1dT4y1R7zG?p=8"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "寄宝宝600w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 6000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1kP4y1L7Jw?p=10"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B3",
+    "id": "B303",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5500000,
+    "sources": [
+      {
+        "description": "花舞-无糖×艺人蓝字550w\n视频600w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5500000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1xF411e7RX?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
+    "id": "B402",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "4★水狼"
+    ],
+    "labels": [],
+    "standard_damage": 6200000,
+    "sources": [
+      {
+        "description": "Sora宝620w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 6200000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1dT4y1R7zG?p=10"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "寄宝610w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 6100000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1kP4y1L7Jw?p=11"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
+    "id": "B401",
+    "characters": [
+      {
+        "id": 1105,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 6100000,
+    "sources": [
+      {
+        "description": "Sora宝610w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 6100000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1dT4y1R7zG?p=9"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖×艺人蓝字595w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5950000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1xF411e7RX?p=5"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B5",
+    "id": "B504",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1101,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "B5全部刚需72级圣千"
+    ],
+    "labels": [],
+    "standard_damage": 15000000,
+    "sources": []
+  },
+  {
+    "boss": "B5",
+    "id": "B503",
+    "characters": [
+      {
+        "id": 1042,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 15000000,
+    "sources": []
+  },
+  {
+    "boss": "B5",
+    "id": "B501",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1042,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "金框紫框妈皆可"
+    ],
+    "labels": [],
+    "standard_damage": 15000000,
+    "sources": []
+  },
+  {
+    "boss": "B5",
+    "id": "B502",
+    "characters": [
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1101,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "紫框妈"
+    ],
+    "labels": [],
+    "standard_damage": 15000000,
+    "sources": []
   }
 ]
