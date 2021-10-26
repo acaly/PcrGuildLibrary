@@ -176,6 +176,41 @@
   },
   {
     "boss": "A1",
+    "id": "A108",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1701,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 6000000,
+    "sources": []
+  },
+  {
+    "boss": "A1",
     "id": "A103",
     "characters": [
       {
@@ -211,7 +246,7 @@
   },
   {
     "boss": "A1",
-    "id": "A106",
+    "id": "AUTO区",
     "characters": [
       {
         "id": 1106,
@@ -242,7 +277,9 @@
     "comments": [
       "570w~返21s\n视频返25s"
     ],
-    "labels": [],
+    "labels": [
+      "Auto"
+    ],
     "standard_damage": 6000000,
     "sources": []
   },
