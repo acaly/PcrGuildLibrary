@@ -1,5 +1,233 @@
 [
   {
+    "boss": "C1",
+    "id": "C101",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1113,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5950000,
+    "sources": [
+      {
+        "description": "寄宝595w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5950000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1334y1U7k5"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Sora宝\n标伤602w\n演示625w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 6020000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1YL411g7LD?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "C102",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5850000,
+    "sources": [
+      {
+        "description": "寄宝104世界线\n585w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5850000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1334y1U7k5?p=2"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "寄宝101世界线\n565w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5650000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1334y1U7k5?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C201",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 6300000,
+    "sources": [
+      {
+        "description": "Sora宝646w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 6460000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1YL411g7LD?p=5"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C202",
+    "characters": [
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5850000,
+    "sources": [
+      {
+        "description": "寄宝585w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5850000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1334y1U7k5?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
     "boss": "C3",
     "id": "C301",
     "characters": [
@@ -32,7 +260,22 @@
     "comments": [],
     "labels": [],
     "standard_damage": 4720000,
-    "sources": []
+    "sources": [
+      {
+        "description": "Sora宝472w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 4720000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1YL411g7LD"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "C3",
@@ -67,6 +310,227 @@
     "comments": [],
     "labels": [],
     "standard_damage": 5140000,
+    "sources": [
+      {
+        "description": "Sora宝514w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 5140000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1YL411g7LD?p=2"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "寄宝510w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5100000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1334y1U7k5?p=5"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "C303",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4750000,
+    "sources": [
+      {
+        "description": "寄宝475w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 4750000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1334y1U7k5?p=6"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "C401",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1101,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 14000000,
+    "sources": []
+  },
+  {
+    "boss": "C5",
+    "id": "C501",
+    "characters": [
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "14妈和5NNK 都能打"
+    ],
+    "labels": [],
+    "standard_damage": 17000000,
+    "sources": []
+  },
+  {
+    "boss": "C5",
+    "id": "C502",
+    "characters": [
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1015,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 17000000,
+    "sources": []
+  },
+  {
+    "boss": "C5",
+    "id": "C503",
+    "characters": [
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1015,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 17000000,
     "sources": []
   }
 ]
