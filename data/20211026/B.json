@@ -530,7 +530,7 @@
     "standard_damage": 6300000,
     "sources": [
       {
-        "description": "玩具喵全auto\n655w",
+        "description": "玩具喵全自动\n655w",
         "author": "玩具喵",
         "damage": {
           "value": 6550000,
@@ -582,7 +582,7 @@
     "standard_damage": 6150000,
     "sources": [
       {
-        "description": "酷乐全auto\n616w",
+        "description": "酷乐全自动\n616w",
         "author": "酷乐",
         "damage": {
           "value": 6160000,
@@ -636,7 +636,7 @@
     "standard_damage": 5500000,
     "sources": [
       {
-        "description": "玩具喵全auto\n547w",
+        "description": "玩具喵全自动\n547w",
         "author": "玩具喵",
         "damage": {
           "value": 5470000,
@@ -688,7 +688,7 @@
     "standard_damage": 5400000,
     "sources": [
       {
-        "description": "玩具喵半auto\n540w\n视频有轴",
+        "description": "玩具喵半自动\n540w\n视频有轴",
         "author": "玩具喵",
         "damage": {
           "value": 5400000,
@@ -697,6 +697,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Nh4118757?p=17"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "蓬莱山逸半自动\n558w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5580000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV15h41187Xa?p=2"
         ],
         "images": [],
         "comments": []
@@ -794,41 +808,6 @@
   },
   {
     "boss": "B3",
-    "id": "B301",
-    "characters": [
-      {
-        "id": 1106,
-        "requirements": []
-      },
-      {
-        "id": 1078,
-        "requirements": []
-      },
-      {
-        "id": 1084,
-        "requirements": []
-      },
-      {
-        "id": 1070,
-        "requirements": []
-      },
-      {
-        "id": 1092,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [],
-    "labels": [],
-    "standard_damage": 5800000,
-    "sources": []
-  },
-  {
-    "boss": "B3",
     "id": "B302",
     "characters": [
       {
@@ -895,6 +874,41 @@
   },
   {
     "boss": "B3",
+    "id": "B301",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5800000,
+    "sources": []
+  },
+  {
+    "boss": "B3",
     "id": "B303",
     "characters": [
       {
@@ -945,6 +959,60 @@
   },
   {
     "boss": "B3",
+    "id": "bt304",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "3x安概率寄"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6400000,
+    "sources": [
+      {
+        "description": "玩具喵全自动\n665w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 6650000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Nh4118757?p=27"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B3",
     "id": "bt301",
     "characters": [
       {
@@ -980,7 +1048,7 @@
     "standard_damage": 5750000,
     "sources": [
       {
-        "description": "酷乐全auto\n575w",
+        "description": "酷乐全自动\n575w",
         "author": "酷乐",
         "damage": {
           "value": 5750000,
@@ -1029,13 +1097,13 @@
     "labels": [
       "Auto"
     ],
-    "standard_damage": 4810000,
+    "standard_damage": 4550000,
     "sources": [
       {
-        "description": "玩具喵\n蓝字481w",
+        "description": "玩具喵全自动\n457w",
         "author": "玩具喵",
         "damage": {
-          "value": 4810000,
+          "value": 4570000,
           "low": null,
           "high": null
         },
@@ -1081,70 +1149,18 @@
     "labels": [
       "Auto"
     ],
-    "standard_damage": 5450000,
+    "standard_damage": 5300000,
     "sources": [
       {
-        "description": "玩具喵\n半自动蓝字545w视频有轴",
+        "description": "玩具喵半自动\n531w\n视频有轴",
         "author": "玩具喵",
         "damage": {
-          "value": 5450000,
+          "value": 5310000,
           "low": null,
           "high": null
         },
         "links": [
           "https://www.bilibili.com/video/BV1Nh4118757?p=18"
-        ],
-        "images": [],
-        "comments": []
-      }
-    ]
-  },
-  {
-    "boss": "B3",
-    "id": "bt304",
-    "characters": [
-      {
-        "id": 1111,
-        "requirements": []
-      },
-      {
-        "id": 1036,
-        "requirements": []
-      },
-      {
-        "id": 1078,
-        "requirements": []
-      },
-      {
-        "id": 1070,
-        "requirements": []
-      },
-      {
-        "id": 1092,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [],
-    "labels": [
-      "Auto"
-    ],
-    "standard_damage": 6530000,
-    "sources": [
-      {
-        "description": "玩具喵\n蓝字653w",
-        "author": "玩具喵",
-        "damage": {
-          "value": 6530000,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1Nh4118757?p=27"
         ],
         "images": [],
         "comments": []
