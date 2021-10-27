@@ -1,6 +1,70 @@
 [
   {
     "boss": "C1",
+    "id": "C103",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 6000000,
+    "sources": [
+      {
+        "description": "花舞-无糖x艺人\n611w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 6110000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1jF411e7Wy?p=1"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "玩具喵\n蓝607w视频有轴",
+        "author": "玩具喵",
+        "damage": {
+          "value": 6070000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ZL411g7SY?from=search&seid=17551345387877352461&spm_id_from=333.337.0.0"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
     "id": "C101",
     "characters": [
       {
@@ -57,6 +121,70 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1YL411g7LD?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "C100",
+    "characters": [
+      {
+        "id": 1063,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5910000,
+    "sources": [
+      {
+        "description": "Cat鱼投稿\n蓝591w视频演示\n轴看左边",
+        "author": null,
+        "damage": {
+          "value": 5910000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1WL411g7zy/"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "寄宝580w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5800000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1334y1U7k5?p=4"
         ],
         "images": [],
         "comments": []
@@ -129,18 +257,18 @@
   },
   {
     "boss": "C1",
-    "id": "C100",
+    "id": "ct106",
     "characters": [
-      {
-        "id": 1063,
-        "requirements": []
-      },
       {
         "id": 1103,
         "requirements": []
       },
       {
         "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
         "requirements": []
       },
       {
@@ -158,9 +286,313 @@
       "high": null
     },
     "comments": [],
-    "labels": [],
-    "standard_damage": 5910000,
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5350000,
+    "sources": [
+      {
+        "description": "天地z\n半自动535w\n轴在动态",
+        "author": null,
+        "damage": {
+          "value": 5350000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "ct101",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4740000,
+    "sources": [
+      {
+        "description": "玩具喵 刀【1】\n全自动492w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 4920000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1nU4y1c77x?p=1"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "川包\n全自动476w\r\n视频有轴",
+        "author": "川包",
+        "damage": {
+          "value": 4760000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mf4y1M7WX?from=search&seid=2138479377187662364&spm_id_from=333.337.0.0"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "ct104",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1037,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "蓝字460w\n水电14-0.6，情姐12-2，其他满中满\n花舞组：情姐rank12-5都可以，毕竟不受击"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4350000,
     "sources": []
+  },
+  {
+    "boss": "C1",
+    "id": "ct102",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4990000,
+    "sources": [
+      {
+        "description": "玩具喵 刀【2】\n半自动454w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 4540000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1nU4y1c77x?p=4"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "川包\n半自动473w\r\n视频有轴",
+        "author": "川包",
+        "damage": {
+          "value": 4730000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mf4y1M7WX?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "ct103",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4190000,
+    "sources": [
+      {
+        "description": "玩具喵 刀【3】\n半自动464w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 4640000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1nU4y1c77x?p=7"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "川包\n半自动403w\r\n视频有轴",
+        "author": "川包",
+        "damage": {
+          "value": 4030000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mf4y1M7WX?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "ct105",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3500000,
+    "sources": [
+      {
+        "description": "川包\n全自动350w\r\n视频有轴",
+        "author": "川包",
+        "damage": {
+          "value": 3500000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mf4y1M7WX?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "C2",
@@ -214,6 +646,58 @@
   },
   {
     "boss": "C2",
+    "id": "C206",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "580~630w"
+    ],
+    "labels": [],
+    "standard_damage": 6000000,
+    "sources": [
+      {
+        "description": "花舞-戏子\n均伤600w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 6000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Dv411u71h?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
     "id": "C202",
     "characters": [
       {
@@ -256,6 +740,576 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1334y1U7k5?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C203",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5600000,
+    "sources": [
+      {
+        "description": "花舞-无糖x艺人\n574w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5740000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1jF411e7Wy?p=3"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-忧默590w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5900000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/bv1xv411u7f9"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-永夜之殇 585w",
+        "author": "花舞-永夜之殇",
+        "damage": {
+          "value": 5850000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg4.docs.qq.com/image/AOvGCN3ESMWQyyNbxo60Aw.png?w=819&h=764"
+        ],
+        "comments": []
+      },
+      {
+        "description": "玩具喵\n蓝565w视频有轴",
+        "author": "玩具喵",
+        "damage": {
+          "value": 5650000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ZL411g7SY?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C205",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5700000,
+    "sources": [
+      {
+        "description": "花舞-忧默 570w",
+        "author": null,
+        "damage": {
+          "value": 5700000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg4.docs.qq.com/image/-ox7ryNUtl_-G6w4pOZIwg.png?w=795&h=768"
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C204",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1081,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5350000,
+    "sources": [
+      {
+        "description": "花舞-永夜之殇 535w",
+        "author": "花舞-永夜之殇",
+        "damage": {
+          "value": 5350000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg6.docs.qq.com/image/PEX4ClAcEFssrfMQs5LIrA.png?w=794&h=779"
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "ct201",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5820000,
+    "sources": [
+      {
+        "description": "花舞-无糖x艺人\n半自动582w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5820000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1jF411e7Wy?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "ct205",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5750000,
+    "sources": [
+      {
+        "description": "川包\n半自动575w\n视频有轴",
+        "author": "川包",
+        "damage": {
+          "value": 5750000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mf4y1M7WX?p=5"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "ct202",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5280000,
+    "sources": [
+      {
+        "description": "玩具喵  刀【1】\n全自动521w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 5210000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1nU4y1c77x?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "ct204",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1006,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5430000,
+    "sources": [
+      {
+        "description": "玩具喵  刀【2】\n全自动570w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 5700000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1nU4y1c77x?p=6"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "玩具喵  刀【3】\n全自动570w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 5700000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1nU4y1c77x?p=8"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "ct206",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5390000,
+    "sources": [
+      {
+        "description": "川包\n半自动539w\n视频有轴",
+        "author": "川包",
+        "damage": {
+          "value": 5390000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mf4y1M7WX?p=6"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "ct203",
+    "characters": [
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4990000,
+    "sources": [
+      {
+        "description": "玩具喵  刀【2】\n半自动505w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 5050000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1nU4y1c77x?p=5"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "ct207",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4520000,
+    "sources": [
+      {
+        "description": "川包\n半自动452w\n视频有轴",
+        "author": "川包",
+        "damage": {
+          "value": 4520000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mf4y1M7WX?p=7"
         ],
         "images": [],
         "comments": []
@@ -323,6 +1377,34 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "花舞-无糖x艺人\n496w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 4960000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1jF411e7Wy?p=5"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "玩具喵\n蓝470w视频有轴",
+        "author": "玩具喵",
+        "damage": {
+          "value": 4700000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ZL411g7SY?p=3"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -383,7 +1465,7 @@
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1334y1U7k5?p=5"
+          "https://www.bilibili.com/video/BV1334y1U7k5?p=6"
         ],
         "images": [],
         "comments": []
@@ -398,6 +1480,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Hu411o77Q"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖x艺人\n531w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5310000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1jF411e7Wy?p=4"
         ],
         "images": [],
         "comments": []
@@ -455,27 +1551,27 @@
     ]
   },
   {
-    "boss": "C4",
-    "id": "C401",
+    "boss": "C3",
+    "id": "ct301",
     "characters": [
       {
-        "id": 1106,
-        "requirements": []
-      },
-      {
-        "id": 1084,
-        "requirements": []
-      },
-      {
-        "id": 1101,
-        "requirements": []
-      },
-      {
-        "id": 1070,
-        "requirements": []
-      },
-      {
         "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
         "requirements": []
       }
     ],
@@ -485,9 +1581,132 @@
       "high": null
     },
     "comments": [],
-    "labels": [],
-    "standard_damage": 14000000,
-    "sources": []
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4380000,
+    "sources": [
+      {
+        "description": "玩具喵 刀【1】\n半自动424w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 4240000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1nU4y1c77x?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "ct303",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "蓝字400w\n狼14-6，可可萝金紫，其他满中满"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3800000,
+    "sources": [
+      {
+        "description": "川包\n半自动446w\n视频有轴",
+        "author": "川包",
+        "damage": {
+          "value": 4460000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mf4y1M7WX?p=8"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "ct302",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1006,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4230000,
+    "sources": [
+      {
+        "description": "玩具喵 刀【3】\n半自动399w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 3990000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1nU4y1c77x?p=9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "C4",
@@ -511,6 +1730,43 @@
       },
       {
         "id": 1054,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "本期MVP：裁缝"
+    ],
+    "labels": [],
+    "standard_damage": 14000000,
+    "sources": []
+  },
+  {
+    "boss": "C4",
+    "id": "C401",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1101,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
         "requirements": []
       }
     ],
@@ -660,11 +1916,270 @@
       "high": null
     },
     "comments": [
-      "环奈：你稍等，我换个衣\n服再陪你战斗"
+      "环奈：骑士君，你稍等\n我换个衣服再陪你战斗"
     ],
     "labels": [],
     "standard_damage": 14000000,
     "sources": []
+  },
+  {
+    "boss": "C4",
+    "id": "C408",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1101,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "3xnnk 3x139级水老师 3x 12-2 120级圣千（ub115级） 4x水壶 黄骑，能对轴即可成刀"
+    ],
+    "labels": [],
+    "standard_damage": 14000000,
+    "sources": []
+  },
+  {
+    "boss": "C4",
+    "id": "C407",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5000000,
+    "sources": [
+      {
+        "description": "花舞-永夜之殇\n500w",
+        "author": "花舞-永夜之殇",
+        "damage": {
+          "value": 5000000,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg8.docs.qq.com/image/A4QO3v1IHSz-F0jSheImhA.png?w=986&h=755"
+        ],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖x艺人\n505w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5050000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1jF411e7Wy?p=6"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "ct401",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4960000,
+    "sources": [
+      {
+        "description": "玩具喵 刀【1】\n半自动484w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 4840000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1nU4y1c77x?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "ct402",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4750000,
+    "sources": [
+      {
+        "description": "玩具喵 刀【2】\n半自动478w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 4780000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1nU4y1c77x?p=8"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "ct403",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "mcw必须5"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3940000,
+    "sources": [
+      {
+        "description": "玩具喵 刀【3】\n半自动399w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 3990000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1nU4y1c77x?p=8"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "C5",
@@ -705,41 +2220,6 @@
   },
   {
     "boss": "C5",
-    "id": "C502",
-    "characters": [
-      {
-        "id": 1084,
-        "requirements": []
-      },
-      {
-        "id": 1013,
-        "requirements": []
-      },
-      {
-        "id": 1015,
-        "requirements": []
-      },
-      {
-        "id": 1070,
-        "requirements": []
-      },
-      {
-        "id": 1059,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [],
-    "labels": [],
-    "standard_damage": 17000000,
-    "sources": []
-  },
-  {
-    "boss": "C5",
     "id": "C503",
     "characters": [
       {
@@ -756,41 +2236,6 @@
       },
       {
         "id": 1092,
-        "requirements": []
-      },
-      {
-        "id": 1059,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [],
-    "labels": [],
-    "standard_damage": 17000000,
-    "sources": []
-  },
-  {
-    "boss": "C5",
-    "id": "C504",
-    "characters": [
-      {
-        "id": 1042,
-        "requirements": []
-      },
-      {
-        "id": 1078,
-        "requirements": []
-      },
-      {
-        "id": 1084,
-        "requirements": []
-      },
-      {
-        "id": 1070,
         "requirements": []
       },
       {
@@ -841,21 +2286,424 @@
     "comments": [],
     "labels": [],
     "standard_damage": 17000000,
+    "sources": []
+  },
+  {
+    "boss": "C5",
+    "id": "C502",
+    "characters": [
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1015,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "这一刀是0:40后才进入循环，因此卡结算风险小"
+    ],
+    "labels": [],
+    "standard_damage": 17000000,
+    "sources": []
+  },
+  {
+    "boss": "C5",
+    "id": "C504",
+    "characters": [
+      {
+        "id": 1042,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 17000000,
+    "sources": []
+  },
+  {
+    "boss": "C5",
+    "id": "C508",
+    "characters": [
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1101,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "该刀大概率卡结算，慎用！\n但也有人表示可以成刀\n根据第二天反馈，可能会撤下这一刀"
+    ],
+    "labels": [],
+    "standard_damage": 17000000,
+    "sources": []
+  },
+  {
+    "boss": "C5",
+    "id": "C506",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5450000,
     "sources": [
       {
-        "description": "花舞-卡哇伊哟 545w",
+        "description": "花舞-卡哇伊哟 573w视频有轴",
         "author": null,
         "damage": {
-          "value": 5450000,
+          "value": 5730000,
           "low": null,
           "high": null
         },
-        "links": [],
-        "images": [
-          "https://docimg2.docs.qq.com/image/UO71yH09itixsNbrQTbGWQ.png?w=673&h=771"
+        "links": [
+          "https://www.bilibili.com/video/BV1Dv411u71h?p=4"
         ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "玩具喵\n蓝544w视频有轴",
+        "author": "玩具喵",
+        "damage": {
+          "value": 5440000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ZL411g7SY?p=4"
+        ],
+        "images": [],
         "comments": []
       }
     ]
+  },
+  {
+    "boss": "C5",
+    "id": "C507",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4800000,
+    "sources": [
+      {
+        "description": "花舞-无糖x艺人\n481w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 4810000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1jF411e7Wy?p=7"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct501",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4580000,
+    "sources": [
+      {
+        "description": "玩具喵 刀【1】\n半自动445w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 4450000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1nU4y1c77x?p=5"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct503",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1101,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3790000,
+    "sources": [
+      {
+        "description": "玩具喵 刀【3】\n全自动391w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 3910000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1nU4y1c77x?p=15"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct502",
+    "characters": [
+      {
+        "id": 1042,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3110000,
+    "sources": [
+      {
+        "description": "玩具喵 刀【2】\n半自动287w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 2870000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1nU4y1c77x?p=9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct504",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1101,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "蓝字420w\n水老师三星R11-6，似似花五星要14-6满中满，MCW五星"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4000000,
+    "sources": []
   }
 ]
