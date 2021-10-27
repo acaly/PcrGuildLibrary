@@ -387,6 +387,58 @@
   },
   {
     "boss": "C1",
+    "id": "ct109",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4740000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动474w",
+        "author": null,
+        "damage": {
+          "value": 4740000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Cq4y1G7sb?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
     "id": "ct108",
     "characters": [
       {
@@ -591,6 +643,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动465w",
+        "author": null,
+        "damage": {
+          "value": 4650000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Cq4y1G7sb"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -685,6 +751,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动363w",
+        "author": null,
+        "damage": {
+          "value": 3630000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Cq4y1G7sb?p=3"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -741,6 +821,58 @@
     ]
   },
   {
+    "boss": "C1",
+    "id": "ct110",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1045,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3500000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动361w",
+        "author": null,
+        "damage": {
+          "value": 3610000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Cq4y1G7sb?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
     "boss": "C2",
     "id": "C207",
     "characters": [
@@ -784,6 +916,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1m34y1m7dF"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Twi-lightSparkl\n580w\n评论有轴",
+        "author": null,
+        "damage": {
+          "value": 5800000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV13L4y1z7WG"
         ],
         "images": [],
         "comments": []
@@ -1367,10 +1513,10 @@
         "comments": []
       },
       {
-        "description": "酷乐 法【2】\n全自动584w",
+        "description": "酷乐 法【2】\n全自动536w",
         "author": "酷乐",
         "damage": {
-          "value": 5840000,
+          "value": 5360000,
           "low": null,
           "high": null
         },
@@ -1390,6 +1536,34 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1BL411g7WY?p=11"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "川包\n半自动552w\n视频有轴",
+        "author": "川包",
+        "damage": {
+          "value": 5520000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mf4y1M7WX?p=6"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动507w",
+        "author": null,
+        "damage": {
+          "value": 5070000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Cq4y1G7sb?p=8"
         ],
         "images": [],
         "comments": []
@@ -1456,6 +1630,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1nU4y1c77x?p=8"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "ct212",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5300000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动531w",
+        "author": null,
+        "damage": {
+          "value": 5310000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Cq4y1G7sb?p=7"
         ],
         "images": [],
         "comments": []
@@ -1829,6 +2055,110 @@
     ]
   },
   {
+    "boss": "C2",
+    "id": "ct213",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4200000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动424w",
+        "author": null,
+        "damage": {
+          "value": 4240000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Cq4y1G7sb?p=5"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "ct214",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3600000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动367w",
+        "author": null,
+        "damage": {
+          "value": 3670000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Cq4y1G7sb?p=6"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
     "boss": "C3",
     "id": "C301",
     "characters": [
@@ -2023,6 +2353,34 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "FF半音530w\n视频有轴",
+        "author": "FF半音",
+        "damage": {
+          "value": 5300000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1GQ4y1q74o?p=1"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "FF半音530w\n视频有轴",
+        "author": "FF半音",
+        "damage": {
+          "value": 5300000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1GQ4y1q74o?p=2"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -2139,6 +2497,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动394w",
+        "author": null,
+        "damage": {
+          "value": 3940000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Cq4y1G7sb?p=10"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -2181,7 +2553,7 @@
     "standard_damage": 4300000,
     "sources": [
       {
-        "description": "川包\n半自动446w\n视频有轴",
+        "description": "川包\n半自动446w",
         "author": "川包",
         "damage": {
           "value": 4460000,
@@ -2264,6 +2636,110 @@
   },
   {
     "boss": "C3",
+    "id": "ct305",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3900000,
+    "sources": [
+      {
+        "description": "川包\n全自动380w",
+        "author": "川包",
+        "damage": {
+          "value": 3800000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mf4y1M7WX?p=11"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "ct307",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3700000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动373w",
+        "author": null,
+        "damage": {
+          "value": 3730000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Cq4y1G7sb?p=9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
     "id": "ct302",
     "characters": [
       {
@@ -2322,6 +2798,72 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1BL411g7WY?p=9"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "川包\n半自动420w",
+        "author": "川包",
+        "damage": {
+          "value": 4200000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mf4y1M7WX?p=8"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "ct306",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3850000,
+    "sources": [
+      {
+        "description": "川包\n半自动385w",
+        "author": "川包",
+        "damage": {
+          "value": 3850000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mf4y1M7WX?p=12"
         ],
         "images": [],
         "comments": []
@@ -2472,6 +3014,58 @@
   },
   {
     "boss": "C4",
+    "id": "C412",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1042,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "142圣千 4x108普千"
+    ],
+    "labels": [],
+    "standard_damage": 10000000,
+    "sources": [
+      {
+        "description": "小春の发圈\n1000w\n评论有轴",
+        "author": null,
+        "damage": {
+          "value": 10000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1jb4y1a7e7/"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
     "id": "C403",
     "characters": [
       {
@@ -2503,7 +3097,22 @@
     "comments": [],
     "labels": [],
     "standard_damage": 14000000,
-    "sources": []
+    "sources": [
+      {
+        "description": "玛德和尼玛\n1000w 136圣千\n简介有轴",
+        "author": null,
+        "damage": {
+          "value": 10000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/bv1QR4y1774W"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "C4",
@@ -2682,7 +3291,22 @@
     "comments": [],
     "labels": [],
     "standard_damage": 14000000,
-    "sources": []
+    "sources": [
+      {
+        "description": "九一彻甲乳\n1000w\n评论有轴",
+        "author": null,
+        "damage": {
+          "value": 10000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1tQ4y1q7sF"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "C4",
@@ -2733,15 +3357,67 @@
         "comments": []
       },
       {
-        "description": "花舞-无糖x艺人\n505w视频有轴",
-        "author": null,
+        "description": "FF半音500w\n视频有轴",
+        "author": "FF半音",
         "damage": {
-          "value": 5050000,
+          "value": 5000000,
           "low": null,
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1jF411e7Wy?p=6"
+          "https://www.bilibili.com/video/BV1GQ4y1q74o?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "AUTO区",
+    "characters": [
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4820000,
+    "sources": [
+      {
+        "description": "FF半音482w\n视频有轴",
+        "author": "FF半音",
+        "damage": {
+          "value": 4820000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Dv411u7rc?p=4"
         ],
         "images": [],
         "comments": []
@@ -2797,6 +3473,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "川包半自动480w",
+        "author": "川包",
+        "damage": {
+          "value": 4800000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mf4y1M7WX?p=13"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -2846,6 +3536,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1nU4y1c77x?p=8"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "川包半自动470w",
+        "author": "川包",
+        "damage": {
+          "value": 4700000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mf4y1M7WX?p=14"
         ],
         "images": [],
         "comments": []
@@ -2915,6 +3619,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "FF半音\n半自动449w",
+        "author": "FF半音",
+        "damage": {
+          "value": 4490000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1GQ4y1q74o?p=4"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -2949,7 +3667,7 @@
       "high": null
     },
     "comments": [
-      "mcw必须5"
+      "玩具喵：mcw必须5\n川包：4星mcw+12-6满专黄骑组合"
     ],
     "labels": [
       "Auto"
@@ -2966,6 +3684,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1nU4y1c77x?p=8"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "川包半自动450w",
+        "author": "川包",
+        "damage": {
+          "value": 4500000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mf4y1M7WX?p=15"
         ],
         "images": [],
         "comments": []
@@ -3020,6 +3752,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1H3411y7jm?p=8"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "ct407",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1045,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3300000,
+    "sources": [
+      {
+        "description": "川包半自动330w",
+        "author": "川包",
+        "damage": {
+          "value": 3300000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mf4y1M7WX?p=16"
         ],
         "images": [],
         "comments": []
@@ -3368,6 +4152,41 @@
   },
   {
     "boss": "C5",
+    "id": "C513",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1015,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 17000000,
+    "sources": []
+  },
+  {
+    "boss": "C5",
     "id": "C506",
     "characters": [
       {
@@ -3438,6 +4257,84 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1zf4y1M7VD?spm_id_from=333.999.0.0"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "C512",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5200000,
+    "sources": [
+      {
+        "description": "DarkKnight2\n520w 19s不换妈\n评论有轴",
+        "author": null,
+        "damage": {
+          "value": 5200000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV18F411e7ZP"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "DarkKnight2\n520w 19s换妈\n评论有轴",
+        "author": null,
+        "damage": {
+          "value": 5200000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV18F411e7ZP?p=2"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "其实我挺狂\n622w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 6220000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Hr4y1179X"
         ],
         "images": [],
         "comments": []
@@ -3531,7 +4428,7 @@
     "standard_damage": 4500000,
     "sources": [
       {
-        "description": "夏川奈由依\n498w\n暂时无轴",
+        "description": "夏川奈由依\n498w\n评论有轴",
         "author": null,
         "damage": {
           "value": 4980000,
@@ -3540,6 +4437,34 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1qL411g7Sb/"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "转转阿桑500w+\n不死4xmcw \n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Tq4y1V7Lc/"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "摸鱼的大可\n蓝570-600w\n简介有轴",
+        "author": null,
+        "damage": {
+          "value": null,
+          "low": 5700000,
+          "high": 6000000
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Gq4y1R7ng/"
         ],
         "images": [],
         "comments": []
@@ -3798,6 +4723,58 @@
   },
   {
     "boss": "C5",
+    "id": "ct507",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1015,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4400000,
+    "sources": [
+      {
+        "description": "川包半自动440w",
+        "author": "川包",
+        "damage": {
+          "value": 4400000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mf4y1M7WX?p=18"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
     "id": "ct504",
     "characters": [
       {
@@ -3844,6 +4821,162 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1H3411y7jm?p=10"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct506",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4600000,
+    "sources": [
+      {
+        "description": "川包半自动460w",
+        "author": "川包",
+        "damage": {
+          "value": 4600000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mf4y1M7WX?p=17"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct508",
+    "characters": [
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1101,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1006,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3300000,
+    "sources": [
+      {
+        "description": "川包半自动330w",
+        "author": "川包",
+        "damage": {
+          "value": 3300000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mf4y1M7WX?p=19"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct509",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3000000,
+    "sources": [
+      {
+        "description": "川包半自动300w",
+        "author": "川包",
+        "damage": {
+          "value": 3000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mf4y1M7WX?p=20"
         ],
         "images": [],
         "comments": []
