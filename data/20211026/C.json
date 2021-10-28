@@ -2538,7 +2538,7 @@
   },
   {
     "boss": "C2",
-    "id": "编号",
+    "id": "ct214",
     "characters": [
       {
         "id": 1038,
@@ -2559,50 +2559,6 @@
       {
         "id": 1061,
         "requirements": []
-      },
-      {
-        "id": 0,
-        "requirements": []
-      },
-      {
-        "id": 0,
-        "requirements": []
-      },
-      {
-        "id": 0,
-        "requirements": []
-      },
-      {
-        "id": 0,
-        "requirements": []
-      },
-      {
-        "id": 0,
-        "requirements": []
-      },
-      {
-        "id": 0,
-        "requirements": []
-      },
-      {
-        "id": 0,
-        "requirements": []
-      },
-      {
-        "id": 0,
-        "requirements": []
-      },
-      {
-        "id": 0,
-        "requirements": []
-      },
-      {
-        "id": 0,
-        "requirements": []
-      },
-      {
-        "id": 0,
-        "requirements": []
       }
     ],
     "time": {
@@ -2610,10 +2566,7 @@
       "low": null,
       "high": null
     },
-    "comments": [
-      "备注",
-      "Rank星级请以轴or视频为标准，注意甄别烟雾弹\r\n参考伤害由于变数过多，上下限请自行按自己box练度测试"
-    ],
+    "comments": [],
     "labels": [
       "Auto"
     ],
@@ -2798,7 +2751,7 @@
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1334y1U7k5?p=6"
+          "https://www.bilibili.com/video/BV1334y1U7k5?p=7"
         ],
         "images": [],
         "comments": []
@@ -2871,9 +2824,7 @@
           "https://www.bilibili.com/video/BV1ZT4y1R77w"
         ],
         "images": [],
-        "comments": [
-          "→这两个轴有细微的不一样"
-        ]
+        "comments": []
       }
     ]
   },
@@ -2920,7 +2871,7 @@
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1334y1U7k5?p=7"
+          "https://www.bilibili.com/video/BV1334y1U7k5?p=8"
         ],
         "images": [],
         "comments": []
@@ -3885,6 +3836,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "花舞-云烨朱云145级圣千 11-6 100级普千\n1200w",
+        "author": "花舞-云烨朱云",
+        "damage": {
+          "value": 12000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/bv1Dq4y197jk"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -4670,7 +4635,9 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "酷乐：很难办，好像0爆就是会寄，神仙难救"
+    ],
     "labels": [
       "Auto"
     ],
@@ -5915,7 +5882,7 @@
         "comments": []
       },
       {
-        "description": "4星xcw\n摸鱼的大可\n蓝570-600w\n简介有轴",
+        "description": "4星mcw\n摸鱼的大可\n蓝570-600w\n简介有轴",
         "author": null,
         "damage": {
           "value": null,
