@@ -48,15 +48,29 @@
         "comments": []
       },
       {
-        "description": "玩具喵\n蓝607w视频有轴",
+        "description": "玩具喵\n蓝602w视频有轴\n101线",
         "author": "玩具喵",
         "damage": {
-          "value": 6070000,
+          "value": 6020000,
           "low": null,
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1ZL411g7SY?from=search&seid=17551345387877352461&spm_id_from=333.337.0.0"
+          "https://www.bilibili.com/video/BV1ZL411g7SY?p=1"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "玩具喵\n蓝602w视频有轴\n103线",
+        "author": "玩具喵",
+        "damage": {
+          "value": 6020000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/vhttps://www.bilibili.com/video/BV1ZL411g7SY?p=2"
         ],
         "images": [],
         "comments": []
@@ -1249,6 +1263,34 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "鈴木山蝶子\n689w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 6890000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV17u411o73u"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "川包645w\n4x mcw nnk\n视频有轴",
+        "author": "川包",
+        "damage": {
+          "value": 6450000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1vP4y1L7Zs"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -1347,7 +1389,7 @@
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1334y1U7k5?p=5"
+          "https://www.bilibili.com/video/BV1334y1U7k5?p=6"
         ],
         "images": [],
         "comments": []
@@ -1757,6 +1799,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "Sakura_tsuki\n半自动630w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 6300000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1PL4y1z7yC/"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -1942,6 +1998,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1gQ4y1Q7hV?from=search&seid=8623974381649427915&spm_id_from=333.337.0.0"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "ct217",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5000000,
+    "sources": [
+      {
+        "description": "铁坷拉\n全自动577w",
+        "author": null,
+        "damage": {
+          "value": 5770000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1eP4y1b77H"
         ],
         "images": [],
         "comments": []
@@ -2688,6 +2796,56 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Qv411u739?spm_id_from=333.999.0.0"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "C304",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1006,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4200000,
+    "sources": [
+      {
+        "description": "软软的小金鱼\n投稿431w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 4310000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1rL4y1i7Fa/"
         ],
         "images": [],
         "comments": []
@@ -3500,6 +3658,58 @@
   },
   {
     "boss": "C3",
+    "id": "ct313",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4000000,
+    "sources": [
+      {
+        "description": "铁坷拉\n全自动400w",
+        "author": null,
+        "damage": {
+          "value": 4000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1244y1v7bS"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
     "id": "ct306",
     "characters": [
       {
@@ -3850,6 +4060,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "Welkin_Meow\n145圣千137千歌\n1000w",
+        "author": null,
+        "damage": {
+          "value": 10000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV12U4y1u74Q"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -4096,20 +4320,6 @@
     "standard_damage": 14000000,
     "sources": [
       {
-        "description": "九一彻甲乳\n1000w\n评论有轴",
-        "author": null,
-        "damage": {
-          "value": 10000000,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1tQ4y1q7sF"
-        ],
-        "images": [],
-        "comments": []
-      },
-      {
         "description": "戲子丶人生\n战犯演示1025w\n无轴",
         "author": null,
         "damage": {
@@ -4138,6 +4348,78 @@
         "comments": []
       }
     ]
+  },
+  {
+    "boss": "C4",
+    "id": "C416",
+    "characters": [
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1101,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 14000000,
+    "sources": []
+  },
+  {
+    "boss": "C4",
+    "id": "C417",
+    "characters": [
+      {
+        "id": 1008,
+        "requirements": []
+      },
+      {
+        "id": 1042,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "蓝字1400+2秒均伤1400万"
+    ],
+    "labels": [],
+    "standard_damage": 14000000,
+    "sources": []
   },
   {
     "boss": "C4",
@@ -4174,6 +4456,20 @@
     "standard_damage": 10000000,
     "sources": [
       {
+        "description": "九一彻甲乳\n1000w\n评论有轴",
+        "author": null,
+        "damage": {
+          "value": 10000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1tQ4y1q7sF"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
         "description": "DarkKnight2\n142圣千 1000w\n评论有轴",
         "author": null,
         "damage": {
@@ -4183,6 +4479,34 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1tF411e7Rw?from=search&seid=14595781174495139039&spm_id_from=333.337.0.0"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "胆怯与勇敢\n半时停900w\n5xnnk 评论有轴",
+        "author": null,
+        "damage": {
+          "value": 9000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1eQ4y1q7fc"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "钢铁真步145千歌圣千\n夕立_改二投稿1000w评论有轴",
+        "author": null,
+        "damage": {
+          "value": 10000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1F34y1U7RL/"
         ],
         "images": [],
         "comments": []
@@ -5741,56 +6065,6 @@
   },
   {
     "boss": "C5",
-    "id": "C516",
-    "characters": [
-      {
-        "id": 1111,
-        "requirements": []
-      },
-      {
-        "id": 1036,
-        "requirements": []
-      },
-      {
-        "id": 1078,
-        "requirements": []
-      },
-      {
-        "id": 1101,
-        "requirements": []
-      },
-      {
-        "id": 1070,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [],
-    "labels": [],
-    "standard_damage": 5000000,
-    "sources": [
-      {
-        "description": "SakuraFrost225\n533w\n简介有轴",
-        "author": null,
-        "damage": {
-          "value": 5330000,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV17F411a7QK"
-        ],
-        "images": [],
-        "comments": []
-      }
-    ]
-  },
-  {
-    "boss": "C5",
     "id": "C509",
     "characters": [
       {
@@ -5905,6 +6179,70 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1cR4y1n77S"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "SakuraFrost225\n4xmcw 533w\n简介有轴",
+        "author": null,
+        "damage": {
+          "value": 5330000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV17F411a7QK"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "C518",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1002,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4420000,
+    "sources": [
+      {
+        "description": "琉璃ニャ\n442w\n无轴",
+        "author": null,
+        "damage": {
+          "value": 4420000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hQ4y1q7kS?p=3"
         ],
         "images": [],
         "comments": []
@@ -6188,6 +6526,45 @@
         "comments": []
       }
     ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct513",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1101,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "安要5星,猫仓唯4星(10秒左右会死.但伤害也可以450+),水老师R11-6.但不确定其他练度是否可以."
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4700000,
+    "sources": []
   },
   {
     "boss": "C5",
