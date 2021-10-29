@@ -1721,10 +1721,10 @@
         "comments": []
       },
       {
-        "description": "力拔山兮气盖世\n刀【2】\n全自动573w",
+        "description": "力拔山兮气盖世\n刀【2】\n全自动560w",
         "author": null,
         "damage": {
-          "value": 5730000,
+          "value": 5600000,
           "low": null,
           "high": null
         },
@@ -3589,10 +3589,10 @@
         "comments": []
       },
       {
-        "description": "力拔山兮气盖世\n刀【3】\n全自动436w",
+        "description": "力拔山兮气盖世\n刀【3】\n全自动380w",
         "author": null,
         "damage": {
-          "value": 4360000,
+          "value": 3800000,
           "low": null,
           "high": null
         },
@@ -3811,6 +3811,43 @@
         "comments": []
       }
     ]
+  },
+  {
+    "boss": "C4",
+    "id": "C421",
+    "characters": [
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1025,
+        "requirements": []
+      },
+      {
+        "id": 1101,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "女仆：这里不是JJC，这是哪？"
+    ],
+    "labels": [],
+    "standard_damage": 14000000,
+    "sources": []
   },
   {
     "boss": "C4",
@@ -4213,6 +4250,43 @@
   },
   {
     "boss": "C4",
+    "id": "C418",
+    "characters": [
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1101,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1093,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "露：？ 你就不能让我再睡一期"
+    ],
+    "labels": [],
+    "standard_damage": 14000000,
+    "sources": []
+  },
+  {
+    "boss": "C4",
     "id": "C405",
     "characters": [
       {
@@ -4417,6 +4491,76 @@
     "comments": [
       "蓝字1400+2秒均伤1400万"
     ],
+    "labels": [],
+    "standard_damage": 14000000,
+    "sources": []
+  },
+  {
+    "boss": "C4",
+    "id": "C419",
+    "characters": [
+      {
+        "id": 1008,
+        "requirements": []
+      },
+      {
+        "id": 1042,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 14000000,
+    "sources": []
+  },
+  {
+    "boss": "C4",
+    "id": "C420",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1008,
+        "requirements": []
+      },
+      {
+        "id": 1042,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
     "labels": [],
     "standard_damage": 14000000,
     "sources": []
@@ -5767,6 +5911,41 @@
   },
   {
     "boss": "C5",
+    "id": "C519",
+    "characters": [
+      {
+        "id": 1042,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 17000000,
+    "sources": []
+  },
+  {
+    "boss": "C5",
     "id": "C506",
     "characters": [
       {
@@ -6366,10 +6545,10 @@
         "comments": []
       },
       {
-        "description": "力拔山兮气盖世\n刀【2】\n全自动409w",
+        "description": "力拔山兮气盖世\n刀【2】\n全自动370w",
         "author": null,
         "damage": {
-          "value": 4090000,
+          "value": 3700000,
           "low": null,
           "high": null
         },
