@@ -404,7 +404,7 @@
   },
   {
     "boss": "A1",
-    "id": "编号",
+    "id": "at109",
     "characters": [
       {
         "id": 1111,
@@ -425,54 +425,6 @@
       {
         "id": 1092,
         "requirements": []
-      },
-      {
-        "id": 0,
-        "requirements": []
-      },
-      {
-        "id": 0,
-        "requirements": []
-      },
-      {
-        "id": 0,
-        "requirements": []
-      },
-      {
-        "id": 0,
-        "requirements": []
-      },
-      {
-        "id": 0,
-        "requirements": []
-      },
-      {
-        "id": 0,
-        "requirements": []
-      },
-      {
-        "id": 0,
-        "requirements": []
-      },
-      {
-        "id": 0,
-        "requirements": []
-      },
-      {
-        "id": 0,
-        "requirements": []
-      },
-      {
-        "id": 0,
-        "requirements": []
-      },
-      {
-        "id": 0,
-        "requirements": []
-      },
-      {
-        "id": 0,
-        "requirements": []
       }
     ],
     "time": {
@@ -480,9 +432,7 @@
       "low": null,
       "high": null
     },
-    "comments": [
-      "在残酷环境中成长进化的狮鹫。使用龙卷风将猎物卷起到空中进行狩猎。\r\n・对前方范围内的敌人造成魔法伤害（中）。"
-    ],
+    "comments": [],
     "labels": [
       "Auto"
     ],
