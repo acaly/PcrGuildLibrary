@@ -1102,7 +1102,22 @@
       "Auto"
     ],
     "standard_damage": 6060000,
-    "sources": []
+    "sources": [
+      {
+        "description": "玩具喵全自动\n570-618w",
+        "author": "玩具喵",
+        "damage": {
+          "value": null,
+          "low": 5700000,
+          "high": 6180000
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qf4y1K7Dh?p=9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "A4",
@@ -1193,7 +1208,22 @@
       "Auto"
     ],
     "standard_damage": 5960000,
-    "sources": []
+    "sources": [
+      {
+        "description": "玩具喵\n全自动570-616w",
+        "author": "玩具喵",
+        "damage": {
+          "value": null,
+          "low": 5700000,
+          "high": 6160000
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qf4y1K7Dh?p=14"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "A4",
@@ -1230,7 +1260,22 @@
       "Auto"
     ],
     "standard_damage": 5900000,
-    "sources": []
+    "sources": [
+      {
+        "description": "墨夕全自动590w",
+        "author": null,
+        "damage": {
+          "value": 5900000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1zQ4y1U7fG?p=11"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "A5",
@@ -1276,6 +1321,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1w34y1R7bb?p=6"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "阿联酋演示745w视频有轴",
+        "author": "阿联酋",
+        "damage": {
+          "value": 7450000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1oq4y167bc?p=5"
         ],
         "images": [],
         "comments": []
