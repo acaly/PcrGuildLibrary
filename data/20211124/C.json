@@ -60,53 +60,31 @@
         ],
         "images": [],
         "comments": []
-      }
-    ]
-  },
-  {
-    "boss": "C1",
-    "id": "C102",
-    "characters": [
-      {
-        "id": 1103,
-        "requirements": []
       },
       {
-        "id": 1091,
-        "requirements": []
-      },
-      {
-        "id": 1057,
-        "requirements": []
-      },
-      {
-        "id": 1027,
-        "requirements": []
-      },
-      {
-        "id": 1104,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [],
-    "labels": [],
-    "standard_damage": 6020000,
-    "sources": [
-      {
-        "description": "无糖602w \n演示611w\n视频有轴",
+        "description": "永夜之殇/花舞组 569w评论区有轴",
         "author": null,
         "damage": {
-          "value": 6020000,
+          "value": 5690000,
           "low": null,
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1jF411e7Wy?p=1"
+          "https://www.bilibili.com/video/BV1cS4y1R7Dg?p=1"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "きゃるちゃん\n600w动态有轴",
+        "author": null,
+        "damage": {
+          "value": 6000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mq4y1r7Us?p=6"
         ],
         "images": [],
         "comments": []
@@ -210,6 +188,84 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1iF411b7q7?p=2"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "きゃるちゃん\n583w动态有轴",
+        "author": null,
+        "damage": {
+          "value": 5830000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mq4y1r7Us?p=7"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "永夜之殇/花舞组573w视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5730000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1cS4y1R7Dg?p=7"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C205",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5400000,
+    "sources": [
+      {
+        "description": "きゃるちゃん\n543w动态有轴",
+        "author": null,
+        "damage": {
+          "value": 5430000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mq4y1r7Us?p=8"
         ],
         "images": [],
         "comments": []
@@ -321,23 +377,75 @@
     "id": "C204",
     "characters": [
       {
-        "id": 1106,
+        "id": 1103,
         "requirements": []
       },
       {
-        "id": 1078,
+        "id": 1091,
         "requirements": []
       },
       {
-        "id": 1070,
+        "id": 1071,
         "requirements": []
       },
       {
-        "id": 1092,
+        "id": 1027,
         "requirements": []
       },
       {
-        "id": 1009,
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "3x水狼"
+    ],
+    "labels": [],
+    "standard_damage": 5500000,
+    "sources": [
+      {
+        "description": "永夜之殇/花舞组562w评论区有轴",
+        "author": null,
+        "damage": {
+          "value": 5620000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1cS4y1R7Dg?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C206",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
         "requirements": []
       }
     ],
@@ -348,18 +456,18 @@
     },
     "comments": [],
     "labels": [],
-    "standard_damage": 5600000,
+    "standard_damage": 5310000,
     "sources": [
       {
-        "description": "花舞/无糖x艺人563w蓝演示574w视频有轴",
+        "description": "永夜之殇/花舞组510w视频有轴",
         "author": null,
         "damage": {
-          "value": 5630000,
+          "value": 5100000,
           "low": null,
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1jF411e7Wy?p=3"
+          "https://www.bilibili.com/video/BV1cS4y1R7Dg?p=8"
         ],
         "images": [],
         "comments": []
@@ -401,22 +509,7 @@
       "Auto"
     ],
     "standard_damage": 4650000,
-    "sources": [
-      {
-        "description": "花舞/无糖x艺人\n半自动581w",
-        "author": null,
-        "damage": {
-          "value": 5810000,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1jF411e7Wy?p=2"
-        ],
-        "images": [],
-        "comments": []
-      }
-    ]
+    "sources": []
   },
   {
     "boss": "C3",
@@ -551,23 +644,23 @@
     "id": "C303",
     "characters": [
       {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1100,
+        "requirements": []
+      },
+      {
+        "id": 1107,
+        "requirements": []
+      },
+      {
         "id": 1059,
         "requirements": []
       },
       {
-        "id": 1057,
-        "requirements": []
-      },
-      {
-        "id": 1027,
-        "requirements": []
-      },
-      {
-        "id": 1104,
-        "requirements": []
-      },
-      {
-        "id": 1043,
+        "id": 1071,
         "requirements": []
       }
     ],
@@ -576,22 +669,70 @@
       "low": null,
       "high": null
     },
-    "comments": [
-      "15-3双狼病团"
-    ],
+    "comments": [],
     "labels": [],
-    "standard_damage": 5170000,
+    "standard_damage": 4870000,
     "sources": [
       {
-        "description": "花舞/无糖x艺人517w蓝演示531w视频有轴",
+        "description": "永夜之殇/花舞组487w评论区有轴",
         "author": null,
         "damage": {
-          "value": 5170000,
+          "value": 4870000,
           "low": null,
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1jF411e7Wy?p=4"
+          "https://www.bilibili.com/video/BV1cS4y1R7Dg?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "C304",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1107,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1081,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4600000,
+    "sources": [
+      {
+        "description": "永夜之殇/花舞组459w评论区有轴",
+        "author": null,
+        "damage": {
+          "value": 4590000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1cS4y1R7Dg?p=4"
         ],
         "images": [],
         "comments": []
@@ -727,6 +868,56 @@
     ]
   },
   {
+    "boss": "C4",
+    "id": "C403",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1101,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 4100000,
+    "sources": [
+      {
+        "description": "永夜之殇/花舞组443w评论区有轴",
+        "author": null,
+        "damage": {
+          "value": 4430000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1cS4y1R7Dg?p=5"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
     "boss": "C5",
     "id": "C502",
     "characters": [
@@ -851,6 +1042,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "寄宝685w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 6850000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1oq4y167bc?p=20"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -898,6 +1103,20 @@
         },
         "links": [
           "https://docs.qq.com/sheet/DWUtGVGZjZmFEaWN5?tab=BB08J2"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "永夜之殇/花舞组5x圣千680w",
+        "author": null,
+        "damage": {
+          "value": 6800000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1cS4y1R7Dg?p=6"
         ],
         "images": [],
         "comments": []
