@@ -1122,5 +1122,57 @@
         "comments": []
       }
     ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct501",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1113,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6360000,
+    "sources": [
+      {
+        "description": "天地z636w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 6360000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1TQ4y1i7z2?from=search&seid=1351104983397352025&spm_id_from=333.337.0.0"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   }
 ]
