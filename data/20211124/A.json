@@ -2984,7 +2984,9 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "600w~650w"
+    ],
     "labels": [
       "Auto"
     ],
