@@ -1165,6 +1165,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "酷乐\n半自动637w",
+        "author": "酷乐",
+        "damage": {
+          "value": 6370000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qf4y1K7vw?p=5"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -2260,6 +2274,58 @@
   },
   {
     "boss": "B3",
+    "id": "bt310",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6000000,
+    "sources": [
+      {
+        "description": "酷乐\n半自动\n600w",
+        "author": "酷乐",
+        "damage": {
+          "value": 6000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qf4y1K7vw?p=7"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B3",
     "id": "bt304",
     "characters": [
       {
@@ -2571,6 +2637,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "酷乐\n全自动\n632w",
+        "author": "酷乐",
+        "damage": {
+          "value": 6320000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qf4y1K7vw?p=6"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -2743,7 +2823,7 @@
         "comments": []
       },
       {
-        "description": "花舞-永夜之殇\n520-610w\n评论有轴",
+        "description": "花舞-永夜之殇\n520-610w\n5nnk评论有轴",
         "author": "花舞-永夜之殇",
         "damage": {
           "value": null,
@@ -2966,6 +3046,72 @@
   },
   {
     "boss": "B4",
+    "id": "bt415",
+    "characters": [
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4680000,
+    "sources": [
+      {
+        "description": "花舞-\n玖璃梦x樱岛麻衣\n全自动478w",
+        "author": null,
+        "damage": {
+          "value": 4780000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hf4y1K7Ai?p=29"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "酷乐\n全自动\n480w",
+        "author": "酷乐",
+        "damage": {
+          "value": 4800000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qf4y1K7vw?p=8"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
     "id": "bt407",
     "characters": [
       {
@@ -3018,6 +3164,58 @@
   },
   {
     "boss": "B4",
+    "id": "bt409",
+    "characters": [
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5090000,
+    "sources": [
+      {
+        "description": "花舞-\n玖璃梦x樱岛麻衣\n全自动538w",
+        "author": null,
+        "damage": {
+          "value": 5380000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hf4y1K7Ai?p=26"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
     "id": "bt402",
     "characters": [
       {
@@ -3062,6 +3260,110 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1qf4y1K7Dh?p=25"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
+    "id": "bt411",
+    "characters": [
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5110000,
+    "sources": [
+      {
+        "description": "花舞-\n玖璃梦x樱岛麻衣\n全自动521w",
+        "author": null,
+        "damage": {
+          "value": 5210000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hf4y1K7Ai?p=27"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
+    "id": "bt413",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1113,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4900000,
+    "sources": [
+      {
+        "description": "花舞-\n玖璃梦x樱岛麻衣\n全自动500w",
+        "author": null,
+        "damage": {
+          "value": 5000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hf4y1K7Ai?p=28"
         ],
         "images": [],
         "comments": []
@@ -3188,6 +3490,162 @@
   },
   {
     "boss": "B4",
+    "id": "bt412",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4900000,
+    "sources": [
+      {
+        "description": "花舞-\n玖璃梦x樱岛麻衣\n全自动496w",
+        "author": null,
+        "damage": {
+          "value": 4960000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hf4y1K7Ai?p=31"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
+    "id": "bt416",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4800000,
+    "sources": [
+      {
+        "description": "酷乐\n半自动\n489w",
+        "author": "酷乐",
+        "damage": {
+          "value": 4890000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qf4y1K7vw?p=9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
+    "id": "bt414",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5200000,
+    "sources": [
+      {
+        "description": "花舞-\n玖璃梦x樱岛麻衣\n全自动521w",
+        "author": null,
+        "damage": {
+          "value": 5210000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hf4y1K7Ai?p=30"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
     "id": "bt404",
     "characters": [
       {
@@ -3277,58 +3735,6 @@
   },
   {
     "boss": "B4",
-    "id": "bt409",
-    "characters": [
-      {
-        "id": 1057,
-        "requirements": []
-      },
-      {
-        "id": 1079,
-        "requirements": []
-      },
-      {
-        "id": 1104,
-        "requirements": []
-      },
-      {
-        "id": 1043,
-        "requirements": []
-      },
-      {
-        "id": 1061,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [],
-    "labels": [
-      "Auto"
-    ],
-    "standard_damage": 5090000,
-    "sources": [
-      {
-        "description": "花舞-\n玖璃梦x樱岛麻衣\n全自动538w",
-        "author": null,
-        "damage": {
-          "value": 5380000,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1hf4y1K7Ai?p=26"
-        ],
-        "images": [],
-        "comments": []
-      }
-    ]
-  },
-  {
-    "boss": "B4",
     "id": "bt410",
     "characters": [
       {
@@ -3373,6 +3779,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1hf4y1K7Ai?p=32"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
+    "id": "bt417",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4600000,
+    "sources": [
+      {
+        "description": "酷乐\n全自动\n463w",
+        "author": "酷乐",
+        "damage": {
+          "value": 4630000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qf4y1K7vw?p=10"
         ],
         "images": [],
         "comments": []
@@ -3453,86 +3911,6 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1z34y1d7pi?p=6"
-        ],
-        "images": [],
-        "comments": []
-      }
-    ]
-  },
-  {
-    "boss": "B5",
-    "id": "bt501",
-    "characters": [
-      {
-        "id": 1031,
-        "requirements": []
-      },
-      {
-        "id": 1113,
-        "requirements": []
-      },
-      {
-        "id": 1071,
-        "requirements": []
-      },
-      {
-        "id": 1043,
-        "requirements": []
-      },
-      {
-        "id": 1061,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [],
-    "labels": [
-      "Auto"
-    ],
-    "standard_damage": 5750000,
-    "sources": [
-      {
-        "description": "玩具喵【刀1】\n全自动\n550-592w",
-        "author": "玩具喵",
-        "damage": {
-          "value": null,
-          "low": 5500000,
-          "high": 5920000
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1qf4y1K7Dh?p=21"
-        ],
-        "images": [],
-        "comments": []
-      },
-      {
-        "description": "川包\n半自动\n570-590w",
-        "author": "川包",
-        "damage": {
-          "value": null,
-          "low": 5700000,
-          "high": 5900000
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1zh411s7Wn?p=39"
-        ],
-        "images": [],
-        "comments": []
-      },
-      {
-        "description": "花舞-永夜之殇\n半自动\n517w",
-        "author": "花舞-永夜之殇",
-        "damage": {
-          "value": 5170000,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1z34y1d7pi?p=5"
         ],
         "images": [],
         "comments": []
@@ -3639,6 +4017,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1zh411s7Wn?p=38"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "酷乐\n全自动\n617w",
+        "author": "酷乐",
+        "damage": {
+          "value": 6170000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qf4y1K7vw?p=12"
         ],
         "images": [],
         "comments": []
@@ -3765,8 +4157,12 @@
   },
   {
     "boss": "B5",
-    "id": "bt507",
+    "id": "bt512",
     "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
       {
         "id": 1078,
         "requirements": []
@@ -3782,10 +4178,6 @@
       {
         "id": 1059,
         "requirements": []
-      },
-      {
-        "id": 1009,
-        "requirements": []
       }
     ],
     "time": {
@@ -3797,174 +4189,18 @@
     "labels": [
       "Auto"
     ],
-    "standard_damage": 5540000,
+    "standard_damage": 5500000,
     "sources": [
       {
-        "description": "川包\n半自动\n540-580w",
-        "author": "川包",
-        "damage": {
-          "value": null,
-          "low": 5400000,
-          "high": 5800000
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1zh411s7Wn?p=40"
-        ],
-        "images": [],
-        "comments": []
-      }
-    ]
-  },
-  {
-    "boss": "B5",
-    "id": "bt508",
-    "characters": [
-      {
-        "id": 1031,
-        "requirements": []
-      },
-      {
-        "id": 1071,
-        "requirements": []
-      },
-      {
-        "id": 1037,
-        "requirements": []
-      },
-      {
-        "id": 1043,
-        "requirements": []
-      },
-      {
-        "id": 1061,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [],
-    "labels": [
-      "Auto"
-    ],
-    "standard_damage": 4800000,
-    "sources": [
-      {
-        "description": "花舞-\n玖璃梦x樱岛麻衣\n全自动演示486w",
+        "description": "花舞-\n玖璃梦x樱岛麻衣\n全自动演示557w",
         "author": null,
         "damage": {
-          "value": 4860000,
+          "value": 5570000,
           "low": null,
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1hf4y1K7Ai?p=38"
-        ],
-        "images": [],
-        "comments": []
-      }
-    ]
-  },
-  {
-    "boss": "B5",
-    "id": "bt509",
-    "characters": [
-      {
-        "id": 1105,
-        "requirements": []
-      },
-      {
-        "id": 1031,
-        "requirements": []
-      },
-      {
-        "id": 1113,
-        "requirements": []
-      },
-      {
-        "id": 1043,
-        "requirements": []
-      },
-      {
-        "id": 1061,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [],
-    "labels": [
-      "Auto"
-    ],
-    "standard_damage": 5050000,
-    "sources": [
-      {
-        "description": "花舞-\n玖璃梦x樱岛麻衣\n全自动演示508w",
-        "author": null,
-        "damage": {
-          "value": 5080000,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1hf4y1K7Ai?p=37"
-        ],
-        "images": [],
-        "comments": []
-      }
-    ]
-  },
-  {
-    "boss": "B5",
-    "id": "bt510",
-    "characters": [
-      {
-        "id": 1111,
-        "requirements": []
-      },
-      {
-        "id": 1078,
-        "requirements": []
-      },
-      {
-        "id": 1070,
-        "requirements": []
-      },
-      {
-        "id": 1092,
-        "requirements": []
-      },
-      {
-        "id": 1006,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [],
-    "labels": [
-      "Auto"
-    ],
-    "standard_damage": 5700000,
-    "sources": [
-      {
-        "description": "花舞-\n玖璃梦x樱岛麻衣\n全自动演示571w",
-        "author": null,
-        "damage": {
-          "value": 5710000,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1hf4y1K7Ai?p=36"
+          "https://www.bilibili.com/video/BV1hf4y1K7Ai?p=34"
         ],
         "images": [],
         "comments": []
@@ -4025,12 +4261,112 @@
   },
   {
     "boss": "B5",
-    "id": "bt512",
+    "id": "bt513",
+    "characters": [
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1060,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5400000,
+    "sources": [
+      {
+        "description": "酷乐\n全自动\n547w",
+        "author": "酷乐",
+        "damage": {
+          "value": 5470000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qf4y1K7vw?p=13"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B5",
+    "id": "bt510",
     "characters": [
       {
         "id": 1111,
         "requirements": []
       },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1006,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5700000,
+    "sources": [
+      {
+        "description": "花舞-\n玖璃梦x樱岛麻衣\n全自动演示571w",
+        "author": null,
+        "damage": {
+          "value": 5710000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hf4y1K7Ai?p=36"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B5",
+    "id": "bt507",
+    "characters": [
       {
         "id": 1078,
         "requirements": []
@@ -4046,6 +4382,10 @@
       {
         "id": 1059,
         "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
       }
     ],
     "time": {
@@ -4057,18 +4397,254 @@
     "labels": [
       "Auto"
     ],
-    "standard_damage": 5500000,
+    "standard_damage": 5540000,
     "sources": [
       {
-        "description": "花舞-\n玖璃梦x樱岛麻衣\n全自动演示557w",
-        "author": null,
+        "description": "川包\n半自动\n540-580w",
+        "author": "川包",
         "damage": {
-          "value": 5570000,
+          "value": null,
+          "low": 5400000,
+          "high": 5800000
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1zh411s7Wn?p=40"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B5",
+    "id": "bt501",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1113,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5750000,
+    "sources": [
+      {
+        "description": "玩具喵【刀1】\n全自动\n550-592w",
+        "author": "玩具喵",
+        "damage": {
+          "value": null,
+          "low": 5500000,
+          "high": 5920000
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qf4y1K7Dh?p=21"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "川包\n半自动\n570-590w",
+        "author": "川包",
+        "damage": {
+          "value": null,
+          "low": 5700000,
+          "high": 5900000
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1zh411s7Wn?p=39"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "酷乐\n半自动\n534w",
+        "author": "酷乐",
+        "damage": {
+          "value": 5340000,
           "low": null,
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1hf4y1K7Ai?p=34"
+          "https://www.bilibili.com/video/BV1qf4y1K7vw?p=11"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B5",
+    "id": "bt504",
+    "characters": [
+      {
+        "id": 1081,
+        "requirements": []
+      },
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5100000,
+    "sources": [
+      {
+        "description": "花舞-永夜之殇\n半自动\n517w",
+        "author": "花舞-永夜之殇",
+        "damage": {
+          "value": 5170000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1z34y1d7pi?p=5"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B5",
+    "id": "bt509",
+    "characters": [
+      {
+        "id": 1105,
+        "requirements": []
+      },
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1113,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5050000,
+    "sources": [
+      {
+        "description": "花舞-\n玖璃梦x樱岛麻衣\n全自动演示508w",
+        "author": null,
+        "damage": {
+          "value": 5080000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hf4y1K7Ai?p=37"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B5",
+    "id": "bt508",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1037,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4800000,
+    "sources": [
+      {
+        "description": "花舞-\n玖璃梦x樱岛麻衣\n全自动演示486w",
+        "author": null,
+        "damage": {
+          "value": 4860000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hf4y1K7Ai?p=38"
         ],
         "images": [],
         "comments": []
