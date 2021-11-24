@@ -4650,5 +4650,59 @@
         "comments": []
       }
     ]
+  },
+  {
+    "boss": "B5",
+    "id": "bt514",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "全程连点吉塔511"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4800000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n连点自动521w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 5210000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Rq4y1677M?p=9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   }
 ]
