@@ -141,6 +141,41 @@
   },
   {
     "boss": "B1",
+    "id": "B104",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 6000000,
+    "sources": []
+  },
+  {
+    "boss": "B1",
     "id": "bt101",
     "characters": [
       {
@@ -1072,6 +1107,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1RL4y1p7HB?p=5"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-云烨朱云\n720w\n评论有轴",
+        "author": "花舞-云烨朱云",
+        "damage": {
+          "value": 7200000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV18q4y1g7VZ/"
         ],
         "images": [],
         "comments": []
