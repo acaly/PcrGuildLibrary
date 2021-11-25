@@ -4789,15 +4789,15 @@
     "standard_damage": 6450000,
     "sources": [
       {
-        "description": "川包\n半自动560w",
-        "author": "川包",
+        "description": "江风渔火\n全自动648w",
+        "author": null,
         "damage": {
-          "value": 5600000,
+          "value": 6480000,
           "low": null,
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1zh411s7Wn?p=16"
+          "https://www.bilibili.com/video/BV1qq4y1B7p6?p=45"
         ],
         "images": [],
         "comments": []
