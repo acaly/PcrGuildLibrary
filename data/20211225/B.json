@@ -769,5 +769,109 @@
         "comments": []
       }
     ]
+  },
+  {
+    "boss": "B4",
+    "id": "bt403",
+    "characters": [
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1037,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5900000,
+    "sources": [
+      {
+        "description": "玩具喵\n【额外】\n半自动590w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 5900000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Y3411x7Z1?p=35"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
+    "id": "bt404",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5200000,
+    "sources": [
+      {
+        "description": "玩具喵\r\n【额外】\r\n全自动520w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 5200000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Y3411x7Z1?p=36"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   }
 ]
