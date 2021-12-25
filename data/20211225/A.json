@@ -1985,6 +1985,58 @@
   },
   {
     "boss": "A2",
+    "id": "at222",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6790000,
+    "sources": [
+      {
+        "description": "川包\n全自动679w",
+        "author": "川包",
+        "damage": {
+          "value": 6790000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=10"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A2",
     "id": "at212",
     "characters": [
       {
@@ -2641,6 +2693,58 @@
   },
   {
     "boss": "A3",
+    "id": "at320",
+    "characters": [
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6770000,
+    "sources": [
+      {
+        "description": "川包\n全自动677w",
+        "author": "川包",
+        "damage": {
+          "value": 6770000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=13"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A3",
     "id": "at304",
     "characters": [
       {
@@ -2747,6 +2851,112 @@
   },
   {
     "boss": "A3",
+    "id": "at319",
+    "characters": [
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "半自动689w，纯自动640w"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6400000,
+    "sources": [
+      {
+        "description": "川包\n半自动689w",
+        "author": "川包",
+        "damage": {
+          "value": 6890000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=12"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A3",
+    "id": "at321",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5900000,
+    "sources": [
+      {
+        "description": "川包\n全自动590w",
+        "author": "川包",
+        "damage": {
+          "value": 5900000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=14"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A3",
     "id": "at303",
     "characters": [
       {
@@ -2805,6 +3015,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1HZ4y1X7ap?p=14"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "川包\n全自动700w",
+        "author": "川包",
+        "damage": {
+          "value": 7000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=11"
         ],
         "images": [],
         "comments": []
@@ -3229,6 +3453,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Kr4y1S7K8?p=8"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A3",
+    "id": "at322",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5500000,
+    "sources": [
+      {
+        "description": "川包\n全自动550w",
+        "author": "川包",
+        "damage": {
+          "value": 5500000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=15"
         ],
         "images": [],
         "comments": []
@@ -4492,6 +4768,58 @@
     ]
   },
   {
+    "boss": "A4",
+    "id": "at421",
+    "characters": [
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6300000,
+    "sources": [
+      {
+        "description": "川包\n全自动630w",
+        "author": "川包",
+        "damage": {
+          "value": 6300000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=16"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
     "boss": "A5",
     "id": "A501",
     "characters": [
@@ -5393,6 +5721,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1hb4y1v731?p=16"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A5",
+    "id": "at519",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5800000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动590w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 5900000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1pb4y1v7J8?p=16"
         ],
         "images": [],
         "comments": []
