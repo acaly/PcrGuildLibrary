@@ -221,6 +221,45 @@
   },
   {
     "boss": "A1",
+    "id": "at125",
+    "characters": [
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      },
+      {
+        "id": 1117,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "全程连点nnk"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6000000,
+    "sources": []
+  },
+  {
+    "boss": "A1",
     "id": "at104",
     "characters": [
       {
@@ -1083,6 +1122,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "芥荒\n半自动730w",
+        "author": null,
+        "damage": {
+          "value": 7300000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1u44y177h6?p=6"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -1303,13 +1356,28 @@
       "high": null
     },
     "comments": [
-      "露娜14-2"
+      "全自动630w"
     ],
     "labels": [
       "Auto"
     ],
     "standard_damage": 6300000,
-    "sources": []
+    "sources": [
+      {
+        "description": "芥荒\n半自动760w",
+        "author": null,
+        "damage": {
+          "value": 7600000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1u44y177h6?p=5"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "A2",
@@ -1706,7 +1774,7 @@
     "standard_damage": 6200000,
     "sources": [
       {
-        "description": "透过现象看本质\n全自动712w",
+        "description": "透过现象看本质[H1]\n全自动712w",
         "author": "透过现象看本质",
         "damage": {
           "value": 7120000,
@@ -1715,6 +1783,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1pb4y1v7J8?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A2",
+    "id": "at225",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5900000,
+    "sources": [
+      {
+        "description": "透过现象看本质[g1]\n全自动598w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 5980000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1pb4y1v7J8?p=19"
         ],
         "images": [],
         "comments": []
@@ -2372,6 +2492,45 @@
     ]
   },
   {
+    "boss": "A2",
+    "id": "at226",
+    "characters": [
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "运气好能一刀"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 7500000,
+    "sources": []
+  },
+  {
     "boss": "A3",
     "id": "A301",
     "characters": [
@@ -2653,6 +2812,60 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1pb4y1v7J8?p=12"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A3",
+    "id": "at326",
+    "characters": [
+      {
+        "id": 1113,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "比较复杂，看视频操作"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 7000000,
+    "sources": [
+      {
+        "description": "芥荒\n半手动700w",
+        "author": null,
+        "damage": {
+          "value": 7000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1u44y177h6?p=7"
         ],
         "images": [],
         "comments": []
@@ -3149,6 +3362,60 @@
   },
   {
     "boss": "A3",
+    "id": "at327",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "全程连点吉他"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 7200000,
+    "sources": [
+      {
+        "description": "芥荒\n半自动720w",
+        "author": null,
+        "damage": {
+          "value": 7200000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1u44y177h6?p=8"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A3",
     "id": "at321",
     "characters": [
       {
@@ -3276,6 +3543,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "芥荒\n半自动700w",
+        "author": null,
+        "damage": {
+          "value": 7000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1u44y177h6?p=9"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -3377,6 +3658,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1hS4y1g7UD?p=14"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A3",
+    "id": "at325",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      },
+      {
+        "id": 1117,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6400000,
+    "sources": [
+      {
+        "description": "透过现象看本质[g2]\n全自动645w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 6450000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1pb4y1v7J8?p=20"
         ],
         "images": [],
         "comments": []
@@ -4019,6 +4352,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1nZ4y1X7ze?p=6"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "芥荒\n全自动750w",
+        "author": null,
+        "damage": {
+          "value": 7500000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1u44y177h6?p=10"
         ],
         "images": [],
         "comments": []
@@ -4918,6 +5265,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "芥荒\n全自动700w",
+        "author": null,
+        "damage": {
+          "value": 7000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1u44y177h6?p=11"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -5113,6 +5474,60 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1nZ4y1X7ze?p=7"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A4",
+    "id": "at429",
+    "characters": [
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1044,
+        "requirements": []
+      },
+      {
+        "id": 1117,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "操作有点复杂，看视频"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6500000,
+    "sources": [
+      {
+        "description": "芥荒\n半自动650w",
+        "author": null,
+        "damage": {
+          "value": 6500000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1u44y177h6?p=12"
         ],
         "images": [],
         "comments": []
@@ -5587,6 +6002,56 @@
   },
   {
     "boss": "A5",
+    "id": "A503",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 7000000,
+    "sources": [
+      {
+        "description": "PCR中奖我氪6单\n700w简介有轴",
+        "author": null,
+        "damage": {
+          "value": 7000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Ti4y1R7qY"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A5",
     "id": "at501",
     "characters": [
       {
@@ -5930,6 +6395,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "芥荒\n半自动650w",
+        "author": null,
+        "damage": {
+          "value": 6500000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1u44y177h6?p=13"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -6047,6 +6526,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1HZ4y1X7ap?p=24"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "芥荒\n半手动800w一刀",
+        "author": null,
+        "damage": {
+          "value": 8000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1u44y177h6?p=14"
         ],
         "images": [],
         "comments": []
@@ -6604,7 +7097,7 @@
     "standard_damage": 5800000,
     "sources": [
       {
-        "description": "透过现象看本质\n全自动590w",
+        "description": "透过现象看本质[F2,H2]\n全自动590w",
         "author": "透过现象看本质",
         "damage": {
           "value": 5900000,
@@ -6724,7 +7217,7 @@
     "standard_damage": 5700000,
     "sources": [
       {
-        "description": "透过现象看本质\r\n全自动570w",
+        "description": "透过现象看本质[d2]\n全自动570w",
         "author": "透过现象看本质",
         "damage": {
           "value": 5700000,
@@ -6787,6 +7280,60 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Mb4y1i78F?p=24"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A5",
+    "id": "at526",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1117,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "全程连点nnk，001连点圣伊"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6500000,
+    "sources": [
+      {
+        "description": "芥荒\n半自动650w",
+        "author": null,
+        "damage": {
+          "value": 6500000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1u44y177h6?p=15"
         ],
         "images": [],
         "comments": []
@@ -6964,7 +7511,7 @@
     "standard_damage": 5900000,
     "sources": [
       {
-        "description": "透过现象看本质\n全自动596w",
+        "description": "透过现象看本质[F1]\n全自动596w",
         "author": "透过现象看本质",
         "damage": {
           "value": 5960000,
