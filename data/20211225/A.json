@@ -823,6 +823,80 @@
   },
   {
     "boss": "A1",
+    "id": "at124",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6000000,
+    "sources": []
+  },
+  {
+    "boss": "A1",
+    "id": "at123",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6000000,
+    "sources": []
+  },
+  {
+    "boss": "A1",
     "id": "at111",
     "characters": [
       {
@@ -1006,6 +1080,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Kr4y1S7K8?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A2",
+    "id": "at223",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6500000,
+    "sources": [
+      {
+        "description": "认真摸鱼\n全自动650w",
+        "author": null,
+        "damage": {
+          "value": 6500000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Eg411A7VZ?p=2"
         ],
         "images": [],
         "comments": []
@@ -1867,6 +1993,58 @@
   },
   {
     "boss": "A2",
+    "id": "at224",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1037,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6000000,
+    "sources": [
+      {
+        "description": "认真摸鱼\n全自动600w",
+        "author": null,
+        "damage": {
+          "value": 6000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Eg411A7VZ?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A2",
     "id": "at202",
     "characters": [
       {
@@ -2355,6 +2533,72 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1hb4y1v731?p=9"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "认真摸鱼\n全自动700w",
+        "author": null,
+        "damage": {
+          "value": 7000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Eg411A7VZ?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A3",
+    "id": "at324",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 7000000,
+    "sources": [
+      {
+        "description": "认真摸鱼\n全自动700w",
+        "author": null,
+        "damage": {
+          "value": 7000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Eg411A7VZ?p=7"
         ],
         "images": [],
         "comments": []
@@ -3170,7 +3414,7 @@
       "high": null
     },
     "comments": [
-      "yly看上去容易寄，最后几秒最好连点下yly"
+      "yly看上去容易寄，最后几秒可以连点yly防滑"
     ],
     "labels": [
       "Auto"
@@ -3178,7 +3422,7 @@
     "standard_damage": 6200000,
     "sources": [
       {
-        "description": "透过现象看本质\n全自动637w",
+        "description": "透过现象看本质[d1]\n全自动637w",
         "author": "透过现象看本质",
         "damage": {
           "value": 6370000,
@@ -3505,6 +3749,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Mb4y1i78F?p=15"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A3",
+    "id": "at323",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6600000,
+    "sources": [
+      {
+        "description": "认真摸鱼\n全自动660w",
+        "author": null,
+        "damage": {
+          "value": 6600000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Eg411A7VZ?p=5"
         ],
         "images": [],
         "comments": []
@@ -4153,6 +4449,58 @@
   },
   {
     "boss": "A4",
+    "id": "at424",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6360000,
+    "sources": [
+      {
+        "description": "川包\n半自动636w",
+        "author": "川包",
+        "damage": {
+          "value": 6360000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=19"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A4",
     "id": "at417",
     "characters": [
       {
@@ -4259,6 +4607,114 @@
   },
   {
     "boss": "A4",
+    "id": "at421",
+    "characters": [
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "出刀之前喂圣锤几个发情蛋糕把她哄开心点"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6300000,
+    "sources": [
+      {
+        "description": "川包\n全自动630w",
+        "author": "川包",
+        "damage": {
+          "value": 6300000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=16"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A4",
+    "id": "at422",
+    "characters": [
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "半自动650w，全自动635w"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6500000,
+    "sources": [
+      {
+        "description": "川包\n半自动650w",
+        "author": "川包",
+        "damage": {
+          "value": 6500000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=17"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A4",
     "id": "at418",
     "characters": [
       {
@@ -4303,6 +4759,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Kr4y1S7K8?p=12"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A4",
+    "id": "at426",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5500000,
+    "sources": [
+      {
+        "description": "认真摸鱼\n全自动550w",
+        "author": null,
+        "damage": {
+          "value": 5500000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Eg411A7VZ?p=6"
         ],
         "images": [],
         "comments": []
@@ -4613,6 +5121,60 @@
   },
   {
     "boss": "A4",
+    "id": "at423",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1117,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "纯auto少40w"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5700000,
+    "sources": [
+      {
+        "description": "川包\n半自动570w",
+        "author": "川包",
+        "damage": {
+          "value": 5700000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=18"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A4",
     "id": "at405",
     "characters": [
       {
@@ -4769,26 +5331,26 @@
   },
   {
     "boss": "A4",
-    "id": "at421",
+    "id": "at428",
     "characters": [
       {
-        "id": 1115,
+        "id": 1078,
         "requirements": []
       },
       {
-        "id": 1057,
+        "id": 1114,
         "requirements": []
       },
       {
-        "id": 1086,
+        "id": 1070,
         "requirements": []
       },
       {
-        "id": 1104,
+        "id": 1009,
         "requirements": []
       },
       {
-        "id": 1043,
+        "id": 1044,
         "requirements": []
       }
     ],
@@ -4801,18 +5363,122 @@
     "labels": [
       "Auto"
     ],
-    "standard_damage": 6300000,
+    "standard_damage": 5000000,
     "sources": [
       {
-        "description": "川包\n全自动630w",
-        "author": "川包",
+        "description": "认真摸鱼\n全自动500w",
+        "author": null,
         "damage": {
-          "value": 6300000,
+          "value": 5000000,
           "low": null,
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=16"
+          "https://www.bilibili.com/video/BV1Eg411A7VZ?p=10"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A4",
+    "id": "at425",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5490000,
+    "sources": [
+      {
+        "description": "川包\n半自动549w",
+        "author": "川包",
+        "damage": {
+          "value": 5490000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=20"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A4",
+    "id": "at427",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5500000,
+    "sources": [
+      {
+        "description": "认真摸鱼\n全自动550w",
+        "author": null,
+        "damage": {
+          "value": 5500000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Eg411A7VZ?p=8"
         ],
         "images": [],
         "comments": []
@@ -5003,6 +5669,60 @@
   },
   {
     "boss": "A5",
+    "id": "at521",
+    "characters": [
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "半自动720w，全自动650w"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6500000,
+    "sources": [
+      {
+        "description": "川包\n半自动720w",
+        "author": "川包",
+        "damage": {
+          "value": 7200000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=22"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A5",
     "id": "at511",
     "characters": [
       {
@@ -5047,6 +5767,60 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Kr4y1S7K8?p=14"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A5",
+    "id": "at520",
+    "characters": [
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "出刀之前喂圣锤几个发情蛋糕把她哄开心点"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6600000,
+    "sources": [
+      {
+        "description": "川包\n全自动660w",
+        "author": "川包",
+        "damage": {
+          "value": 6600000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=21"
         ],
         "images": [],
         "comments": []
@@ -5153,6 +5927,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1HZ4y1X7ap?p=26"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A5",
+    "id": "at525",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6000000,
+    "sources": [
+      {
+        "description": "认真摸鱼\n全自动600w",
+        "author": null,
+        "damage": {
+          "value": 6000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Eg411A7VZ?p=9"
         ],
         "images": [],
         "comments": []
@@ -5644,6 +6470,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "川包\n半自动620w",
+        "author": "川包",
+        "damage": {
+          "value": 6200000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=25"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -5825,6 +6665,180 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Kr4y1S7K8?p=13"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "认真摸鱼\n全自动650w",
+        "author": null,
+        "damage": {
+          "value": 6500000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Eg411A7VZ?p=11"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A6",
+    "id": "at524",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "最后有UB可以点一点"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5700000,
+    "sources": [
+      {
+        "description": "透过现象看本质\r\n全自动570w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 5700000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1pb4y1v7J8?p=17"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A5",
+    "id": "at523",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "全自动少15w"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6000000,
+    "sources": [
+      {
+        "description": "川包\n半自动600w",
+        "author": "川包",
+        "damage": {
+          "value": 6000000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=24"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A5",
+    "id": "at522",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1117,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6430000,
+    "sources": [
+      {
+        "description": "川包\n全自动643w",
+        "author": "川包",
+        "damage": {
+          "value": 6430000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=23"
         ],
         "images": [],
         "comments": []
