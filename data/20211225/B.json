@@ -1508,7 +1508,7 @@
   },
   {
     "boss": "B3",
-    "id": "B303",
+    "id": "B302",
     "characters": [
       {
         "id": 1071,
@@ -1838,6 +1838,58 @@
   },
   {
     "boss": "B3",
+    "id": "bt312",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5220000,
+    "sources": [
+      {
+        "description": "歪橘YG\n全自动522w",
+        "author": null,
+        "damage": {
+          "value": 5220000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1iT4y1f7n3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B3",
     "id": "bt305",
     "characters": [
       {
@@ -2059,6 +2111,74 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "透过现象看本质\n(圣伊5*r14-5.6)\n全自动566w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 5660000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1pb4y1v7J8?p=22"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B3",
+    "id": "bt311",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1117,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "透:视频圣伊5星r14-5.6，全程连点圣伊"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4900000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n连点自动536w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 5360000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1pb4y1v7J8?p=21"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -2160,6 +2280,56 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV13M4y1w7Hh?p=9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
+    "id": "B402",
+    "characters": [
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5950000,
+    "sources": [
+      {
+        "description": "花舞-云烨朱云595w评论有轴",
+        "author": "花舞-云烨朱云",
+        "damage": {
+          "value": 5950000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1F341147vH/"
         ],
         "images": [],
         "comments": []
@@ -2378,6 +2548,58 @@
   },
   {
     "boss": "B4",
+    "id": "bt418",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5000000,
+    "sources": [
+      {
+        "description": "川包\n全自动\n500-525w",
+        "author": "川包",
+        "damage": {
+          "value": null,
+          "low": 5000000,
+          "high": 5250000
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=47"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
     "id": "bt402",
     "characters": [
       {
@@ -2422,6 +2644,60 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Y3411x7Z1?p=25"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
+    "id": "bt415",
+    "characters": [
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "全自动圣锤概率暴毙"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6200000,
+    "sources": [
+      {
+        "description": "川包\n半自动\n620-640w",
+        "author": "川包",
+        "damage": {
+          "value": null,
+          "low": 6200000,
+          "high": 6400000
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=44"
         ],
         "images": [],
         "comments": []
@@ -2578,6 +2854,60 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV12b4y1v71f?p=18"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
+    "id": "bt416",
+    "characters": [
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "全自动少10w"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6000000,
+    "sources": [
+      {
+        "description": "川包\n半自动\n600-610w",
+        "author": "川包",
+        "damage": {
+          "value": null,
+          "low": 6000000,
+          "high": 6100000
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=45"
         ],
         "images": [],
         "comments": []
@@ -2794,6 +3124,58 @@
   },
   {
     "boss": "B4",
+    "id": "bt419",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1096,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5000000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动505w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 5050000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1pb4y1v7J8?p=23"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
     "id": "bt404",
     "characters": [
       {
@@ -2840,6 +3222,114 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Y3411x7Z1?p=36"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
+    "id": "bt417",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "全自动安概率寄"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5100000,
+    "sources": [
+      {
+        "description": "川包\n半自动\n510-550w",
+        "author": "川包",
+        "damage": {
+          "value": null,
+          "low": 5100000,
+          "high": 5500000
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=46"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
+    "id": "bt414",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1117,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "必须5星圣伊，必须看视频操作半自动，否则挂树"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 7420000,
+    "sources": [
+      {
+        "description": "川包\n半自动742w",
+        "author": "川包",
+        "damage": {
+          "value": 7420000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=43"
         ],
         "images": [],
         "comments": []
@@ -3170,6 +3660,60 @@
   },
   {
     "boss": "B5",
+    "id": "bt514",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "全自动545w，半自动看视频"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5830000,
+    "sources": [
+      {
+        "description": "川包\n半自动583w",
+        "author": "川包",
+        "damage": {
+          "value": 5830000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=49"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B5",
     "id": "bt509",
     "characters": [
       {
@@ -3488,6 +4032,60 @@
   },
   {
     "boss": "B5",
+    "id": "bt515",
+    "characters": [
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "狗概率提前死"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5450000,
+    "sources": [
+      {
+        "description": "川包\n全自动545w",
+        "author": "川包",
+        "damage": {
+          "value": 5450000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=50"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B5",
     "id": "bt503",
     "characters": [
       {
@@ -3534,6 +4132,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Y3411x7Z1?p=31"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B5",
+    "id": "bt516",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5000000,
+    "sources": [
+      {
+        "description": "川包\n全自动\n500-515w",
+        "author": "川包",
+        "damage": {
+          "value": null,
+          "low": 5000000,
+          "high": 5150000
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=51"
         ],
         "images": [],
         "comments": []
@@ -3625,12 +4275,27 @@
       "high": null
     },
     "comments": [
-      "全程连点圣伊和nnk"
+      "必须全程连点圣伊和nnk。纯auto会挂树"
     ],
     "labels": [
       "Auto"
     ],
     "standard_damage": 6200000,
-    "sources": []
+    "sources": [
+      {
+        "description": "川包\n半自动660w",
+        "author": "川包",
+        "damage": {
+          "value": 6600000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mb4y1i78F?p=48"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   }
 ]
