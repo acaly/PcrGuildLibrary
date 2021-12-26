@@ -4169,56 +4169,6 @@
   },
   {
     "boss": "B4",
-    "id": "B404",
-    "characters": [
-      {
-        "id": 1071,
-        "requirements": []
-      },
-      {
-        "id": 1057,
-        "requirements": []
-      },
-      {
-        "id": 1027,
-        "requirements": []
-      },
-      {
-        "id": 1086,
-        "requirements": []
-      },
-      {
-        "id": 1043,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [],
-    "labels": [],
-    "standard_damage": 6200000,
-    "sources": [
-      {
-        "description": "PCR中奖我氪6单\n600-640w\n简介有轴",
-        "author": null,
-        "damage": {
-          "value": null,
-          "low": 6000000,
-          "high": 6400000
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1sF411B79D"
-        ],
-        "images": [],
-        "comments": []
-      }
-    ]
-  },
-  {
-    "boss": "B4",
     "id": "B405",
     "characters": [
       {
