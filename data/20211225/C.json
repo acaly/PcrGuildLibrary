@@ -3010,6 +3010,39 @@
   },
   {
     "boss": "C4",
+    "id": "C408",
+    "characters": [
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1101,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "“纯整活，前期地鼠，后面按水老师-水老师-圣千-似似花-水老师顺序开，妈有就点”"
+    ],
+    "labels": [],
+    "standard_damage": 14000000,
+    "sources": []
+  },
+  {
+    "boss": "C4",
     "id": "C406",
     "characters": [
       {
@@ -4411,6 +4444,58 @@
   },
   {
     "boss": "C5",
+    "id": "ct515",
+    "characters": [
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4000000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动409w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4090000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1pb4y1v7J8?p=26"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
     "id": "ct502",
     "characters": [
       {
@@ -4691,6 +4776,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1pL41157jQ?p=20"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct516",
+    "characters": [
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1056,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4000000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动409w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4090000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1pb4y1v7J8?p=27"
         ],
         "images": [],
         "comments": []
