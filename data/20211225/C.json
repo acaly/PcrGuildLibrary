@@ -2918,6 +2918,25 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "启明\n演示760w\n评论有轴",
+        "author": null,
+        "damage": {
+          "value": 7600000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1GZ4y1X7em"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -4039,6 +4058,25 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "kkispob\n减少暴毙可能性\n半自动590w",
+        "author": null,
+        "damage": {
+          "value": 5900000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1xF411B7qn/"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -4741,6 +4779,63 @@
           "https://www.bilibili.com/video/BV1iS4y1M75h?p=5"
         ],
         "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "C410",
+    "characters": [
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1101,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "大概返30s\n参考无糖的c4时停 露换真步补tp解决圣千拉废不满tp的情况"
+    ],
+    "labels": [],
+    "standard_damage": 14000000,
+    "sources": [
+      {
+        "description": "落枫 返30s",
+        "author": null,
+        "damage": {
+          "value": 14000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 60,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg5.docs.qq.com/image/SYDYcAngqgjqG2GcIVf1pQ.png?w=620&h=104"
+        ],
         "comments": []
       }
     ]
