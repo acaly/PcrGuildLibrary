@@ -338,6 +338,58 @@
   },
   {
     "boss": "C1",
+    "id": "ct113",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5200000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动520w",
+        "author": null,
+        "damage": {
+          "value": 5200000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
     "id": "ct110",
     "characters": [
       {
@@ -437,6 +489,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动513w",
+        "author": null,
+        "damage": {
+          "value": 5130000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=1"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -500,6 +566,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Eq4y1m78W?p=6"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动492w",
+        "author": null,
+        "damage": {
+          "value": 4920000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=3"
         ],
         "images": [],
         "comments": []
@@ -1398,6 +1478,58 @@
   },
   {
     "boss": "C2",
+    "id": "ct215",
+    "characters": [
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5630000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动563w",
+        "author": null,
+        "damage": {
+          "value": 5630000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
     "id": "ct206",
     "characters": [
       {
@@ -1544,6 +1676,58 @@
   },
   {
     "boss": "C2",
+    "id": "ct216",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1101,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5340000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动534w",
+        "author": null,
+        "damage": {
+          "value": 5340000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=5"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
     "id": "ct207",
     "characters": [
       {
@@ -1668,6 +1852,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Ku411S7QX"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "ct217",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5930000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动593w",
+        "author": null,
+        "damage": {
+          "value": 5930000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=6"
         ],
         "images": [],
         "comments": []
@@ -2280,6 +2516,58 @@
   },
   {
     "boss": "C3",
+    "id": "ct312",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4840000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动484w",
+        "author": null,
+        "damage": {
+          "value": 4840000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=7"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
     "id": "ct305",
     "characters": [
       {
@@ -2636,6 +2924,58 @@
   },
   {
     "boss": "C3",
+    "id": "ct313",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4620000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动462w",
+        "author": null,
+        "damage": {
+          "value": 4620000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=8"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
     "id": "ct307",
     "characters": [
       {
@@ -2732,6 +3072,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1pL41157jQ?p=12"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "ct314",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4010000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动401w",
+        "author": null,
+        "damage": {
+          "value": 4010000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=9"
         ],
         "images": [],
         "comments": []
@@ -3035,7 +3427,7 @@
       "high": null
     },
     "comments": [
-      "“纯整活，前期地鼠，后面按水老师-水老师-圣千-似似花-水老师顺序开，妈有就点”"
+      "“纯整活，前期地鼠，后面按水老师-水老师-圣千-似似花-水老师顺序开，妈有就点”\n我严重怀疑摸出这个轴的人就是忘记上人了¿¿¿¿¿"
     ],
     "labels": [],
     "standard_damage": 14000000,
@@ -3195,6 +3587,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1xS4y1M7Cm?p=9"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动398w",
+        "author": null,
+        "damage": {
+          "value": 3980000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=11"
         ],
         "images": [],
         "comments": []
@@ -3671,6 +4077,58 @@
   },
   {
     "boss": "C4",
+    "id": "ct415",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1056,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3400000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动340w",
+        "author": null,
+        "damage": {
+          "value": 3400000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=10"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
     "id": "ct412",
     "characters": [
       {
@@ -3873,6 +4331,58 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1pL41157jQ?p=16"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "ct416",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4440000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动444w",
+        "author": null,
+        "damage": {
+          "value": 4440000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=12"
         ],
         "images": [],
         "comments": []
@@ -4562,6 +5072,58 @@
   },
   {
     "boss": "C5",
+    "id": "ct517",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3980000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动398w",
+        "author": null,
+        "damage": {
+          "value": 3980000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=14"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
     "id": "ct511",
     "characters": [
       {
@@ -4776,6 +5338,20 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1pL41157jQ?p=20"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动401w",
+        "author": null,
+        "damage": {
+          "value": 4010000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=13"
         ],
         "images": [],
         "comments": []
@@ -5053,6 +5629,20 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动411w",
+        "author": null,
+        "damage": {
+          "value": 4110000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=15"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -5139,7 +5729,7 @@
       "high": null
     },
     "comments": [
-      "R14-1右下3星150专妈"
+      "妈要r14满专，mcw 4x以上"
     ],
     "labels": [
       "Auto"
@@ -5147,12 +5737,12 @@
     "standard_damage": 4550000,
     "sources": [
       {
-        "description": "川包\n全自动450-460w",
+        "description": "川包\n全自动420-520w",
         "author": "川包",
         "damage": {
           "value": null,
-          "low": 4500000,
-          "high": 4600000
+          "low": 4200000,
+          "high": 5200000
         },
         "links": [
           "https://www.bilibili.com/video/BV1pL41157jQ?p=19"
