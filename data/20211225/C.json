@@ -32,7 +32,122 @@
     "comments": [],
     "labels": [],
     "standard_damage": 7000000,
-    "sources": []
+    "sources": [
+      {
+        "description": "Sora宝\n一刀返30s\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 7000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 60,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Vr4y1S7YU?p=1"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-忧默\n一刀返28-32s\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 7000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 62,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV15Z4y1D7CL?p=1"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖x艺人\nr12黄骑\n返30s视频有轴",
+        "author": null,
+        "damage": {
+          "value": 7000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 60,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV16F411B7oZ/"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖x艺人\nr14黄骑\n返26s视频有轴",
+        "author": null,
+        "damage": {
+          "value": 7000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 64,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV16F411B7oZ?p=2"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "DarkKnight2\nr14黄骑水黑\n返24s 评论有轴",
+        "author": null,
+        "damage": {
+          "value": 7000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 66,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Zr4y1U78k"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "玩具喵\n返24s\n视频有轴",
+        "author": "玩具喵",
+        "damage": {
+          "value": 7000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 66,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1fm4y1X7wx?p=1"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "C1",
@@ -75,6 +190,11 @@
         "author": null,
         "damage": {
           "value": 6470000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -130,6 +250,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV13Y411p7Zt?p=4"
         ],
@@ -141,6 +266,11 @@
         "author": null,
         "damage": {
           "value": 4980000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -196,6 +326,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1ca4116735?p=1"
         ],
@@ -210,6 +345,11 @@
           "low": 5600000,
           "high": 5800000
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1pL41157jQ?p=1"
         ],
@@ -221,6 +361,11 @@
         "author": null,
         "damage": {
           "value": 5650000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -276,6 +421,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1ca4116735?p=2"
         ],
@@ -327,6 +477,11 @@
           "value": null,
           "low": 4900000,
           "high": 5380000
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
         },
         "links": [
           "https://www.bilibili.com/video/BV1xS4y1M7Cm?p=6"
@@ -380,8 +535,32 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=2"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "【刀1】力拔山兮\n全自动507w",
+        "author": null,
+        "damage": {
+          "value": 5070000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mP4y1H7ti?p=1"
         ],
         "images": [],
         "comments": []
@@ -432,8 +611,72 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1pL41157jQ?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "ct114",
+    "characters": [
+      {
+        "id": 1076,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "水妈r10开专"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5000000,
+    "sources": [
+      {
+        "description": "花守xKai\n全自动500w",
+        "author": null,
+        "damage": {
+          "value": 5000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Gi4y1R7FH"
         ],
         "images": [],
         "comments": []
@@ -484,6 +727,11 @@
           "low": 4600000,
           "high": 5110000
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1xS4y1M7Cm?p=1"
         ],
@@ -498,8 +746,148 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=1"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "【刀2】力拔山兮\n全自动537w",
+        "author": null,
+        "damage": {
+          "value": 5370000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mP4y1H7ti?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "ct106",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1117,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "不能纯auto，会寄"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 7000000,
+    "sources": [
+      {
+        "description": "酷乐x沙华\n半自动返23s",
+        "author": "酷乐",
+        "damage": {
+          "value": 7000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 67,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV13Y411p7Zt?p=3"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "玩具喵\n【刀3】\n半自动650-700w",
+        "author": "玩具喵",
+        "damage": {
+          "value": null,
+          "low": 6500000,
+          "high": 7000000
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1xS4y1M7Cm?p=11"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "韭月初八\n地鼠刀返26s",
+        "author": "韭月初八",
+        "damage": {
+          "value": 7000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 64,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mr4y1U7jr"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "改个名字再来\n半自动665w",
+        "author": null,
+        "damage": {
+          "value": 6650000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1tS4y1M76Y"
         ],
         "images": [],
         "comments": []
@@ -550,6 +938,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1ca4116735?p=3"
         ],
@@ -561,6 +954,11 @@
         "author": null,
         "damage": {
           "value": 4570000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -578,8 +976,32 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=3"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "【刀3】力拔山兮\n全自动484w",
+        "author": null,
+        "damage": {
+          "value": 4840000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mP4y1H7ti?p=3"
         ],
         "images": [],
         "comments": []
@@ -632,60 +1054,13 @@
           "low": 4500000,
           "high": 4900000
         },
-        "links": [
-          "https://www.bilibili.com/video/BV1pL41157jQ?p=3"
-        ],
-        "images": [],
-        "comments": []
-      }
-    ]
-  },
-  {
-    "boss": "C1",
-    "id": "ct104",
-    "characters": [
-      {
-        "id": 1111,
-        "requirements": []
-      },
-      {
-        "id": 1036,
-        "requirements": []
-      },
-      {
-        "id": 1078,
-        "requirements": []
-      },
-      {
-        "id": 1070,
-        "requirements": []
-      },
-      {
-        "id": 1095,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [],
-    "labels": [
-      "Auto"
-    ],
-    "standard_damage": 4160000,
-    "sources": [
-      {
-        "description": "花舞-\n玖璃梦x樱岛麻衣全自动416w",
-        "author": null,
-        "damage": {
-          "value": 4160000,
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1ca4116735?p=4"
+          "https://www.bilibili.com/video/BV1pL41157jQ?p=3"
         ],
         "images": [],
         "comments": []
@@ -735,6 +1110,11 @@
           "value": null,
           "low": 4300000,
           "high": 4800000
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
         },
         "links": [
           "https://www.bilibili.com/video/BV1pL41157jQ?p=4"
@@ -788,6 +1168,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1ca4116735?p=5"
         ],
@@ -798,10 +1183,14 @@
   },
   {
     "boss": "C1",
-    "id": "ct106",
+    "id": "ct104",
     "characters": [
       {
         "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
         "requirements": []
       },
       {
@@ -813,11 +1202,7 @@
         "requirements": []
       },
       {
-        "id": 1034,
-        "requirements": []
-      },
-      {
-        "id": 1117,
+        "id": 1095,
         "requirements": []
       }
     ],
@@ -826,24 +1211,27 @@
       "low": null,
       "high": null
     },
-    "comments": [
-      "不能纯auto，会寄"
-    ],
+    "comments": [],
     "labels": [
       "Auto"
     ],
-    "standard_damage": 7000000,
+    "standard_damage": 4160000,
     "sources": [
       {
-        "description": "玩具喵\n【刀3】\n半自动650-700w",
-        "author": "玩具喵",
+        "description": "花舞-\n玖璃梦x樱岛麻衣全自动416w",
+        "author": null,
         "damage": {
-          "value": null,
-          "low": 6500000,
-          "high": 7000000
+          "value": 4160000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1xS4y1M7Cm?p=11"
+          "https://www.bilibili.com/video/BV1ca4116735?p=4"
         ],
         "images": [],
         "comments": []
@@ -892,6 +1280,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1Vr4y1S7YU?p=2"
         ],
@@ -905,6 +1298,11 @@
           "value": null,
           "low": 7000000,
           "high": 7600000
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
         },
         "links": [
           "https://www.bilibili.com/video/BV16F411B7oZ?p=3"
@@ -920,8 +1318,197 @@
           "low": 7300000,
           "high": 7710000
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1fm4y1X7wx?p=2"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-永夜之殇\n760-790w\n视频有轴",
+        "author": "花舞-永夜之殇",
+        "damage": {
+          "value": null,
+          "low": 7600000,
+          "high": 7900000
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1LD4y1c7x1"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C204",
+    "characters": [
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1107,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5480000,
+    "sources": [
+      {
+        "description": "優奈\n548w简介有轴",
+        "author": null,
+        "damage": {
+          "value": 5480000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1K44y177pU/"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C202",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5310000,
+    "sources": [
+      {
+        "description": "花舞-云烨朱云531w评论有轴",
+        "author": "花舞-云烨朱云",
+        "damage": {
+          "value": 5310000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1yY411H7ZQ/"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C203",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1096,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5120000,
+    "sources": [
+      {
+        "description": "花舞-云烨朱云512w评论有轴",
+        "author": "花舞-云烨朱云",
+        "damage": {
+          "value": 5120000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Ei4y1R7mf/"
         ],
         "images": [],
         "comments": []
@@ -972,6 +1559,11 @@
           "low": 5200000,
           "high": 6000000
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1pL41157jQ?p=6"
         ],
@@ -1021,6 +1613,11 @@
         "author": "川包",
         "damage": {
           "value": 5350000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -1076,6 +1673,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1ca4116735?p=6"
         ],
@@ -1090,8 +1692,70 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1Eq4y1m78W?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "ct218",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6480000,
+    "sources": [
+      {
+        "description": "天地z\n有目押操作648w",
+        "author": null,
+        "damage": {
+          "value": 6480000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Va41167do"
         ],
         "images": [],
         "comments": []
@@ -1142,8 +1806,32 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1ca4116735?p=8"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "【刀3】力拔山兮\n全自动516w",
+        "author": null,
+        "damage": {
+          "value": 5160000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mP4y1H7ti?p=6"
         ],
         "images": [],
         "comments": []
@@ -1194,6 +1882,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1ca4116735?p=9"
         ],
@@ -1208,8 +1901,70 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV13Y411p7Zt?p=6"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "ct219",
+    "characters": [
+      {
+        "id": 1107,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5300000,
+    "sources": [
+      {
+        "description": "花守xKai\n全自动530w",
+        "author": null,
+        "damage": {
+          "value": 5300000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV17m4y197BM"
         ],
         "images": [],
         "comments": []
@@ -1257,6 +2012,11 @@
         "author": null,
         "damage": {
           "value": 5300000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -1312,6 +2072,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1ca4116735?p=10"
         ],
@@ -1363,6 +2128,11 @@
           "value": null,
           "low": 5100000,
           "high": 5580000
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
         },
         "links": [
           "https://www.bilibili.com/video/BV1xS4y1M7Cm?p=2"
@@ -1416,60 +2186,13 @@
           "low": null,
           "high": null
         },
-        "links": [
-          "https://www.bilibili.com/video/BV1pL41157jQ?p=9"
-        ],
-        "images": [],
-        "comments": []
-      }
-    ]
-  },
-  {
-    "boss": "C2",
-    "id": "ct213",
-    "characters": [
-      {
-        "id": 1071,
-        "requirements": []
-      },
-      {
-        "id": 1104,
-        "requirements": []
-      },
-      {
-        "id": 1043,
-        "requirements": []
-      },
-      {
-        "id": 1061,
-        "requirements": []
-      },
-      {
-        "id": 1017,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [],
-    "labels": [
-      "Auto"
-    ],
-    "standard_damage": 5220000,
-    "sources": [
-      {
-        "description": "川包\n半自动522w\n全自动477w",
-        "author": "川包",
-        "damage": {
-          "value": 5220000,
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1pL41157jQ?p=8"
+          "https://www.bilibili.com/video/BV1pL41157jQ?p=9"
         ],
         "images": [],
         "comments": []
@@ -1520,8 +2243,70 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "ct213",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5220000,
+    "sources": [
+      {
+        "description": "川包\n半自动522w\n全自动477w",
+        "author": "川包",
+        "damage": {
+          "value": 5220000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1pL41157jQ?p=8"
         ],
         "images": [],
         "comments": []
@@ -1572,6 +2357,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV16F411B7oZ?p=4"
         ],
@@ -1583,6 +2373,11 @@
         "author": null,
         "damage": {
           "value": 6540000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -1600,6 +2395,11 @@
           "low": 5700000,
           "high": 6330000
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1xS4y1M7Cm?p=12"
         ],
@@ -1614,8 +2414,32 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1Eq4y1m78W?p=7"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "天才DJ少女kanon\n全自动640w",
+        "author": null,
+        "damage": {
+          "value": 6400000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1n3411v7Jd"
         ],
         "images": [],
         "comments": []
@@ -1666,8 +2490,51 @@
           "low": 6200000,
           "high": 6400000
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1pL41157jQ?p=5"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "【刀2】力拔山兮\n全自动586w",
+        "author": null,
+        "damage": {
+          "value": 5860000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mP4y1H7ti?p=5"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "韭月初八\n半自动560w",
+        "author": "韭月初八",
+        "damage": {
+          "value": 5600000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV18m4y197eh"
         ],
         "images": [],
         "comments": []
@@ -1715,6 +2582,11 @@
         "author": null,
         "damage": {
           "value": 5340000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -1770,6 +2642,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV13Y411p7Zt?p=5"
         ],
@@ -1783,6 +2660,11 @@
           "value": null,
           "low": 6200000,
           "high": 6740000
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
         },
         "links": [
           "https://www.bilibili.com/video/BV1xS4y1M7Cm?p=7"
@@ -1836,6 +2718,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1ca4116735?p=28"
         ],
@@ -1850,8 +2737,32 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1Ku411S7QX"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "【刀1】力拔山兮\n全自动588w",
+        "author": null,
+        "damage": {
+          "value": 5880000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mP4y1H7ti?p=4"
         ],
         "images": [],
         "comments": []
@@ -1899,6 +2810,11 @@
         "author": null,
         "damage": {
           "value": 5930000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -1954,6 +2870,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1Vr4y1S7YU?p=3"
         ],
@@ -1968,8 +2889,32 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1ZL411j7Qt"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "打破的杯子\nr14情姐 749w\n简介有轴",
+        "author": null,
+        "damage": {
+          "value": 7490000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1fY411H7ZM"
         ],
         "images": [],
         "comments": []
@@ -2017,6 +2962,11 @@
         "author": null,
         "damage": {
           "value": 7010000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -2070,6 +3020,11 @@
           "low": 6200000,
           "high": 6570000
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1fm4y1X7wx?p=3"
         ],
@@ -2122,6 +3077,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV15Z4y1D7CL?p=3"
         ],
@@ -2136,6 +3096,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV16F411B7oZ?p=5"
         ],
@@ -2147,6 +3112,11 @@
         "author": null,
         "damage": {
           "value": 6490000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -2202,8 +3172,70 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV16F411B7oZ?p=6"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "C306",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1117,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "R14黄骑"
+    ],
+    "labels": [],
+    "standard_damage": 5930000,
+    "sources": [
+      {
+        "description": "花舞-无糖x艺人\n演示562w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5620000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV16F411B7oZ?p=8"
         ],
         "images": [],
         "comments": []
@@ -2251,6 +3283,11 @@
         "author": null,
         "damage": {
           "value": 6420000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -2304,6 +3341,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1Eg411A7B8"
         ],
@@ -2314,26 +3356,26 @@
   },
   {
     "boss": "C3",
-    "id": "C306",
+    "id": "C309",
     "characters": [
       {
-        "id": 1111,
+        "id": 1059,
         "requirements": []
       },
       {
-        "id": 1078,
+        "id": 1071,
         "requirements": []
       },
       {
-        "id": 1070,
+        "id": 1115,
         "requirements": []
       },
       {
-        "id": 1034,
+        "id": 1104,
         "requirements": []
       },
       {
-        "id": 1117,
+        "id": 1061,
         "requirements": []
       }
     ],
@@ -2342,22 +3384,25 @@
       "low": null,
       "high": null
     },
-    "comments": [
-      "R14黄骑"
-    ],
+    "comments": [],
     "labels": [],
-    "standard_damage": 5930000,
+    "standard_damage": 5540000,
     "sources": [
       {
-        "description": "花舞-无糖x艺人\n演示562w\n视频有轴",
-        "author": null,
+        "description": "花舞-云烨朱云554w评论有轴",
+        "author": "花舞-云烨朱云",
         "damage": {
-          "value": 5620000,
+          "value": 5540000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV16F411B7oZ?p=8"
+          "https://www.bilibili.com/video/BV1JS4y1M7W1/"
         ],
         "images": [],
         "comments": []
@@ -2410,6 +3455,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1ca4116735?p=11"
         ],
@@ -2421,6 +3471,11 @@
         "author": "酷乐",
         "damage": {
           "value": 6170000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -2438,6 +3493,11 @@
           "low": 5600000,
           "high": 6200000
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1xS4y1M7Cm?p=3"
         ],
@@ -2449,6 +3509,11 @@
         "author": null,
         "damage": {
           "value": 6160000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -2506,6 +3571,11 @@
           "low": 5400000,
           "high": 5800000
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1pL41157jQ?p=10"
         ],
@@ -2558,6 +3628,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=7"
         ],
@@ -2600,7 +3675,7 @@
     "labels": [
       "Auto"
     ],
-    "standard_damage": 6270000,
+    "standard_damage": 5700000,
     "sources": [
       {
         "description": "天地z\n连点半自动627w",
@@ -2610,8 +3685,32 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1Eg411A7B8"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "【刀2】力拔山兮\n全自动522w",
+        "author": null,
+        "damage": {
+          "value": 5220000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mP4y1H7ti?p=8"
         ],
         "images": [],
         "comments": []
@@ -2662,6 +3761,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1ca4116735?p=12"
         ],
@@ -2673,6 +3777,11 @@
         "author": "酷乐",
         "damage": {
           "value": 5600000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -2690,6 +3799,11 @@
           "low": 5000000,
           "high": 5470000
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1xS4y1M7Cm?p=8"
         ],
@@ -2704,8 +3818,51 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1Eq4y1m78W?p=8"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "【刀1】力拔山兮\n全自动555w",
+        "author": null,
+        "damage": {
+          "value": 5550000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mP4y1H7ti?p=7"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "韭月初八\n全自动560w",
+        "author": "韭月初八",
+        "damage": {
+          "value": 5600000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1dm4y1X7GT"
         ],
         "images": [],
         "comments": []
@@ -2758,6 +3915,11 @@
           "low": 5100000,
           "high": 5300000
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1pL41157jQ?p=11"
         ],
@@ -2807,6 +3969,11 @@
         "author": null,
         "damage": {
           "value": 5010000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -2862,6 +4029,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1ca4116735?p=29"
         ],
@@ -2911,6 +4083,11 @@
         "author": null,
         "damage": {
           "value": 4960000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -2966,6 +4143,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=8"
         ],
@@ -3017,6 +4199,11 @@
           "value": null,
           "low": 4800000,
           "high": 5270000
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
         },
         "links": [
           "https://www.bilibili.com/video/BV1xS4y1M7Cm?p=13"
@@ -3070,6 +4257,11 @@
           "low": 4200000,
           "high": 4300000
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1pL41157jQ?p=12"
         ],
@@ -3122,8 +4314,32 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=9"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "【刀3】力拔山兮\n全自动430w",
+        "author": null,
+        "damage": {
+          "value": 4300000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mP4y1H7ti?p=9"
         ],
         "images": [],
         "comments": []
@@ -3176,6 +4392,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1pL41157jQ?p=13"
         ],
@@ -3219,7 +4440,84 @@
     ],
     "labels": [],
     "standard_damage": 14000000,
-    "sources": []
+    "sources": [
+      {
+        "description": "Q弹佩可\n时停刀返56/58s\n视频有轴",
+        "author": "Q弹佩可",
+        "damage": {
+          "value": 14000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 34,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1iS4y1M75h?p=1"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Sora宝\n时停刀返58s\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 14000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 32,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Vr4y1S7YU?p=4"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "风语琉璃丶\n5x普千紫妈\n返50s 暂时无轴",
+        "author": null,
+        "damage": {
+          "value": 14000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 40,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1nZ4y1X73F"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Silver-木鸦\n30专金妈 4xnnk\n返58s 暂时无轴",
+        "author": null,
+        "damage": {
+          "value": 14000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 32,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ju411S7yg"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "C4",
@@ -3256,7 +4554,141 @@
     ],
     "labels": [],
     "standard_damage": 14000000,
-    "sources": []
+    "sources": [
+      {
+        "description": "Q弹佩可\n时停刀返51/52s\n视频有轴",
+        "author": "Q弹佩可",
+        "damage": {
+          "value": 14000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 39,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1iS4y1M75h?p=3"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Sora宝\r\n时停刀返53-54s\r\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 14000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 37,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Vr4y1S7YU?p=5"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖x艺人\n返51s\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 14000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 39,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV16F411B7oZ?p=9"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "玩具喵 金妈\n返52s\n视频有轴",
+        "author": "玩具喵",
+        "damage": {
+          "value": 14000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 38,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1fm4y1X7wx?p=4"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-忧默\n紫妈 返53-54s\n暂时无轴",
+        "author": null,
+        "damage": {
+          "value": 14000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 37,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1r3411x7h8"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-云烨朱云金妈3星NNK返51-52s评论有轴",
+        "author": "花舞-云烨朱云",
+        "damage": {
+          "value": 14000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 39,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1e44y1J7ax/"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-云烨朱云紫妈5星NNK返53s评论有轴",
+        "author": "花舞-云烨朱云",
+        "damage": {
+          "value": 14000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 37,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1RR4y1W7uq/"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "C4",
@@ -3291,42 +4723,27 @@
     "comments": [],
     "labels": [],
     "standard_damage": 14000000,
-    "sources": []
-  },
-  {
-    "boss": "C4",
-    "id": "C404",
-    "characters": [
+    "sources": [
       {
-        "id": 1084,
-        "requirements": []
-      },
-      {
-        "id": 1101,
-        "requirements": []
-      },
-      {
-        "id": 1070,
-        "requirements": []
-      },
-      {
-        "id": 1094,
-        "requirements": []
-      },
-      {
-        "id": 1059,
-        "requirements": []
+        "description": "Q弹佩可\n时停刀返48s\n视频有轴",
+        "author": "Q弹佩可",
+        "damage": {
+          "value": 14000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 42,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1iS4y1M75h?p=5"
+        ],
+        "images": [],
+        "comments": []
       }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [],
-    "labels": [],
-    "standard_damage": 14000000,
-    "sources": []
+    ]
   },
   {
     "boss": "C4",
@@ -3361,7 +4778,27 @@
     "comments": [],
     "labels": [],
     "standard_damage": 14000000,
-    "sources": []
+    "sources": [
+      {
+        "description": "Q弹佩可\n时停刀返42s\n视频有轴",
+        "author": "Q弹佩可",
+        "damage": {
+          "value": 14000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 48,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1iS4y1M75h?p=7"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "C4",
@@ -3394,11 +4831,31 @@
       "high": null
     },
     "comments": [
-      "(图一乐)"
+      "(图一乐) 大眼都出来了，初音呢？"
     ],
     "labels": [],
     "standard_damage": 14000000,
-    "sources": []
+    "sources": [
+      {
+        "description": "花舞-无糖x艺人\n返28s\n无轴",
+        "author": null,
+        "damage": {
+          "value": 14000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 62,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV16F411B7oZ?p=11"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "C4",
@@ -3431,7 +4888,82 @@
     ],
     "labels": [],
     "standard_damage": 14000000,
-    "sources": []
+    "sources": [
+      {
+        "description": "貓柠柠\n返24s\n粗轴",
+        "author": null,
+        "damage": {
+          "value": 14000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 66,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Mi4y1R7Jm/"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "C404",
+    "characters": [
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1101,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1094,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 14000000,
+    "sources": [
+      {
+        "description": "Q弹佩可\n时停刀返47s\n视频有轴",
+        "author": "Q弹佩可",
+        "damage": {
+          "value": 14000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 43,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1iS4y1M75h?p=6"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "C4",
@@ -3477,6 +5009,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV15Z4y1D7CL?p=4"
         ],
@@ -3488,6 +5025,11 @@
         "author": null,
         "damage": {
           "value": 8050000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -3505,17 +5047,120 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV16F411B7oZ?p=10"
         ],
         "images": [],
         "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "C409",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
       },
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 6500000,
+    "sources": [
+      {
+        "description": "红陈投稿 650w+",
+        "author": null,
+        "damage": {
+          "value": 6500000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg5.docs.qq.com/image/MlTPaAN6_2wMA6uGPPYvCA.png?w=267&h=574"
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "ct420",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6400000,
+    "sources": [
       {
         "description": "酷乐x沙华\n半自动647w\n有押buff操作",
         "author": "酷乐",
         "damage": {
           "value": 6470000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -3571,6 +5216,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1ca4116735?p=16"
         ],
@@ -3584,6 +5234,11 @@
           "value": null,
           "low": 4100000,
           "high": 4550000
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
         },
         "links": [
           "https://www.bilibili.com/video/BV1xS4y1M7Cm?p=9"
@@ -3599,8 +5254,32 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=11"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "【刀1】力拔山兮\n全自动434w",
+        "author": null,
+        "damage": {
+          "value": 4340000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mP4y1H7ti?p=10"
         ],
         "images": [],
         "comments": []
@@ -3648,6 +5327,11 @@
         "author": null,
         "damage": {
           "value": 4740000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -3703,6 +5387,11 @@
           "low": 4150000,
           "high": 4450000
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1pL41157jQ?p=14"
         ],
@@ -3752,6 +5441,11 @@
         "author": "酷乐",
         "damage": {
           "value": 4000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -3807,8 +5501,70 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1ca4116735?p=17"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "ct419",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4300000,
+    "sources": [
+      {
+        "description": "我看谁不对不起\n半自动430w",
+        "author": null,
+        "damage": {
+          "value": 4300000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1K44y177HZ"
         ],
         "images": [],
         "comments": []
@@ -3856,6 +5612,11 @@
         "author": null,
         "damage": {
           "value": 4720000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -3911,6 +5672,11 @@
           "low": 3200000,
           "high": 3400000
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1pL41157jQ?p=17"
         ],
@@ -3963,8 +5729,70 @@
           "low": 3000000,
           "high": 3300000
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1xS4y1M7Cm?p=14"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "ct417",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1056,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3880000,
+    "sources": [
+      {
+        "description": "【刀2】力拔山兮\n全自动388w",
+        "author": null,
+        "damage": {
+          "value": 3880000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mP4y1H7ti?p=11"
         ],
         "images": [],
         "comments": []
@@ -4012,6 +5840,11 @@
         "author": null,
         "damage": {
           "value": 5380000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -4067,8 +5900,32 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1ca4116735?p=18"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "韭月初八\n全自动450w",
+        "author": "韭月初八",
+        "damage": {
+          "value": 4500000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1NF411B7DS"
         ],
         "images": [],
         "comments": []
@@ -4116,6 +5973,11 @@
         "author": null,
         "damage": {
           "value": 3400000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -4171,6 +6033,11 @@
           "low": 3900000,
           "high": 4200000
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1pL41157jQ?p=15"
         ],
@@ -4220,6 +6087,11 @@
         "author": null,
         "damage": {
           "value": 4220000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -4275,6 +6147,11 @@
           "low": 4100000,
           "high": 4580000
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1xS4y1M7Cm?p=4"
         ],
@@ -4329,6 +6206,11 @@
           "low": 3300000,
           "high": 3600000
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1pL41157jQ?p=16"
         ],
@@ -4381,8 +6263,72 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=12"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "ct418",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1060,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "2s连点水壶"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4770000,
+    "sources": [
+      {
+        "description": "【刀3】力拔山兮\n半自动477w",
+        "author": null,
+        "damage": {
+          "value": 4770000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mP4y1H7ti?p=12"
         ],
         "images": [],
         "comments": []
@@ -4433,6 +6379,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV15Z4y1D7CL?p=5"
         ],
@@ -4444,6 +6395,11 @@
         "author": "Sora",
         "damage": {
           "value": 6120000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -4461,6 +6417,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV16F411B7oZ?p=12"
         ],
@@ -4474,6 +6435,11 @@
           "value": null,
           "low": 5600000,
           "high": 5950000
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
         },
         "links": [
           "https://www.bilibili.com/video/BV1fm4y1X7wx?p=6"
@@ -4527,6 +6493,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV15Z4y1D7CL?p=6"
         ],
@@ -4541,6 +6512,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV15Z4y1D7CL?p=7"
         ],
@@ -4552,6 +6528,11 @@
         "author": null,
         "damage": {
           "value": 5080000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -4607,6 +6588,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV123411x7ai?p=3"
         ],
@@ -4621,8 +6607,32 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV16F411B7oZ?p=13"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Dark_Elf_\n3x水狼 608w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 6080000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1NS4y1M7qG"
         ],
         "images": [],
         "comments": []
@@ -4673,6 +6683,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV123411x7ai?p=4"
         ],
@@ -4686,6 +6701,11 @@
           "value": null,
           "low": 4700000,
           "high": 5180000
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
         },
         "links": [
           "https://www.bilibili.com/video/BV1fm4y1X7wx?p=5"
@@ -4736,6 +6756,11 @@
         "author": null,
         "damage": {
           "value": 5540000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -4791,6 +6816,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV123411x7ai?p=6"
         ],
@@ -4836,6 +6866,82 @@
   },
   {
     "boss": "C5",
+    "id": "C508",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "mcw4x 14-6（14-5.6概率死）\nkkl不能太肉（036要有ub）"
+    ],
+    "labels": [],
+    "standard_damage": 5400000,
+    "sources": [
+      {
+        "description": "克雷维格_\n056后BossUB\n543w 视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5430000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1c341147AZ?p=1"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "克雷维格_\n056前BossUB\n565w 视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5650000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1c341147AZ?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
     "id": "ct501",
     "characters": [
       {
@@ -4878,6 +6984,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1ca4116735?p=20"
         ],
@@ -4892,8 +7003,70 @@
           "low": 4000000,
           "high": 4550000
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1xS4y1M7Cm?p=10"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct518",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4300000,
+    "sources": [
+      {
+        "description": "韭月初八\n全自动430w",
+        "author": "韭月初八",
+        "damage": {
+          "value": 4300000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Sq4y127rB"
         ],
         "images": [],
         "comments": []
@@ -4941,6 +7114,11 @@
         "author": null,
         "damage": {
           "value": 4470000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -4996,6 +7174,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1pb4y1v7J8?p=26"
         ],
@@ -5048,6 +7231,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV13Y411p7Zt?p=11"
         ],
@@ -5059,6 +7247,11 @@
         "author": null,
         "damage": {
           "value": 4460000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -5114,8 +7307,89 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=14"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "【刀2】力拔山兮\n全自动414w",
+        "author": null,
+        "damage": {
+          "value": 4140000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mP4y1H7ti?p=14"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct521",
+    "characters": [
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4000000,
+    "sources": [
+      {
+        "description": "-风又音理\n半自动434w",
+        "author": null,
+        "damage": {
+          "value": 4340000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/bv1EP4y1J73t"
         ],
         "images": [],
         "comments": []
@@ -5166,6 +7440,11 @@
           "low": 4600000,
           "high": 4800000
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1pL41157jQ?p=18"
         ],
@@ -5177,6 +7456,11 @@
         "author": null,
         "damage": {
           "value": 4630000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -5232,6 +7516,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1ca4116735?p=23"
         ],
@@ -5281,6 +7570,11 @@
         "author": null,
         "damage": {
           "value": 4400000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -5336,6 +7630,11 @@
           "low": 4000000,
           "high": 4250000
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1pL41157jQ?p=20"
         ],
@@ -5350,8 +7649,32 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=13"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "【刀3】力拔山兮\n全自动377w",
+        "author": null,
+        "damage": {
+          "value": 3770000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mP4y1H7ti?p=15"
         ],
         "images": [],
         "comments": []
@@ -5399,6 +7722,11 @@
         "author": "透过现象看本质",
         "damage": {
           "value": 4090000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -5454,6 +7782,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1ca4116735?p=26"
         ],
@@ -5503,6 +7836,11 @@
         "author": null,
         "damage": {
           "value": 4620000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -5558,8 +7896,70 @@
           "low": 3800000,
           "high": 4270000
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV1xS4y1M7Cm?p=5"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct519",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1058,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4550000,
+    "sources": [
+      {
+        "description": "天地z\n有目押操作455w",
+        "author": null,
+        "damage": {
+          "value": 4550000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1HL4y1n7Jt"
         ],
         "images": [],
         "comments": []
@@ -5610,6 +8010,11 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV13Y411p7Zt?p=12"
         ],
@@ -5621,6 +8026,11 @@
         "author": null,
         "damage": {
           "value": 4080000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -5638,8 +8048,32 @@
           "low": null,
           "high": null
         },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
         "links": [
           "https://www.bilibili.com/video/BV12Z4y1X7Fa?p=15"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "【刀1】力拔山兮\n全自动436w",
+        "author": null,
+        "damage": {
+          "value": 4360000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mP4y1H7ti?p=13"
         ],
         "images": [],
         "comments": []
@@ -5676,7 +8110,9 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "3x nnk限定"
+    ],
     "labels": [
       "Auto"
     ],
@@ -5687,6 +8123,11 @@
         "author": null,
         "damage": {
           "value": 4650000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
@@ -5737,12 +8178,17 @@
     "standard_damage": 4550000,
     "sources": [
       {
-        "description": "川包\n全自动420-520w",
+        "description": "川包\n半自动420-520w\n全自动少70w",
         "author": "川包",
         "damage": {
           "value": null,
           "low": 4200000,
           "high": 5200000
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
         },
         "links": [
           "https://www.bilibili.com/video/BV1pL41157jQ?p=19"
@@ -5795,6 +8241,11 @@
         "author": "川包",
         "damage": {
           "value": 3300000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
           "low": null,
           "high": null
         },
