@@ -3457,7 +3457,27 @@
       "Auto"
     ],
     "standard_damage": 8000000,
-    "sources": []
+    "sources": [
+      {
+        "description": "-风又音理\n半自动返24s",
+        "author": null,
+        "damage": {
+          "value": 8000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 66,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1KL411w7L6/"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "B2",
