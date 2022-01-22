@@ -1448,7 +1448,7 @@
         "comments": []
       },
       {
-        "description": "蓬莱\n全自动 返43s",
+        "description": "蓬莱山逸\n全自动 返43s",
         "author": null,
         "damage": {
           "value": 6000000,
@@ -1600,7 +1600,7 @@
         "comments": []
       },
       {
-        "description": "蓬莱\n全自动 返38s",
+        "description": "蓬莱山逸\n全自动 返38s",
         "author": null,
         "damage": {
           "value": 6000000,
@@ -1942,7 +1942,7 @@
         "comments": []
       },
       {
-        "description": "蓬莱\n全自动 返33s",
+        "description": "蓬莱山逸\n全自动 返33s",
         "author": null,
         "damage": {
           "value": 6000000,
@@ -4228,7 +4228,7 @@
         "comments": []
       },
       {
-        "description": "蓬莱\n全自动 返25s",
+        "description": "蓬莱山逸\n全自动 返25s",
         "author": null,
         "damage": {
           "value": 8000000,
@@ -4798,7 +4798,7 @@
         "comments": []
       },
       {
-        "description": "蓬莱\n全自动 794w",
+        "description": "蓬莱山逸\n全自动 794w",
         "author": null,
         "damage": {
           "value": 7940000,
@@ -5666,7 +5666,7 @@
       "high": null
     },
     "comments": [
-      "（蓬莱：连点nnk，圣伊47s关自动42s开自动）"
+      "（蓬莱山逸：连点nnk，圣伊47s关自动42s开自动）"
     ],
     "labels": [
       "Auto"
@@ -5731,7 +5731,7 @@
         "comments": []
       },
       {
-        "description": "蓬莱\n半自动 560w",
+        "description": "蓬莱山逸\n半自动 560w",
         "author": null,
         "damage": {
           "value": 5600000,
@@ -6149,7 +6149,7 @@
         "comments": []
       },
       {
-        "description": "蓬莱\n全自动 617w",
+        "description": "蓬莱山逸\n全自动 617w",
         "author": null,
         "damage": {
           "value": 6170000,
@@ -6339,7 +6339,7 @@
         "comments": []
       },
       {
-        "description": "蓬莱\n半自动 550w",
+        "description": "蓬莱山逸\n半自动 550w",
         "author": null,
         "damage": {
           "value": 5500000,
@@ -9372,7 +9372,7 @@
     "standard_damage": 6440000,
     "sources": [
       {
-        "description": "蓬莱\n全自动 644w",
+        "description": "蓬莱山逸\n全自动 644w",
         "author": null,
         "damage": {
           "value": 6440000,
@@ -9482,14 +9482,16 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "【物理】操纵着寄宿在神瓶中魔力的水瓶座魔星兽。作为能吞噬一切激流的沧海的统治者君临此地。\n・必杀技能对敌方全体造成共计6次的魔法伤害（小）。当角色的生命值低于80%时造成击退效果，当低于40%时进一步击退并赋予眩晕状态。\n・对眼前一名敌人造成物理伤害（特大）\n・对前方第二名、第三名敌人造成物理伤害（大）。解除敌方全体的属性提升效果，小幅提升自身的技能值、物理防御力和魔法防御力。"
+    ],
     "labels": [
       "Auto"
     ],
     "standard_damage": 6610000,
     "sources": [
       {
-        "description": "蓬莱\n全自动 660w",
+        "description": "蓬莱山逸\n全自动 660w",
         "author": null,
         "damage": {
           "value": 6600000,
@@ -9960,7 +9962,7 @@
         "comments": []
       },
       {
-        "description": "蓬莱\n全自动 614w",
+        "description": "蓬莱山逸\n全自动 614w",
         "author": null,
         "damage": {
           "value": 6140000,
@@ -10108,7 +10110,7 @@
       "high": null
     },
     "comments": [
-      "（蓬莱：抢nnk除第一个所有ub，最后抢圣伊ub）"
+      "（蓬莱山逸：抢nnk除第一个所有ub，最后抢圣伊ub）"
     ],
     "labels": [
       "Auto"
@@ -10135,7 +10137,7 @@
         "comments": []
       },
       {
-        "description": "蓬莱\n半自动 643w",
+        "description": "蓬莱山逸\n半自动 643w",
         "author": null,
         "damage": {
           "value": 6430000,
@@ -10606,7 +10608,7 @@
       "high": null
     },
     "comments": [
-      "（蓬莱：抢511ub，最后1s抢万圣兔ub）"
+      "（蓬莱山逸：抢511ub，最后1s抢万圣兔ub）"
     ],
     "labels": [
       "Auto"
@@ -10728,7 +10730,7 @@
         "comments": []
       },
       {
-        "description": "蓬莱\n半自动 704w",
+        "description": "蓬莱山逸\n半自动 704w",
         "author": null,
         "damage": {
           "value": 7040000,
@@ -11064,7 +11066,7 @@
       "high": null
     },
     "comments": [
-      "（蓬莱：抢511第一个ub）"
+      "（蓬莱山逸：抢511第一个ub）"
     ],
     "labels": [
       "Auto"
@@ -11091,7 +11093,7 @@
         "comments": []
       },
       {
-        "description": "蓬莱\n半自动 686w",
+        "description": "蓬莱山逸\n半自动 686w",
         "author": null,
         "damage": {
           "value": 6860000,
