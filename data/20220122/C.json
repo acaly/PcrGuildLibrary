@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "boss": "C1",
+    "id": "C101",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 7000000,
+    "sources": [
+      {
+        "description": "Sora 返23-25s",
+        "author": "Sora",
+        "damage": {
+          "value": 7000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 67,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV17r4y1e7Vk?p=13"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C201",
+    "characters": [
+      {
+        "id": 1008,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 9000000,
+    "sources": [
+      {
+        "description": "Sora \n春黑136级 \n返44-47s",
+        "author": "Sora",
+        "damage": {
+          "value": 9000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 46,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV17r4y1e7Vk?p=15"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  }
+]
