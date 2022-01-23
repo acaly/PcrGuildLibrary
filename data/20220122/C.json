@@ -10929,6 +10929,45 @@
   },
   {
     "boss": "C5",
+    "id": "ct519",
+    "characters": [
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1101,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "半auto:最后一秒连点 水黑 水老师"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5000000,
+    "sources": []
+  },
+  {
+    "boss": "C5",
     "id": "ct502",
     "characters": [
       {
