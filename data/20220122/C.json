@@ -11424,6 +11424,120 @@
   },
   {
     "boss": "C5",
+    "id": "ct520",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4650000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动 463w",
+        "author": null,
+        "damage": {
+          "value": 4630000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Pq4y1w7BY?p=16"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct510",
+    "characters": [
+      {
+        "id": 1042,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5100000,
+    "sources": [
+      {
+        "description": "川包 5★普千\n纯自动\n470-530w ",
+        "author": "川包",
+        "damage": {
+          "value": null,
+          "low": 4700000,
+          "high": 5300000
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1KL411w7aA?p=17"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
     "id": "ct506",
     "characters": [
       {
@@ -11538,63 +11652,6 @@
   },
   {
     "boss": "C5",
-    "id": "ct510",
-    "characters": [
-      {
-        "id": 1042,
-        "requirements": []
-      },
-      {
-        "id": 1057,
-        "requirements": []
-      },
-      {
-        "id": 1043,
-        "requirements": []
-      },
-      {
-        "id": 1061,
-        "requirements": []
-      },
-      {
-        "id": 1047,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [],
-    "labels": [
-      "Auto"
-    ],
-    "standard_damage": 5100000,
-    "sources": [
-      {
-        "description": "川包 5★普千\n纯自动\n470-530w ",
-        "author": "川包",
-        "damage": {
-          "value": null,
-          "low": 4700000,
-          "high": 5300000
-        },
-        "time": {
-          "value": 90,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1KL411w7aA?p=17"
-        ],
-        "images": [],
-        "comments": []
-      }
-    ]
-  },
-  {
-    "boss": "C5",
     "id": "ct519",
     "characters": [
       {
@@ -11646,6 +11703,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1KS4y1o7LZ?p=6"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动 537w",
+        "author": null,
+        "damage": {
+          "value": 5370000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Pq4y1w7BY?p=17"
         ],
         "images": [],
         "comments": []
