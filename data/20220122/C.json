@@ -618,6 +618,63 @@
   },
   {
     "boss": "C1",
+    "id": "ct127",
+    "characters": [
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 0,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1028,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 7000000,
+    "sources": [
+      {
+        "description": "芥荒\n半自动 返29s",
+        "author": null,
+        "damage": {
+          "value": 7000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 61,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1wY41187Ym"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
     "id": "ct106",
     "characters": [
       {
