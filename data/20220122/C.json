@@ -10029,6 +10029,65 @@
   },
   {
     "boss": "C5",
+    "id": "ct518",
+    "characters": [
+      {
+        "id": 1107,
+        "requirements": []
+      },
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "春妈三星四星都可以 五星必须低rank\r\n38-35秒狼必须保证低血量被击飞 血量高的话就不开 等击飞回来再开\r\n低血量直接开就行"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 7600000,
+    "sources": [
+      {
+        "description": "色貂\n半自动 762w",
+        "author": null,
+        "damage": {
+          "value": 7620000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1U5411f7Zx"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
     "id": "ct515",
     "characters": [
       {
@@ -10196,65 +10255,6 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1jL4y1x7Rn"
-        ],
-        "images": [],
-        "comments": []
-      }
-    ]
-  },
-  {
-    "boss": "C5",
-    "id": "ct511",
-    "characters": [
-      {
-        "id": 1107,
-        "requirements": []
-      },
-      {
-        "id": 1104,
-        "requirements": []
-      },
-      {
-        "id": 1043,
-        "requirements": []
-      },
-      {
-        "id": 1061,
-        "requirements": []
-      },
-      {
-        "id": 1119,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [
-      "概率翻车警告"
-    ],
-    "labels": [
-      "Auto"
-    ],
-    "standard_damage": 5620000,
-    "sources": [
-      {
-        "description": "Elegante丶\n全自动 562w",
-        "author": null,
-        "damage": {
-          "value": 5620000,
-          "low": null,
-          "high": null
-        },
-        "time": {
-          "value": 90,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1iS4y1o7CR?p=13"
         ],
         "images": [],
         "comments": []
