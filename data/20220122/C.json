@@ -9555,6 +9555,61 @@
   },
   {
     "boss": "C5",
+    "id": "C508",
+    "characters": [
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1015,
+        "requirements": []
+      },
+      {
+        "id": 0,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 20000000,
+    "sources": [
+      {
+        "description": "Q弹佩可\n返49s视频有轴",
+        "author": "Q弹佩可",
+        "damage": {
+          "value": 20000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 41,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1wS4y1Z7Eh"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
     "id": "C503",
     "characters": [
       {
@@ -10193,7 +10248,7 @@
       "high": null
     },
     "comments": [
-      "全程连点春妈(3x r14-0.6右下3x)\n狼寄了就是600w左右"
+      "全程连点春妈(3x r14-0.6右下3x)\n狼寄了就是600w左右\n成刀率低，随机性较大"
     ],
     "labels": [
       "Auto"
