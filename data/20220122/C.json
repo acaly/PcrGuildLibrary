@@ -113,6 +113,63 @@
   },
   {
     "boss": "C1",
+    "id": "C105",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1014,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 0,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "58级跳跳虎送bossTP"
+    ],
+    "labels": [],
+    "standard_damage": 7000000,
+    "sources": [
+      {
+        "description": "腐蚀人柱力\n返21-52s\n无轴",
+        "author": null,
+        "damage": {
+          "value": 7000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 69,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV18S4y1L7Po"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
     "id": "C100",
     "characters": [
       {
@@ -798,7 +855,9 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "评论区留言：狼第一个第三个UB连点可以稍微优化一下 大概570W+"
+    ],
     "labels": [
       "Auto"
     ],
@@ -5706,6 +5765,82 @@
   },
   {
     "boss": "C3",
+    "id": "C316",
+    "characters": [
+      {
+        "id": 1077,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1121,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "3★nnk 2★春女仆\n水女仆你又来啦"
+    ],
+    "labels": [],
+    "standard_damage": 13000000,
+    "sources": [
+      {
+        "description": "幻曦喵\n3★nnk\n返32s 评论有轴",
+        "author": null,
+        "damage": {
+          "value": 13000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 58,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ob4y177Ri?p=1"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "幻曦喵\n3★nnk 2★春女仆\n返35s 评论有轴",
+        "author": null,
+        "damage": {
+          "value": 13000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 55,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ob4y177Ri?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
     "id": "C311",
     "characters": [
       {
@@ -5753,6 +5888,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/bv1CY411473U"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "池银常\n5★NNK 返35s\n配置同3nnk\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 13000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 55,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1jq4y1w7VN"
         ],
         "images": [],
         "comments": []
@@ -6131,6 +6285,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1SY411b7JS/"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "ookk303\nR7露娜 返37s\n视频有轴",
+        "author": "ookk303",
+        "damage": {
+          "value": 13000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 53,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Gb4y1n7dg"
         ],
         "images": [],
         "comments": []
@@ -8302,6 +8475,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Cr4y1e79v"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "追影寻梦\nC4优化版\n返36s 评论有轴",
+        "author": null,
+        "damage": {
+          "value": 15000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 54,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV19r4y1e7FJ"
         ],
         "images": [],
         "comments": []
@@ -11566,24 +11758,7 @@
         "comments": []
       },
       {
-        "description": "→蛋儿投稿\n14-5.8春黑\n1100-1600w",
-        "author": null,
-        "damage": {
-          "value": null,
-          "low": 11000000,
-          "high": 16000000
-        },
-        "time": {
-          "value": 90,
-          "low": null,
-          "high": null
-        },
-        "links": [],
-        "images": [],
-        "comments": []
-      },
-      {
-        "description": "The\nCollapse1364\n15-6 5★春黑\n返49s 暂无轴",
+        "description": "The\nCollapse1364\n15-6 5★春黑\n返49s 评论有轴",
         "author": null,
         "damage": {
           "value": 20000000,
@@ -11599,7 +11774,9 @@
           "https://www.bilibili.com/video/BV11S4y1o7EL"
         ],
         "images": [],
-        "comments": []
+        "comments": [
+          "→蛋儿投稿\n14-5.8春黑\n1100-1600w"
+        ]
       },
       {
         "description": "垃圾吊机\n14-6春黑\n返48s 评论有轴",
@@ -11619,6 +11796,46 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "究极摸鱼仔投稿\n高星春田高星驴\n返49s",
+        "author": null,
+        "damage": {
+          "value": 20000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 41,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg4.docs.qq.com/image/MLBSWxweoZ1EAbGfD1axdQ.png?w=260&h=308"
+        ],
+        "comments": []
+      },
+      {
+        "description": "文昌5x驴演示1700w简介有轴",
+        "author": null,
+        "damage": {
+          "value": 17000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1HL411F7sU?p=1&share_medium=android&share_plat=android&share_session_id=364aaa82-082f-4e58-8e86-097ee01e12fe&share_source=COPY&share_tag=s_i&timestamp=1643200064&unique_k=Vowc84M"
+        ],
+        "images": [],
+        "comments": [
+          "→究极摸鱼仔投稿\n高星春田高星驴\n返49s"
+        ]
       }
     ]
   },
@@ -12069,6 +12286,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Pq4y1w7BY?p=15"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "梧桐落荫\n半自动演示739w 简介有轴",
+        "author": null,
+        "damage": {
+          "value": 7390000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ML4y1x7UR/"
         ],
         "images": [],
         "comments": []
@@ -12963,6 +13199,63 @@
   },
   {
     "boss": "C5",
+    "id": "ct525",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "感谢B站ID：渐欲眠 在评论区提供思路"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5150000,
+    "sources": [
+      {
+        "description": "花舞-玖璃梦\n全自动 518w",
+        "author": null,
+        "damage": {
+          "value": 5180000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
     "id": "ct505",
     "characters": [
       {
@@ -13282,7 +13575,7 @@
     "labels": [
       "Auto"
     ],
-    "standard_damage": 5000000,
+    "standard_damage": 5500000,
     "sources": [
       {
         "description": "花舞-樱岛麻衣\n全自动 490w",
