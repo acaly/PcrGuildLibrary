@@ -31,13 +31,13 @@
     },
     "comments": [],
     "labels": [],
-    "standard_damage": 8000000,
+    "standard_damage": 6000000,
     "sources": [
       {
         "description": "Sora 返57-64s 圣锤不穿右中",
         "author": "Sora",
         "damage": {
-          "value": 8000000,
+          "value": 6000000,
           "low": null,
           "high": null
         },
@@ -56,7 +56,7 @@
         "description": "追影寻梦\n返57-64s\n圣锤不穿右中",
         "author": null,
         "damage": {
-          "value": 8000000,
+          "value": 6000000,
           "low": null,
           "high": null
         },
@@ -105,13 +105,13 @@
     },
     "comments": [],
     "labels": [],
-    "standard_damage": 8000000,
+    "standard_damage": 6000000,
     "sources": [
       {
         "description": "追影寻梦 返57s",
         "author": null,
         "damage": {
-          "value": 8000000,
+          "value": 6000000,
           "low": null,
           "high": null
         },
@@ -160,13 +160,13 @@
     },
     "comments": [],
     "labels": [],
-    "standard_damage": 8000000,
+    "standard_damage": 6000000,
     "sources": [
       {
         "description": "追影寻梦 返65s",
         "author": null,
         "damage": {
-          "value": 8000000,
+          "value": 6000000,
           "low": null,
           "high": null
         },
@@ -760,7 +760,7 @@
     "standard_damage": 6000000,
     "sources": [
       {
-        "description": "力拔山兮\n【刀1】\n全自动 返35s",
+        "description": "力拔山兮\n【队1】\n全自动 返35s",
         "author": null,
         "damage": {
           "value": 6000000,
@@ -1239,6 +1239,25 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "力拔山兮\n【队2】\n全自动 返48s",
+        "author": null,
+        "damage": {
+          "value": 6000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 42,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Rb4y147od?p=2"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -1679,6 +1698,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/av809144334?p=2"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "力拔山兮\n【队3】\n全自动 返42s",
+        "author": null,
+        "damage": {
+          "value": 6000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 48,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Rb4y147od?p=3"
         ],
         "images": [],
         "comments": []
@@ -2585,6 +2623,25 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "力拔山兮\n【队1】\n全自动 返30s",
+        "author": null,
+        "damage": {
+          "value": 8000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 60,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Rb4y147od?p=4"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -2831,6 +2888,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/av809144334?p=3"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "力拔山兮\n【队3】\n全自动 返27s",
+        "author": null,
+        "damage": {
+          "value": 8000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 63,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Rb4y147od?p=6"
         ],
         "images": [],
         "comments": []
@@ -3122,6 +3198,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/av809144334?p=3"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "力拔山兮\n【队2】\n全自动 796w",
+        "author": null,
+        "damage": {
+          "value": 7960000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Rb4y147od?p=5"
         ],
         "images": [],
         "comments": []
@@ -3879,6 +3974,63 @@
   },
   {
     "boss": "A3",
+    "id": "at321",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 8240000,
+    "sources": [
+      {
+        "description": "力拔山兮\n【队1】\n全自动 824w",
+        "author": null,
+        "damage": {
+          "value": 8240000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Rb4y147od?p=7"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A3",
     "id": "at312",
     "characters": [
       {
@@ -4189,6 +4341,63 @@
   },
   {
     "boss": "A3",
+    "id": "at322",
+    "characters": [
+      {
+        "id": 1107,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 7020000,
+    "sources": [
+      {
+        "description": "力拔山兮\n【队3】\n全自动 702w",
+        "author": null,
+        "damage": {
+          "value": 7020000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Rb4y147od?p=9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A3",
     "id": "at318",
     "characters": [
       {
@@ -4428,6 +4637,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/av809144334?p=4"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "力拔山兮\n【队2】\n全自动 692w",
+        "author": null,
+        "damage": {
+          "value": 6920000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Rb4y147od?p=8"
         ],
         "images": [],
         "comments": []
@@ -4953,6 +5181,63 @@
   },
   {
     "boss": "A4",
+    "id": "at420",
+    "characters": [
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 7300000,
+    "sources": [
+      {
+        "description": "力拔山兮\n【队3】\n全自动 730w",
+        "author": null,
+        "damage": {
+          "value": 7300000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Rb4y147od?p=12"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A4",
     "id": "at413",
     "characters": [
       {
@@ -5298,6 +5583,25 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "力拔山兮\n【队1】\n全自动 855w",
+        "author": null,
+        "damage": {
+          "value": 8550000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Rb4y147od?p=10"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -5529,6 +5833,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/av809144334?p=5"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "力拔山兮\n【队2】\n全自动 748w",
+        "author": null,
+        "damage": {
+          "value": 7480000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Rb4y147od?p=11"
         ],
         "images": [],
         "comments": []
@@ -5992,6 +6315,25 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "追影寻梦 返27s",
+        "author": null,
+        "damage": {
+          "value": 15000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 63,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7oH?p=7"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -6065,6 +6407,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1hq4y1t7Hi/"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "玩具喵\n【刀1】\n半自动 返21-32s",
+        "author": "玩具喵",
+        "damage": {
+          "value": 9800000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 69,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV18P4y1F7zJ?p=5"
         ],
         "images": [],
         "comments": []
@@ -6158,7 +6519,9 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "最后1s连点水狼&春猫"
+    ],
     "labels": [
       "Auto"
     ],
@@ -6179,6 +6542,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/av809144334?p=6"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "力拔山兮\n【队1】\n全自动 854w",
+        "author": null,
+        "damage": {
+          "value": 8540000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Rb4y147od?p=13"
         ],
         "images": [],
         "comments": []
