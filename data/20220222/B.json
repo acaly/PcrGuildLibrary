@@ -1,1 +1,515 @@
-[]
+[
+  {
+    "boss": "B2",
+    "id": "bt201",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 8000000,
+    "sources": [
+      {
+        "description": "酷乐\n全自动 800w",
+        "author": "酷乐",
+        "damage": {
+          "value": 8000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B2",
+    "id": "bt202",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 7000000,
+    "sources": [
+      {
+        "description": "酷乐\n全自动 700w",
+        "author": "酷乐",
+        "damage": {
+          "value": 7000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B3",
+    "id": "bt301",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6400000,
+    "sources": [
+      {
+        "description": "酷乐\n全自动 640w",
+        "author": "酷乐",
+        "damage": {
+          "value": 6400000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B3",
+    "id": "bt302",
+    "characters": [
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1095,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5700000,
+    "sources": [
+      {
+        "description": "酷乐\n全自动 570w",
+        "author": "酷乐",
+        "damage": {
+          "value": 5700000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B3",
+    "id": "bt303",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1095,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4900000,
+    "sources": [
+      {
+        "description": "酷乐\n全自动 490w",
+        "author": "酷乐",
+        "damage": {
+          "value": 4900000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
+    "id": "bt401",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 7000000,
+    "sources": [
+      {
+        "description": "酷乐\n全自动 700w",
+        "author": "酷乐",
+        "damage": {
+          "value": 7000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
+    "id": "bt402",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6000000,
+    "sources": [
+      {
+        "description": "酷乐\n全自动 600w",
+        "author": "酷乐",
+        "damage": {
+          "value": 6000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B5",
+    "id": "bt501",
+    "characters": [
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 13000000,
+    "sources": [
+      {
+        "description": "酷乐\n全自动 1300w",
+        "author": "酷乐",
+        "damage": {
+          "value": 13000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B5",
+    "id": "bt502",
+    "characters": [
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1014,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 8300000,
+    "sources": [
+      {
+        "description": "酷乐\n全自动 830w",
+        "author": "酷乐",
+        "damage": {
+          "value": 8300000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  }
+]
