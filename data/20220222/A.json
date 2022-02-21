@@ -1156,45 +1156,7 @@
         ],
         "images": [],
         "comments": []
-      }
-    ]
-  },
-  {
-    "boss": "A1",
-    "id": "at108",
-    "characters": [
-      {
-        "id": 1114,
-        "requirements": []
       },
-      {
-        "id": 1120,
-        "requirements": []
-      },
-      {
-        "id": 1070,
-        "requirements": []
-      },
-      {
-        "id": 1009,
-        "requirements": []
-      },
-      {
-        "id": 1034,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [],
-    "labels": [
-      "Auto"
-    ],
-    "standard_damage": 6000000,
-    "sources": [
       {
         "description": "花舞-玖璃梦\n全自动 返61s",
         "author": null,
@@ -1441,7 +1403,47 @@
         ],
         "images": [],
         "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "A1",
+    "id": "at126",
+    "characters": [
+      {
+        "id": 1008,
+        "requirements": []
       },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1028,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "关自动全程连点春黑\n返40~46s"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6000000,
+    "sources": [
       {
         "description": "透过现象看本质\n连点自动 返46s",
         "author": "透过现象看本质",
@@ -2504,6 +2506,43 @@
         "comments": []
       }
     ]
+  },
+  {
+    "boss": "A2",
+    "id": "at219",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 8000000,
+    "sources": []
   },
   {
     "boss": "A3",
@@ -4705,11 +4744,11 @@
         "requirements": []
       },
       {
-        "id": 1087,
+        "id": 1104,
         "requirements": []
       },
       {
-        "id": 1043,
+        "id": 1087,
         "requirements": []
       },
       {
