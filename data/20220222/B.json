@@ -108,7 +108,7 @@
     "standard_damage": 6000000,
     "sources": [
       {
-        "description": "追影寻梦\n返55-56s",
+        "description": "追影寻梦\n返54-56s",
         "author": null,
         "damage": {
           "value": 6000000,
@@ -116,7 +116,7 @@
           "high": null
         },
         "time": {
-          "value": 35,
+          "value": 36,
           "low": null,
           "high": null
         },
@@ -196,6 +196,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1ir4y1r7oH?p=4"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Sora 返61-66s",
+        "author": "Sora",
+        "damage": {
+          "value": 8000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 29,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV18a411C7p3?p=9"
         ],
         "images": [],
         "comments": []
