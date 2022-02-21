@@ -31,13 +31,13 @@
     },
     "comments": [],
     "labels": [],
-    "standard_damage": 8000000,
+    "standard_damage": 6000000,
     "sources": [
       {
         "description": "追影寻梦 返65s",
         "author": null,
         "damage": {
-          "value": 8000000,
+          "value": 6000000,
           "low": null,
           "high": null
         },
@@ -48,6 +48,61 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1ir4y1r7oH?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B1",
+    "id": "B102",
+    "characters": [
+      {
+        "id": 1053,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 6000000,
+    "sources": [
+      {
+        "description": "追影寻梦\n返55-56s",
+        "author": null,
+        "damage": {
+          "value": 6000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 35,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7oH?p=8"
         ],
         "images": [],
         "comments": []
@@ -217,6 +272,61 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1UL411K7ru?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B3",
+    "id": "B301",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 10000000,
+    "sources": [
+      {
+        "description": "追影寻梦 返22s",
+        "author": null,
+        "damage": {
+          "value": 10000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 68,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7oH?p=9"
         ],
         "images": [],
         "comments": []
@@ -396,6 +506,61 @@
   },
   {
     "boss": "B4",
+    "id": "B401",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 10000000,
+    "sources": [
+      {
+        "description": "追影寻梦 1020w",
+        "author": null,
+        "damage": {
+          "value": 10200000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7oH?p=10"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
     "id": "bt401",
     "characters": [
       {
@@ -502,6 +667,116 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1UL411K7ru?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B5",
+    "id": "B501",
+    "characters": [
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 15000000,
+    "sources": [
+      {
+        "description": "追影寻梦 返21s\n142级R12-2圣千",
+        "author": null,
+        "damage": {
+          "value": 15000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 69,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7oH?p=11"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B5",
+    "id": "B502",
+    "characters": [
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1028,
+        "requirements": []
+      },
+      {
+        "id": 1095,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 15000000,
+    "sources": [
+      {
+        "description": "追影寻梦\n4/5★露娜\n返22-29s",
+        "author": null,
+        "damage": {
+          "value": 15000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 68,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7oH?p=12"
         ],
         "images": [],
         "comments": []
