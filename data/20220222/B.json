@@ -6148,6 +6148,63 @@
   },
   {
     "boss": "B4",
+    "id": "bt422",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 7680000,
+    "sources": [
+      {
+        "description": "江风渔火\n4x水猫剑\n全自动 768w",
+        "author": null,
+        "damage": {
+          "value": 7680000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7y7?p=11"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
     "id": "bt405",
     "characters": [
       {
@@ -6831,6 +6888,25 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "江风渔火\n全自动 657w",
+        "author": null,
+        "damage": {
+          "value": 6570000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7y7?p=12"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -6944,6 +7020,63 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1UL411K7ru?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B4",
+    "id": "bt423",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5910000,
+    "sources": [
+      {
+        "description": "江风渔火\n4xmcw\n全自动 591w",
+        "author": null,
+        "damage": {
+          "value": 5910000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7y7?p=13"
         ],
         "images": [],
         "comments": []
@@ -7572,6 +7705,25 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "江风渔火\n全自动 966w",
+        "author": null,
+        "damage": {
+          "value": 9660000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7y7?p=14"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -7645,6 +7797,63 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1SP4y1w7zf?p=7"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B5",
+    "id": "bt519",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1101,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6990000,
+    "sources": [
+      {
+        "description": "江风渔火\n全自动 699w",
+        "author": null,
+        "damage": {
+          "value": 6990000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7y7?p=17"
         ],
         "images": [],
         "comments": []
@@ -7918,6 +8127,25 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "江风渔火\n全自动 750w",
+        "author": null,
+        "damage": {
+          "value": 7500000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7y7?p=15"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -8168,6 +8396,63 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1dm4y1d74E?p=14"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B5",
+    "id": "bt518",
+    "characters": [
+      {
+        "id": 1107,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 7220000,
+    "sources": [
+      {
+        "description": "江风渔火\n全自动 722w",
+        "author": null,
+        "damage": {
+          "value": 7220000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7y7?p=16"
         ],
         "images": [],
         "comments": []
