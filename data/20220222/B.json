@@ -1043,6 +1043,63 @@
   },
   {
     "boss": "B1",
+    "id": "bt131",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1090,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6000000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动返44s",
+        "author": null,
+        "damage": {
+          "value": 6000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 46,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1zq4y1x7st?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B1",
     "id": "bt108",
     "characters": [
       {
@@ -1263,6 +1320,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1SP4y1w7zf?p=2"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动返34s",
+        "author": null,
+        "damage": {
+          "value": 6000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 56,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1zq4y1x7st?p=4"
         ],
         "images": [],
         "comments": []
@@ -1725,6 +1801,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1dm4y1d74E?p=2"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Daemonlucifer全自动返38s",
+        "author": null,
+        "damage": {
+          "value": 6000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 52,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1zq4y1x7st?p=2"
         ],
         "images": [],
         "comments": []
