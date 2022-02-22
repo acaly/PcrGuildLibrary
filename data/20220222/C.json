@@ -1056,6 +1056,65 @@
   },
   {
     "boss": "C1",
+    "id": "ct123",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1108,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "需圣克好感\n全自动蓝字594w"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6640000,
+    "sources": [
+      {
+        "description": "玩具喵\n【刀2】\n半自动 652w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 6520000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qu411X7og"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
     "id": "ct110",
     "characters": [
       {
@@ -1865,6 +1924,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1SP4y1w7zf?p=10"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "玩具喵\n【刀2】\n全自动 757w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 7570000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qu411X7og?p=2"
         ],
         "images": [],
         "comments": []
@@ -2885,7 +2963,7 @@
     "standard_damage": 13000000,
     "sources": [
       {
-        "description": "神山识返21s\n暂时无轴",
+        "description": "神山识返21s 评论区有临时轴",
         "author": null,
         "damage": {
           "value": 13000000,
@@ -2898,7 +2976,7 @@
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1Zu411Q7mz?p=1&share_medium=iphone&share_plat=ios&share_session_id=C2E0C5F5-B680-4005-9254-D9FD3B3832FE&share_source=QQ&share_tag=s_i&timestamp=1645528951&unique_k=lztSt2N"
+          "https://www.bilibili.com/video/BV1Zu411Q7mz"
         ],
         "images": [],
         "comments": []
@@ -3590,6 +3668,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1SP4y1w7zf?p=11"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "玩具喵\n【刀3】\n全自动 649w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 6490000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qu411X7og?p=4"
         ],
         "images": [],
         "comments": []
