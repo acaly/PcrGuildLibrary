@@ -2389,27 +2389,7 @@
       "Auto"
     ],
     "standard_damage": 8000000,
-    "sources": [
-      {
-        "description": "透过现象看本质\n全自动 返30s",
-        "author": "透过现象看本质",
-        "damage": {
-          "value": 8000000,
-          "low": null,
-          "high": null
-        },
-        "time": {
-          "value": 60,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=2&t=54.1"
-        ],
-        "images": [],
-        "comments": []
-      }
-    ]
+    "sources": []
   },
   {
     "boss": "B2",
@@ -2448,27 +2428,7 @@
       "Auto"
     ],
     "standard_damage": 8000000,
-    "sources": [
-      {
-        "description": "透过现象看本质\n全自动 返28s",
-        "author": "透过现象看本质",
-        "damage": {
-          "value": 8000000,
-          "low": null,
-          "high": null
-        },
-        "time": {
-          "value": 62,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=2&t=54.1"
-        ],
-        "images": [],
-        "comments": []
-      }
-    ]
+    "sources": []
   },
   {
     "boss": "B2",
@@ -2732,6 +2692,63 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1ir4y1r7y7?p=5"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B2",
+    "id": "bt223",
+    "characters": [
+      {
+        "id": 1113,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1017,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 7630000,
+    "sources": [
+      {
+        "description": "Daemonlucifer全自动 763w",
+        "author": null,
+        "damage": {
+          "value": 7630000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1zq4y1x7st?p=6"
         ],
         "images": [],
         "comments": []
@@ -3055,6 +3072,63 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1SP4y1w7zf?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B2",
+    "id": "bt222",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1090,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 8000000,
+    "sources": [
+      {
+        "description": "Daemonlucifer全自动返25s",
+        "author": null,
+        "damage": {
+          "value": 8000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 65,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1zq4y1x7st?p=5"
         ],
         "images": [],
         "comments": []
@@ -5391,6 +5465,63 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=6"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "B3",
+    "id": "bt329",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4900000,
+    "sources": [
+      {
+        "description": "花舞-墨夕\n【刀3】\n全自动 490w",
+        "author": null,
+        "damage": {
+          "value": 4900000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1L44y1n7ds?p=13"
         ],
         "images": [],
         "comments": []
