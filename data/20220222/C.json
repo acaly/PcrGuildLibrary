@@ -53,7 +53,7 @@
         "comments": []
       },
       {
-        "description": "花舞-墨夕\n×永夜之殇\n返38-52s \n视频有轴",
+        "description": "花舞-墨夕\n×永夜之殇\n5春黑 5露娜\n返38-52s 视频有轴",
         "author": null,
         "damage": {
           "value": 7000000,
@@ -86,6 +86,61 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV18a411C7p3?p=14"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "C103",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1117,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 7000000,
+    "sources": [
+      {
+        "description": "梦中飞过的雕\n返21s 视频有轴",
+        "author": null,
+        "damage": {
+          "value": 7000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 69,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1WP4y1c7kJ?p=2"
         ],
         "images": [],
         "comments": []
@@ -160,6 +215,61 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV18a411C7p3?p=15"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "C104",
+    "characters": [
+      {
+        "id": 1107,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 7000000,
+    "sources": [
+      {
+        "description": "優奈 返21s\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 7000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 69,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S44y1n7iP?p=1&share_medium=android&share_plat=android&share_session_id=ebc1d8dd-aa4f-4918-87c1-9aa39584b4b6&share_source=COPY&share_tag=s_i&timestamp=1645546730&unique_k=hfHFmuV"
         ],
         "images": [],
         "comments": []
@@ -335,6 +445,82 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1SP4y1w7zf?p=8"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "玩具喵\n【刀3】\n连点自动 617w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 6170000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qu411X7og?p=15"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "酷乐\n全自动 637w",
+        "author": "酷乐",
+        "damage": {
+          "value": 6370000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=3"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "力拔山兮\n【一队】\n全自动 617w",
+        "author": null,
+        "damage": {
+          "value": 6170000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1tL411T7yp?p=1"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "认真摸鱼\n【队4】\n半自动 650w",
+        "author": null,
+        "damage": {
+          "value": 6500000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1c34y1y7yz?p=12"
         ],
         "images": [],
         "comments": []
@@ -530,6 +716,23 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动 670w",
+        "author": null,
+        "damage": {
+          "value": 6700000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -721,6 +924,84 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1bL4y1G7bB"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "芥荒\n连点自动 返22s",
+        "author": null,
+        "damage": {
+          "value": 6380000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 68,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1C34y1r7XF?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "ct129",
+    "characters": [
+      {
+        "id": 1105,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "纯auto 630w"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 7000000,
+    "sources": [
+      {
+        "description": "川包Vision\n半自动 返21-22s\n视频有轴",
+        "author": "川包",
+        "damage": {
+          "value": 7000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 69,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341177Zs?p=7"
         ],
         "images": [],
         "comments": []
@@ -959,6 +1240,63 @@
   },
   {
     "boss": "C1",
+    "id": "ct128",
+    "characters": [
+      {
+        "id": 1107,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5140000,
+    "sources": [
+      {
+        "description": "力拔山兮\n【三队】\n全自动 514w",
+        "author": null,
+        "damage": {
+          "value": 5140000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1tL411T7yp?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
     "id": "ct126",
     "characters": [
       {
@@ -1132,6 +1470,63 @@
   },
   {
     "boss": "C1",
+    "id": "ct131",
+    "characters": [
+      {
+        "id": 1113,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1096,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4360000,
+    "sources": [
+      {
+        "description": "Daemonlucifer全自动 436w",
+        "author": null,
+        "damage": {
+          "value": 4360000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ZS4y1F7yU?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
     "id": "ct123",
     "characters": [
       {
@@ -1182,7 +1577,7 @@
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1qu411X7og"
+          "https://www.bilibili.com/video/BV1qu411X7og?p=9"
         ],
         "images": [],
         "comments": []
@@ -1240,6 +1635,124 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1SP4y1w7zf?p=8"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "ct125",
+    "characters": [
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1014,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1028,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "半自动"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 7000000,
+    "sources": [
+      {
+        "description": "芥荒\n半自动 返33s",
+        "author": null,
+        "damage": {
+          "value": 7000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 57,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1C34y1r7XF"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "ct124",
+    "characters": [
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1014,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "全员打地鼠\n第一轮记得先点驴再春黑"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6430000,
+    "sources": [
+      {
+        "description": "玩具喵\n【刀1】\n半自动 652w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 6520000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qu411X7og?p=1"
         ],
         "images": [],
         "comments": []
@@ -1316,6 +1829,139 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1L44y1n7ds?p=11"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "玩具喵\n【刀2】\n半自动 返21s",
+        "author": "玩具喵",
+        "damage": {
+          "value": 6410000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 69,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qu411X7og?p=8"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "酷乐\n全自动 623w",
+        "author": "酷乐",
+        "damage": {
+          "value": 6230000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=4"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "认真摸鱼\n【队1】\n全自动 650w",
+        "author": null,
+        "damage": {
+          "value": 6500000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1c34y1y7yz?p=1"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "芥荒\n半自动 返21s",
+        "author": null,
+        "damage": {
+          "value": 6410000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 69,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1C34y1r7XF?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "ct127",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1117,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6310000,
+    "sources": [
+      {
+        "description": "力拔山兮\n【二队】\n全自动 631w",
+        "author": null,
+        "damage": {
+          "value": 6310000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1tL411T7yp?p=2"
         ],
         "images": [],
         "comments": []
@@ -1491,6 +2137,63 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=3&t=15.4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C1",
+    "id": "ct130",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1117,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6440000,
+    "sources": [
+      {
+        "description": "Daemonlucifer全自动 644w",
+        "author": null,
+        "damage": {
+          "value": 6440000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ZS4y1F7yU?p=2"
         ],
         "images": [],
         "comments": []
@@ -1777,6 +2480,80 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "花舞-启明\n露娜112充nnk线\n返39-54s \n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 9000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 51,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1aU4y1Z7R1"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C206",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 9000000,
+    "sources": [
+      {
+        "description": "不辅主的忠戏子\n简介有轴\n返25-40s",
+        "author": null,
+        "damage": {
+          "value": 9000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 65,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Ca41187F4"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -1812,13 +2589,13 @@
     },
     "comments": [],
     "labels": [],
-    "standard_damage": 8900000,
+    "standard_damage": 9000000,
     "sources": [
       {
         "description": "追影寻梦 \n视频有轴\n返21s",
         "author": null,
         "damage": {
-          "value": 8900000,
+          "value": 9000000,
           "low": null,
           "high": null
         },
@@ -1837,7 +2614,7 @@
         "description": "Sora 返21s",
         "author": "Sora",
         "damage": {
-          "value": 8900000,
+          "value": 9000000,
           "low": null,
           "high": null
         },
@@ -1853,6 +2630,135 @@
         "comments": []
       }
     ]
+  },
+  {
+    "boss": "C2",
+    "id": "C205",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "R14-6水电"
+    ],
+    "labels": [],
+    "standard_damage": 9000000,
+    "sources": [
+      {
+        "description": "衣架上的小夹子\n动态有高清轴\n演示返21s",
+        "author": "小夹子",
+        "damage": {
+          "value": 9000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 69,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV19q4y1x7EY"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "C207",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 9000000,
+    "sources": []
+  },
+  {
+    "boss": "C2",
+    "id": "ct222",
+    "characters": [
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1006,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 9000000,
+    "sources": []
   },
   {
     "boss": "C2",
@@ -1908,6 +2814,84 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "芥荒\n半自动 返22s",
+        "author": null,
+        "damage": {
+          "value": 9000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 68,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1C34y1r7XF?p=6"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
+    "id": "ct221",
+    "characters": [
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1014,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "真步&驴R11-4,圣千R11-6\n全程连点春黑&真步"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 9000000,
+    "sources": [
+      {
+        "description": "川包Vision\n半自动 \n返22-23s",
+        "author": "川包",
+        "damage": {
+          "value": 9000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 68,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341177Zs?p=8"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -1941,7 +2925,9 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "狐狸不能太脆"
+    ],
     "labels": [
       "Auto"
     ],
@@ -1962,6 +2948,63 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1SP4y1w7zf?p=10"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "玩具喵\n【刀1】\n半自动 返21s",
+        "author": "玩具喵",
+        "damage": {
+          "value": 8260000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 69,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qu411X7og?p=2"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "力拔山兮\n【一队】\n连点春黑 返21s",
+        "author": null,
+        "damage": {
+          "value": 8260000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 69,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1tL411T7yp?p=4"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "认真摸鱼\n【队2】\n半自动 800w",
+        "author": null,
+        "damage": {
+          "value": 8000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1c34y1y7yz?p=4"
         ],
         "images": [],
         "comments": []
@@ -2037,7 +3080,7 @@
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1qu411X7og?p=2"
+          "https://www.bilibili.com/video/BV1qu411X7og?p=10"
         ],
         "images": [],
         "comments": []
@@ -2114,6 +3157,44 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV183411L7MJ"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "酷乐\n全自动 715w",
+        "author": "酷乐",
+        "damage": {
+          "value": 7150000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=5"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "认真摸鱼\n【队1】\n全自动 700w",
+        "author": null,
+        "damage": {
+          "value": 7000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1c34y1y7yz?p=2"
         ],
         "images": [],
         "comments": []
@@ -2249,6 +3330,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1L44y1n7ds?p=2"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "力拔山兮\n【二队】\n全自动 652w",
+        "author": null,
+        "damage": {
+          "value": 6520000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1tL411T7yp?p=5"
         ],
         "images": [],
         "comments": []
@@ -2546,6 +3646,63 @@
   },
   {
     "boss": "C2",
+    "id": "ct220",
+    "characters": [
+      {
+        "id": 1107,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 7000000,
+    "sources": [
+      {
+        "description": "玩具喵【刀3】\n半自动 706w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 7060000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qu411X7og?p=16"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C2",
     "id": "ct205",
     "characters": [
       {
@@ -2728,6 +3885,44 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1L44y1n7ds?p=12"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "酷乐\n全自动 636w",
+        "author": "酷乐",
+        "damage": {
+          "value": 6360000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=6"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "力拔山兮\n【三队】\n全自动 621w",
+        "author": null,
+        "damage": {
+          "value": 6210000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1tL411T7yp?p=6"
         ],
         "images": [],
         "comments": []
@@ -3113,6 +4308,25 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "可乐i\n动态有轴\n演示返21s",
+        "author": null,
+        "damage": {
+          "value": 13000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 69,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Tu411X7fZ?p=1"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -3153,7 +4367,7 @@
     "standard_damage": 13000000,
     "sources": [
       {
-        "description": "神山识返21s 评论区有临时轴",
+        "description": "神山识 返21s\n动态有轴",
         "author": null,
         "damage": {
           "value": 13000000,
@@ -3240,7 +4454,9 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "普妈会送掉\n如果够肉不送掉伤害会高一些"
+    ],
     "labels": [
       "Auto"
     ],
@@ -3473,6 +4689,63 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "玩具喵\n【刀2】\n连点自动 710w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 7100000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qu411X7og?p=11"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "力拔山兮\n【一队】\n全自动 619w",
+        "author": null,
+        "damage": {
+          "value": 6190000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1tL411T7yp?p=7"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "芥荒\n连点自动 696w",
+        "author": null,
+        "damage": {
+          "value": 6960000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1C34y1r7XF?p=8"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -3512,7 +4785,7 @@
     "labels": [
       "Auto"
     ],
-    "standard_damage": 5800000,
+    "standard_damage": 5400000,
     "sources": [
       {
         "description": "透过现象看本质\n连点自动 622w",
@@ -3895,7 +5168,26 @@
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1qu411X7og?p=4"
+          "https://www.bilibili.com/video/BV1qu411X7og?p=17"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "酷乐\n全自动 639w",
+        "author": "酷乐",
+        "damage": {
+          "value": 6390000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=7"
         ],
         "images": [],
         "comments": []
@@ -4190,6 +5482,101 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "酷乐\n全自动 594w",
+        "author": "酷乐",
+        "damage": {
+          "value": 5940000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=8"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "认真摸鱼\n【队2】全自动 \n550-600w",
+        "author": null,
+        "damage": {
+          "value": null,
+          "low": 5500000,
+          "high": 6000000
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1c34y1y7yz?p=5"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "ct324",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5530000,
+    "sources": [
+      {
+        "description": "力拔山兮\r\n【三队】\r\n全自动 553w",
+        "author": null,
+        "damage": {
+          "value": 5530000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1tL411T7yp?p=9"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -4223,14 +5610,16 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "全程连点克"
+    ],
     "labels": [
       "Auto"
     ],
     "standard_damage": 5800000,
     "sources": [
       {
-        "description": "花舞-墨夕\n【刀1】\n全自动 580w",
+        "description": "花舞-墨夕\n【刀1】\n连点自动 580w",
         "author": null,
         "damage": {
           "value": 5800000,
@@ -4244,6 +5633,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1L44y1n7ds?p=3"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "芥荒\n连点自动 593w",
+        "author": null,
+        "damage": {
+          "value": 5930000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1C34y1r7XF?p=8"
         ],
         "images": [],
         "comments": []
@@ -4370,6 +5778,120 @@
   },
   {
     "boss": "C3",
+    "id": "ct325",
+    "characters": [
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1014,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 9000000,
+    "sources": [
+      {
+        "description": "认真摸鱼\n【队1】\n半自动 900w",
+        "author": null,
+        "damage": {
+          "value": 9000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1c34y1y7yz?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
+    "id": "ct323",
+    "characters": [
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 8200000,
+    "sources": [
+      {
+        "description": "玩具喵\n【刀1】\n半自动 859w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 8590000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qu411X7og?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C3",
     "id": "ct321",
     "characters": [
       {
@@ -4481,6 +6003,44 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "力拔山兮\n【二队】\n全自动 527w",
+        "author": null,
+        "damage": {
+          "value": 5270000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1tL411T7yp?p=8"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "芥荒\n全自动 514w",
+        "author": null,
+        "damage": {
+          "value": 5140000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1C34y1r7XF?p=9"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -4571,7 +6131,9 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "春黑3★R16-4"
+    ],
     "labels": [],
     "standard_damage": 15000000,
     "sources": [
@@ -4609,6 +6171,82 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV18a411C7p3?p=20"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "小夹子\n动态有高清轴\n5★nnk\n返23-29s",
+        "author": "小夹子",
+        "damage": {
+          "value": 15000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 67,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV18Y411578S"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "寻梦爱吃冰淇淋一刀返23s\n评论区有轴",
+        "author": null,
+        "damage": {
+          "value": 15000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 67,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1FL411T7s6?p=1&share_medium=android&share_plat=android&share_session_id=3e573432-7a19-40ca-b633-e80cea788c35&share_source=COPY&share_tag=s_i&timestamp=1645580815&unique_k=MziXxpm"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "琉璃\n负优化 1413w 评论有注意事项",
+        "author": null,
+        "damage": {
+          "value": 14130000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV133411j7H7?spm_id_from=333.999.0.0"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "认真摸鱼\n【队2】视频有轴\n半自动 1200w",
+        "author": null,
+        "damage": {
+          "value": 12000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1c34y1y7yz?p=6"
         ],
         "images": [],
         "comments": []
@@ -4669,6 +6307,101 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "玩具喵【刀2】\n半自动 659w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 6590000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qu411X7og?p=13"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "酷乐\n半自动 632w",
+        "author": "酷乐",
+        "damage": {
+          "value": 6320000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=9"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "天地z\n半自动 651w",
+        "author": null,
+        "damage": {
+          "value": 6510000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1iF411E7tg"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "认真摸鱼\n【队3】\n半自动 650w",
+        "author": null,
+        "damage": {
+          "value": 6500000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1c34y1y7yz?p=7"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "芥荒\n连点自动 637w",
+        "author": null,
+        "damage": {
+          "value": 6370000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1C34y1r7XF?p=11"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -4726,6 +6459,25 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "力拔山兮\n【一队】\n全自动 550w",
+        "author": null,
+        "damage": {
+          "value": 5500000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1tL411T7yp?p=10"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -4759,7 +6511,9 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "C4开始5x春妈"
+    ],
     "labels": [
       "Auto"
     ],
@@ -5068,6 +6822,63 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "玩具喵【刀3】\n连点自动 573w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 5730000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qu411X7og?p=18"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "力拔山兮\n【三队】\n全自动 503w",
+        "author": null,
+        "damage": {
+          "value": 5030000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1tL411T7yp?p=12"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-墨夕\n【刀1】\n全自动 554w",
+        "author": null,
+        "damage": {
+          "value": 5540000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1L44y1n7ds?p=4"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -5361,25 +7172,6 @@
         ],
         "images": [],
         "comments": []
-      },
-      {
-        "description": "花舞-墨夕\n【刀1】\n全自动 554w",
-        "author": null,
-        "damage": {
-          "value": 5540000,
-          "low": null,
-          "high": null
-        },
-        "time": {
-          "value": 90,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1L44y1n7ds?p=4"
-        ],
-        "images": [],
-        "comments": []
       }
     ]
   },
@@ -5434,6 +7226,181 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1SP4y1w7zf?p=12"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "ct422",
+    "characters": [
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1117,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "中二外打地鼠\n001开中二"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6100000,
+    "sources": [
+      {
+        "description": "玩具喵【刀2】\n半自动 657w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 6570000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qu411X7og?p=12"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "ct424",
+    "characters": [
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1117,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4800000,
+    "sources": [
+      {
+        "description": "芥荒\n全自动 492w",
+        "author": null,
+        "damage": {
+          "value": 4920000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1C34y1r7XF?p=12"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C4",
+    "id": "ct423",
+    "characters": [
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "水黑外打地鼠"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5500000,
+    "sources": [
+      {
+        "description": "玩具喵【刀1】\n半自动 582w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 5820000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qu411X7og?p=4"
         ],
         "images": [],
         "comments": []
@@ -5605,6 +7572,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1SP4y1w7zf?p=12"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "酷乐\n全自动 453w",
+        "author": "酷乐",
+        "damage": {
+          "value": 4530000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=10"
         ],
         "images": [],
         "comments": []
@@ -5798,6 +7784,25 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "力拔山兮\n【二队】\n全自动 426w",
+        "author": null,
+        "damage": {
+          "value": 4260000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1tL411T7yp?p=11"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -5891,7 +7896,7 @@
       "high": null
     },
     "comments": [
-      "R14-1妈，3★R14-6NNK，154级+圣千"
+      "R14-1妈，3★R14-6NNK，154级+圣千\nQ弹佩可的兼容R11-6 142级1专圣千"
     ],
     "labels": [],
     "standard_damage": 20000000,
@@ -5954,8 +7959,122 @@
         "comments": []
       },
       {
-        "description": "透过现象看本质\n1400w\n无演示",
+        "description": "透过现象看本质\n1627w\n49线无轴",
         "author": "透过现象看本质",
+        "damage": {
+          "value": 16270000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=12"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "呆毛骑士\n142级圣千\n返22s",
+        "author": null,
+        "damage": {
+          "value": 20000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 68,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1n44y1n7qy/"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-风又音理\n5nnk 开专驴\n地鼠刀 1472w",
+        "author": null,
+        "damage": {
+          "value": 14720000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1C34y1r7tP/"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "克雷维格\n5★nnk&R14妈\n1300-1500w\n简介有轴",
+        "author": null,
+        "damage": {
+          "value": null,
+          "low": 13000000,
+          "high": 15000000
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1zq4y1x7BA/"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "透过现象看本质\n1320w\n43线无轴",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 13200000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=11"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Star白星\n5★nnk&R14驴\n演示1824w\n简介有轴",
+        "author": null,
+        "damage": {
+          "value": 18240000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV19b4y1s7Nb"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "小鸟游六花\nR10妈 1400w\n暂无文字轴",
+        "author": null,
         "damage": {
           "value": 14000000,
           "low": null,
@@ -5967,7 +8086,412 @@
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=3&t=243.5"
+          "https://www.bilibili.com/video/BV1g3411j7T4?t=71.3"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "梦中飞过的雕R10妈 返24s\n评论有轴",
+        "author": null,
+        "damage": {
+          "value": 20000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 66,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Ci4y127j3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "C502",
+    "characters": [
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1014,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 11000000,
+    "sources": [
+      {
+        "description": "水银QAQ\n演示1370w\n评论区有轴",
+        "author": null,
+        "damage": {
+          "value": 13700000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1FZ4y1C7F1?p=1&share_medium=android&share_plat=android&share_source=COPY&share_tag=s_i&timestamp=1645573052&unique_k=eT2fja5"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "THUnion\n72级R11狐狸&\nR11驴&R14妈\n1700w 暂无轴\n",
+        "author": null,
+        "damage": {
+          "value": 17000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Ju411D7gj"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct513",
+    "characters": [
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1014,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "半自动"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 13000000,
+    "sources": [
+      {
+        "description": "玩具喵【刀1】\n半自动 1593w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 15930000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qu411X7og?p=6"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "认真摸鱼\n【队4】\n半自动 1000w",
+        "author": null,
+        "damage": {
+          "value": 10000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1c34y1y7yz?p=10"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct515",
+    "characters": [
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1014,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "玩具喵操作看视频；力拔山兮全程连点春黑"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 12000000,
+    "sources": [
+      {
+        "description": "玩具喵【刀1】\n半自动 \n1100-1300w",
+        "author": "玩具喵",
+        "damage": {
+          "value": null,
+          "low": 11000000,
+          "high": 13000000
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qu411X7og?p=5"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "力拔山兮\n【三队】\n半自动 732w",
+        "author": null,
+        "damage": {
+          "value": 7320000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1tL411T7yp?p=15"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "认真摸鱼\n【队3】\n半自动 1300w",
+        "author": null,
+        "damage": {
+          "value": 13000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1c34y1y7yz?p=8"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct512",
+    "characters": [
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1014,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "半自动"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 11000000,
+    "sources": [
+      {
+        "description": "玩具喵【刀1】\n半自动 1112w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 11120000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qu411X7og?p=7"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "酷乐\n半自动 880w",
+        "author": "酷乐",
+        "damage": {
+          "value": 8800000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=11"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct518",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "半自动"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6000000,
+    "sources": [
+      {
+        "description": "芥荒\n半自动 652w",
+        "author": null,
+        "damage": {
+          "value": 6520000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1C34y1r7XF?p=14"
         ],
         "images": [],
         "comments": []
@@ -6005,18 +8529,18 @@
       "high": null
     },
     "comments": [
-      "全程连点克总"
+      "全程连点克总\n这刀上限高下限也低 \n就看511第一个横劈能不能把小鱼打死"
     ],
     "labels": [
       "Auto"
     ],
-    "standard_damage": 8220000,
+    "standard_damage": 8500000,
     "sources": [
       {
-        "description": "花舞- \n玖璃梦x樱岛麻衣 半自动 822w",
+        "description": "花舞- \n玖璃梦x樱岛麻衣 半自动 622w",
         "author": null,
         "damage": {
-          "value": 8220000,
+          "value": 6220000,
           "low": null,
           "high": null
         },
@@ -6027,6 +8551,101 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1SP4y1w7zf?p=13"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "玩具喵【刀2】\n连点自动 939w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 9390000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qu411X7og?p=14"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "天地z\n半自动 880w",
+        "author": null,
+        "damage": {
+          "value": 8800000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1jr4y1z7Eh"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "力拔山兮\n【一队】\n全自动 762w",
+        "author": null,
+        "damage": {
+          "value": 7620000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1tL411T7yp?p=13"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "认真摸鱼\n【队3】\n半自动 850w",
+        "author": null,
+        "damage": {
+          "value": 8500000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1c34y1y7yz?p=9"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "芥荒\n连点自动 862w",
+        "author": null,
+        "damage": {
+          "value": 8620000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1C34y1r7XF?p=13"
         ],
         "images": [],
         "comments": []
@@ -6141,6 +8760,65 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1SP4y1w7zf?p=13"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct516",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "世界线很多，均伤稳，001要是有UB亮就点一下"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5500000,
+    "sources": [
+      {
+        "description": "花舞-风又音理 半自动 620w",
+        "author": null,
+        "damage": {
+          "value": 6200000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1cL411T712/"
         ],
         "images": [],
         "comments": []
@@ -6336,6 +9014,25 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "天地z\n半自动 782w",
+        "author": null,
+        "damage": {
+          "value": 7820000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV18u411X7cx"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -6514,6 +9211,63 @@
   },
   {
     "boss": "C5",
+    "id": "ct517",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1056,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5340000,
+    "sources": [
+      {
+        "description": "力拔山兮\n【二队】\n全自动 534w",
+        "author": null,
+        "damage": {
+          "value": 5340000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1tL411T7yp?p=14"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
     "id": "ct509",
     "characters": [
       {
@@ -6565,6 +9319,63 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=3&t=215.6"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "C5",
+    "id": "ct514",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1113,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1056,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5200000,
+    "sources": [
+      {
+        "description": "玩具喵【刀3】\n全自动 593w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 5930000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qu411X7og?p=19"
         ],
         "images": [],
         "comments": []
