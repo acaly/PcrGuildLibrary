@@ -1,1 +1,946 @@
-[]
+[
+  {
+    "boss": "D1",
+    "id": "D102",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 9100000,
+    "sources": [
+      {
+        "description": "Sora 920w",
+        "author": "Sora",
+        "damage": {
+          "value": 9200000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Ub4y1s79J"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D1",
+    "id": "D101",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 8650000,
+    "sources": [
+      {
+        "description": "追影寻梦\n演示853w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 8530000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1YT4y1Q788"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-启明 \n4★情姐 875w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 8750000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1h44y1n7jE"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "玩具喵\n蓝字817w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 8170000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg4.docs.qq.com/image/FqimhQQspRzAJOKXzw8u0g.png?w=976&h=1561"
+        ],
+        "comments": []
+      },
+      {
+        "description": "Sora 865w",
+        "author": "Sora",
+        "damage": {
+          "value": 8650000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1su411D7yc?p=1"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D1",
+    "id": "dt101",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5260000,
+    "sources": [
+      {
+        "description": "花舞-墨夕\n【刀1】\n全自动 526w",
+        "author": null,
+        "damage": {
+          "value": 5260000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1vF411t7xW"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D1",
+    "id": "dt102",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "562w\n最后连点克、狼"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5500000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n连点自动 562w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 5620000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D1",
+    "id": "dt103",
+    "characters": [
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "459w\n全自动 或 除黄骑打地鼠"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4550000,
+    "sources": []
+  },
+  {
+    "boss": "D1",
+    "id": "dt104",
+    "characters": [
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "450w"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4400000,
+    "sources": []
+  },
+  {
+    "boss": "D1",
+    "id": "dt105",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "442w\n全程连点春妈 或 试试全自动"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4400000,
+    "sources": []
+  },
+  {
+    "boss": "D1",
+    "id": "dt106",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "460w\n全程连点妈，最后连点狼\n水狼开局概率暴毙"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4500000,
+    "sources": []
+  },
+  {
+    "boss": "D2",
+    "id": "D201",
+    "characters": [
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1009,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "黄骑UB&春黑等级详见Sora视频"
+    ],
+    "labels": [],
+    "standard_damage": 14000000,
+    "sources": [
+      {
+        "description": "追影寻梦\n演示1410w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 14100000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1YT4y1Q788?p=2"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Sora 返21s 春田150专154ub",
+        "author": "Sora",
+        "damage": {
+          "value": 14000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 69,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1su411D7yc?p=2"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "玩具喵\n蓝字1450w\n通用配置文字轴",
+        "author": "玩具喵",
+        "damage": {
+          "value": 14500000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D2",
+    "id": "dt201",
+    "characters": [
+      {
+        "id": 1026,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4590000,
+    "sources": [
+      {
+        "description": "花舞-墨夕\n【刀1】\n全自动 459w",
+        "author": null,
+        "damage": {
+          "value": 4590000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1vF411t7xW?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "D301",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 9800000,
+    "sources": [
+      {
+        "description": "追影寻梦\n演示1017w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 10170000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1YT4y1Q788?p=3"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "玩具喵\n蓝字883w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 8830000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg1.docs.qq.com/image/rB5kANzd6LepmYubdZZoNw.png?w=978&h=1249"
+        ],
+        "comments": []
+      },
+      {
+        "description": "Sora 980w",
+        "author": "Sora",
+        "damage": {
+          "value": 9800000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1su411D7yc?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "D302",
+    "characters": [
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 14000000,
+    "sources": [
+      {
+        "description": "Sora 1400w",
+        "author": "Sora",
+        "damage": {
+          "value": 14000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1su411D7yc?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D4",
+    "id": "D401",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1026,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1115,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "圣克5★,松鼠R14"
+    ],
+    "labels": [],
+    "standard_damage": 8600000,
+    "sources": [
+      {
+        "description": "追影寻梦\n演示837w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 8370000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1YT4y1Q788?p=4"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "玩具喵\n蓝字807w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 8070000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg6.docs.qq.com/image/SU1wcrJNUmnYA8rd0PuEkA.png?w=978&h=1145"
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D5",
+    "id": "D501",
+    "characters": [
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1014,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 20000000,
+    "sources": [
+      {
+        "description": "追影寻梦\nR16妈&春黑(3★)\n返22-25s \n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 20000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 68,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1YT4y1Q788?p=5"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "玩具喵\n蓝字1955w",
+        "author": "玩具喵",
+        "damage": {
+          "value": 19550000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [
+          "https://docimg6.docs.qq.com/image/66jY1ST3OBgSqbqpjz0sCg.png?w=976&h=1821"
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D5",
+    "id": "dt501",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "春妈5★R16-4"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6030000,
+    "sources": [
+      {
+        "description": "花舞-墨夕\n【刀1】\n全自动 603w",
+        "author": null,
+        "damage": {
+          "value": 6030000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1vF411t7xW?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  }
+]
