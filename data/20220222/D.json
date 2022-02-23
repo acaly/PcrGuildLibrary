@@ -1,6 +1,80 @@
 [
   {
     "boss": "D1",
+    "id": "D103",
+    "characters": [
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1014,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 15000000,
+    "sources": [
+      {
+        "description": "Sora 返22s\n真布R16-4\n春黑5★R15-6",
+        "author": "Sora",
+        "damage": {
+          "value": 15000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 68,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1su411D7yc?p=1"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖\n返22s\n春黑5xR16-4",
+        "author": null,
+        "damage": {
+          "value": 15000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 68,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Vm4y1R7Ei?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D1",
     "id": "D102",
     "characters": [
       {
@@ -34,7 +108,7 @@
     "standard_damage": 9100000,
     "sources": [
       {
-        "description": "Sora 920w",
+        "description": "Sora 920w\n高手版",
         "author": "Sora",
         "damage": {
           "value": 9200000,
@@ -48,6 +122,63 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Ub4y1s79J"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Sora 900w\n负优化版",
+        "author": "Sora",
+        "damage": {
+          "value": 9000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1su411D7yc?p=3"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-玖璃梦×\n卡哇伊哟\n826w 视频有轴",
+        "author": null,
+        "damage": {
+          "value": 8260000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1FR4y1j7oj?p=10"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖\n850w",
+        "author": null,
+        "damage": {
+          "value": 8500000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Vm4y1R7Ei?p=3"
         ],
         "images": [],
         "comments": []
@@ -159,7 +290,214 @@
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1su411D7yc?p=1"
+          "https://www.bilibili.com/video/BV1su411D7yc?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D1",
+    "id": "D104",
+    "characters": [
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 7800000,
+    "sources": [
+      {
+        "description": "花舞-\n玖璃梦×忧默\n788w 视频有轴",
+        "author": null,
+        "damage": {
+          "value": 7880000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1FR4y1j7oj?p=12"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖\n775w\nR12+真布",
+        "author": null,
+        "damage": {
+          "value": 7750000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖\n760w\nR11真布",
+        "author": null,
+        "damage": {
+          "value": 7600000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Vm4y1R7Ei?p=5"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D1",
+    "id": "D105",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "春妈3★R10-6,克总刚需tp+3"
+    ],
+    "labels": [],
+    "standard_damage": 6530000,
+    "sources": [
+      {
+        "description": "花舞-玖璃梦×\n卡哇伊哟\n655w 视频有轴",
+        "author": null,
+        "damage": {
+          "value": 6550000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1FR4y1j7oj?p=11"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D1",
+    "id": "dt102",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "最后连点克、狼"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5500000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n连点自动 562w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 5620000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4"
         ],
         "images": [],
         "comments": []
@@ -220,52 +558,12 @@
         ],
         "images": [],
         "comments": []
-      }
-    ]
-  },
-  {
-    "boss": "D1",
-    "id": "dt102",
-    "characters": [
-      {
-        "id": 1059,
-        "requirements": []
       },
       {
-        "id": 1071,
-        "requirements": []
-      },
-      {
-        "id": 1104,
-        "requirements": []
-      },
-      {
-        "id": 1043,
-        "requirements": []
-      },
-      {
-        "id": 1119,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [
-      "562w\n最后连点克、狼"
-    ],
-    "labels": [
-      "Auto"
-    ],
-    "standard_damage": 5500000,
-    "sources": [
-      {
-        "description": "透过现象看本质\n连点自动 562w",
-        "author": "透过现象看本质",
+        "description": "花舞\n玖璃梦x桜島麻衣\n全自动 500w",
+        "author": null,
         "damage": {
-          "value": 5620000,
+          "value": 5000000,
           "low": null,
           "high": null
         },
@@ -274,7 +572,9 @@
           "low": null,
           "high": null
         },
-        "links": [],
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=15"
+        ],
         "images": [],
         "comments": []
       }
@@ -310,14 +610,32 @@
       "low": null,
       "high": null
     },
-    "comments": [
-      "459w\n全自动 或 除黄骑打地鼠"
-    ],
+    "comments": [],
     "labels": [
       "Auto"
     ],
     "standard_damage": 4550000,
-    "sources": []
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动 459w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4590000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "D1",
@@ -349,14 +667,32 @@
       "low": null,
       "high": null
     },
-    "comments": [
-      "450w"
-    ],
+    "comments": [],
     "labels": [
       "Auto"
     ],
     "standard_damage": 4400000,
-    "sources": []
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动 450w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4500000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "D1",
@@ -389,13 +725,33 @@
       "high": null
     },
     "comments": [
-      "442w\n全程连点春妈 或 试试全自动"
+      "442w\n全程连点春妈"
     ],
     "labels": [
       "Auto"
     ],
     "standard_damage": 4400000,
-    "sources": []
+    "sources": [
+      {
+        "description": "透过现象看本质\n连点自动 442w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4420000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "D1",
@@ -434,7 +790,84 @@
       "Auto"
     ],
     "standard_damage": 4500000,
-    "sources": []
+    "sources": [
+      {
+        "description": "透过现象看本质\n连点自动 460w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4600000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D1",
+    "id": "dt107",
+    "characters": [
+      {
+        "id": 1107,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1056,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4000000,
+    "sources": [
+      {
+        "description": "花舞\n玖璃梦x桜島麻衣\n全自动 403w",
+        "author": null,
+        "damage": {
+          "value": 4030000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=15"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
   },
   {
     "boss": "D2",
@@ -505,7 +938,7 @@
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1su411D7yc?p=2"
+          "https://www.bilibili.com/video/BV1su411D7yc?p=4"
         ],
         "images": [],
         "comments": []
@@ -524,6 +957,192 @@
           "high": null
         },
         "links": [],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D2",
+    "id": "D203",
+    "characters": [
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 14000000,
+    "sources": [
+      {
+        "description": "花舞-无糖\n1400w",
+        "author": null,
+        "damage": {
+          "value": 14000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Vm4y1R7Ei?p=6"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D2",
+    "id": "D202",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "情姐5★R12-6(160专),妈R14-1"
+    ],
+    "labels": [],
+    "standard_damage": 7360000,
+    "sources": [
+      {
+        "description": "花舞-\n玖璃梦×忧默\n733w 视频有轴",
+        "author": null,
+        "damage": {
+          "value": 7330000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1FR4y1j7oj?p=13"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D2",
+    "id": "D204",
+    "characters": [
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 6450000,
+    "sources": [
+      {
+        "description": "花舞-无糖\n645w\n有圣克好感",
+        "author": null,
+        "damage": {
+          "value": 6450000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Vm4y1R7Ei?p=7"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖\n640w\n无圣克好感",
+        "author": null,
+        "damage": {
+          "value": 6400000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Vm4y1R7Ei?p=8"
+        ],
         "images": [],
         "comments": []
       }
@@ -580,6 +1199,628 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1vF411t7xW?p=2"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞\n玖璃梦x桜島麻衣\n全自动 458w",
+        "author": null,
+        "damage": {
+          "value": 4580000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=16"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D2",
+    "id": "dt202",
+    "characters": [
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "半自动\n全程连点克\n101bossUB前连点狼春猫"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5400000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n半自动 547w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 5470000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=64.2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D2",
+    "id": "dt203",
+    "characters": [
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "全程连点克 最后1s连点狼、克"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5350000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n半自动 546w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 5460000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=64.2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D2",
+    "id": "dt211",
+    "characters": [
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4610000,
+    "sources": [
+      {
+        "description": "花舞-墨夕\n【刀2】\n全自动 461w",
+        "author": null,
+        "damage": {
+          "value": 4610000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1vF411t7xW?p=5"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D2",
+    "id": "dt204",
+    "characters": [
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1108,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "半自动\n全程连点克 稳一点\n101bossUB前连点狼春猫"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4950000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n半自动 504w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 5040000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=64.2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D2",
+    "id": "dt205",
+    "characters": [
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1096,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "半自动\n全程连点克\n101bossUB前连点狼春猫\n狼换水狼好像可以"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4700000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n半自动 479w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4790000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=64.2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D2",
+    "id": "dt206",
+    "characters": [
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "半自动\n全程连点克、黄骑(不连点黄骑,克危)"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5100000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n半自动 527w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 5270000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=64.2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D2",
+    "id": "dt207",
+    "characters": [
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "最后连点克总"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4900000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n连点自动 496w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4960000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=64.2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D2",
+    "id": "dt208",
+    "characters": [
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1108,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "最后连点克 狼可换水狼"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4400000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n连点自动 453w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4530000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=64.2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D2",
+    "id": "dt209",
+    "characters": [
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5000000,
+    "sources": [
+      {
+        "description": "花舞\n玖璃梦x桜島麻衣\n半自动 500w",
+        "author": null,
+        "damage": {
+          "value": 5000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=16"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D2",
+    "id": "dt210",
+    "characters": [
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5300000,
+    "sources": [
+      {
+        "description": "花舞\n玖璃梦x桜島麻衣\n全自动 533w",
+        "author": null,
+        "damage": {
+          "value": 5330000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=16"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-墨夕\n【刀3】\n全自动 444w",
+        "author": null,
+        "damage": {
+          "value": 4440000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1vF411t7xW?p=8"
         ],
         "images": [],
         "comments": []
@@ -672,7 +1913,26 @@
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1su411D7yc?p=3"
+          "https://www.bilibili.com/video/BV1su411D7yc?p=5"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖\n750w",
+        "author": null,
+        "damage": {
+          "value": 7500000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Vm4y1R7Ei?p=10"
         ],
         "images": [],
         "comments": []
@@ -727,7 +1987,1799 @@
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1su411D7yc?p=4"
+          "https://www.bilibili.com/video/BV1su411D7yc?p=6"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖\n1100w\n3x似似花",
+        "author": null,
+        "damage": {
+          "value": 11000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Vm4y1R7Ei?p=9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "D303",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 6600000,
+    "sources": [
+      {
+        "description": "花舞-玖璃梦×\n卡哇伊呦\n680w 视频有轴",
+        "author": null,
+        "damage": {
+          "value": 6800000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1FR4y1j7oj?p=14"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖\n680w",
+        "author": null,
+        "damage": {
+          "value": 6800000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Vm4y1R7Ei?p=12"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "D304",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 6020000,
+    "sources": [
+      {
+        "description": "花舞-\n玖璃梦×忧默\n598w 视频有轴",
+        "author": null,
+        "damage": {
+          "value": 5980000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1FR4y1j7oj?p=15"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "D305",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1075,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 7170000,
+    "sources": [
+      {
+        "description": "花舞-无糖\n717w",
+        "author": null,
+        "damage": {
+          "value": 7170000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Vm4y1R7Ei?p=11"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "D306",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 0,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 6200000,
+    "sources": [
+      {
+        "description": "花舞-无糖\n620-640w",
+        "author": null,
+        "damage": {
+          "value": null,
+          "low": 6200000,
+          "high": 6400000
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Vm4y1R7Ei?p=13"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt301",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "圣锤大概率暴毙\n511最后暴毙"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5200000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动 558w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 5580000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=113.9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt302",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "狼最后暴毙"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5000000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动 514w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 5140000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=113.9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt304",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "概率暴毙"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4400000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动 446w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4460000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=113.9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt306",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "大概率暴毙"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4650000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动 470w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4700000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=113.9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt305",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4300000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动 434w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4340000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=113.9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt318",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5000000,
+    "sources": [
+      {
+        "description": "花舞\n玖璃梦x桜島麻衣\n全自动 506w",
+        "author": null,
+        "damage": {
+          "value": 5060000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=17"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt303",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "大概率暴毙"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5200000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动 535w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 5350000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=113.9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt307",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "大概率暴毙"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4900000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动 490w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4900000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=113.9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt308",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4600000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动 462w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4620000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=113.9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt309",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "大大概率暴毙"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4900000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动 493w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4930000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=113.9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt310",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4700000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动 477w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4770000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=113.9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt311",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4500000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动 457w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4570000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=113.9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt312",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "概率暴毙"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4450000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动 449w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4490000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=113.9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt313",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4400000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动 455w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4550000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=113.9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt314",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4400000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动 450w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4500000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=113.9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt315",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1090,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4400000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动 445w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4450000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=113.9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt316",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5500000,
+    "sources": [
+      {
+        "description": "花舞\n玖璃梦x桜島麻衣\n全自动 552w",
+        "author": null,
+        "damage": {
+          "value": 5520000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=17"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-墨夕\n【刀2】\n全自动 560w",
+        "author": null,
+        "damage": {
+          "value": 5600000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1vF411t7xW?p=6"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt317",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4900000,
+    "sources": [
+      {
+        "description": "花舞\n玖璃梦x桜島麻衣\n全自动 491w",
+        "author": null,
+        "damage": {
+          "value": 4910000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=17"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt319",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1052,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4700000,
+    "sources": [
+      {
+        "description": "花舞\n玖璃梦x桜島麻衣\n全自动 472w",
+        "author": null,
+        "damage": {
+          "value": 4720000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=17"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt320",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 0,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4400000,
+    "sources": [
+      {
+        "description": "花舞\n玖璃梦x桜島麻衣\n全自动 443w",
+        "author": null,
+        "damage": {
+          "value": 4430000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=17"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt321",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 0,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4400000,
+    "sources": [
+      {
+        "description": "花舞\n玖璃梦x桜島麻衣\n全自动 441w",
+        "author": null,
+        "damage": {
+          "value": 4410000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=17"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt322",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5350000,
+    "sources": [
+      {
+        "description": "花舞\n玖璃梦x桜島麻衣\n全自动 538w",
+        "author": null,
+        "damage": {
+          "value": 5380000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=17"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt323",
+    "characters": [
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5150000,
+    "sources": [
+      {
+        "description": "花舞\n玖璃梦x桜島麻衣\n半自动 519w",
+        "author": null,
+        "damage": {
+          "value": 5190000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=17"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-墨夕\n【刀3】\n全自动 468w",
+        "author": null,
+        "damage": {
+          "value": 4680000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1vF411t7xW?p=9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt324",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3950000,
+    "sources": [
+      {
+        "description": "花舞\n玖璃梦x桜島麻衣\n全自动 396w",
+        "author": null,
+        "damage": {
+          "value": 3960000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=17"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt325",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3550000,
+    "sources": [
+      {
+        "description": "花舞\n玖璃梦x桜島麻衣\n全自动 358w",
+        "author": null,
+        "damage": {
+          "value": 3580000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=17"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D4",
+    "id": "D402",
+    "characters": [
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 19000000,
+    "sources": [
+      {
+        "description": "Sora 返21s\n5★春黑露娜",
+        "author": "Sora",
+        "damage": {
+          "value": 19000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 69,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1su411D7yc?p=7"
         ],
         "images": [],
         "comments": []
@@ -765,7 +3817,7 @@
       "high": null
     },
     "comments": [
-      "圣克5★,松鼠R14"
+      "圣克5★,松鼠R14/R10"
     ],
     "labels": [],
     "standard_damage": 8600000,
@@ -790,6 +3842,25 @@
         "comments": []
       },
       {
+        "description": "Sora 860w",
+        "author": "Sora",
+        "damage": {
+          "value": 8600000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1su411D7yc?p=8"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
         "description": "玩具喵\n蓝字807w",
         "author": "玩具喵",
         "damage": {
@@ -806,6 +3877,635 @@
         "images": [
           "https://docimg6.docs.qq.com/image/SU1wcrJNUmnYA8rd0PuEkA.png?w=978&h=1145"
         ],
+        "comments": []
+      },
+      {
+        "description": "透过现象看本质\n 文字轴无演示 770w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 7700000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-玖璃梦\n×卡哇伊呦\n844w 视频有轴",
+        "author": null,
+        "damage": {
+          "value": 8440000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1FR4y1j7oj?p=16"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖\n视频有轴 805w",
+        "author": null,
+        "damage": {
+          "value": 8050000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Vm4y1R7Ei?p=14"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D4",
+    "id": "D403",
+    "characters": [
+      {
+        "id": 1011,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "妹弓拉满情况下,克总面板需满足物攻<10621"
+    ],
+    "labels": [],
+    "standard_damage": 6250000,
+    "sources": [
+      {
+        "description": "花舞-无糖\n视频有轴 643w",
+        "author": null,
+        "damage": {
+          "value": 6430000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Vm4y1R7Ei?p=15"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-\n玖璃梦×忧默\n650w 视频有轴",
+        "author": null,
+        "damage": {
+          "value": 6500000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1FR4y1j7oj?p=17"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D4",
+    "id": "dt401",
+    "characters": [
+      {
+        "id": 1011,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4550000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动 469w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4690000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=206.1"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D4",
+    "id": "dt405",
+    "characters": [
+      {
+        "id": 1011,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4250000,
+    "sources": [
+      {
+        "description": "花舞\n玖璃梦x桜島麻衣\n全自动 425w",
+        "author": null,
+        "damage": {
+          "value": 4250000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=18"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-墨夕\n【刀2】\n全自动 461w",
+        "author": null,
+        "damage": {
+          "value": 4610000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1vF411t7xW?p=7"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D4",
+    "id": "dt404",
+    "characters": [
+      {
+        "id": 1011,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4450000,
+    "sources": [
+      {
+        "description": "花舞\n玖璃梦x桜島麻衣\n半自动 447w",
+        "author": null,
+        "damage": {
+          "value": 4470000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=18"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D4",
+    "id": "dt408",
+    "characters": [
+      {
+        "id": 1026,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4970000,
+    "sources": [
+      {
+        "description": "花舞=墨夕\n【刀1】\n全自动 497w",
+        "author": null,
+        "damage": {
+          "value": 4970000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1vF411t7xW?p=3"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D4",
+    "id": "dt402",
+    "characters": [
+      {
+        "id": 0,
+        "requirements": []
+      },
+      {
+        "id": 1038,
+        "requirements": []
+      },
+      {
+        "id": 1100,
+        "requirements": []
+      },
+      {
+        "id": 1107,
+        "requirements": []
+      },
+      {
+        "id": 1045,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3200000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动 354w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 3540000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=206.1"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D4",
+    "id": "dt403",
+    "characters": [
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 1045,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "最后连点安"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4000000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n连点自动 424w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4240000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=206.1"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D4",
+    "id": "dt406",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1045,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3900000,
+    "sources": [
+      {
+        "description": "花舞\n玖璃梦x桜島麻衣\n全自动 391w",
+        "author": null,
+        "damage": {
+          "value": 3910000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=18"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-墨夕\n【刀3】\n全自动372w",
+        "author": null,
+        "damage": {
+          "value": 3720000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1vF411t7xW?p=10"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D4",
+    "id": "dt407",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1045,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3650000,
+    "sources": [
+      {
+        "description": "花舞\n玖璃梦x桜島麻衣\n全自动 365w",
+        "author": null,
+        "damage": {
+          "value": 3650000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=18"
+        ],
+        "images": [],
         "comments": []
       }
     ]
@@ -864,6 +4564,44 @@
         "comments": []
       },
       {
+        "description": "Sora 返27s",
+        "author": "Sora",
+        "damage": {
+          "value": 20000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 63,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1su411D7yc?p=9"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖\n视频有轴 返23s",
+        "author": null,
+        "damage": {
+          "value": 20000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 67,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Vm4y1R7Ei?p=16"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
         "description": "玩具喵\n蓝字1955w",
         "author": "玩具喵",
         "damage": {
@@ -880,6 +4618,388 @@
         "images": [
           "https://docimg6.docs.qq.com/image/66jY1ST3OBgSqbqpjz0sCg.png?w=976&h=1821"
         ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D5",
+    "id": "D502",
+    "characters": [
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "狐狸72级(1级UB&EX)\n妈&春黑R16-4,圣千R11-6"
+    ],
+    "labels": [],
+    "standard_damage": 20000000,
+    "sources": [
+      {
+        "description": "花舞-无糖\n视频有轴 返46s",
+        "author": null,
+        "damage": {
+          "value": 20000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 44,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Vm4y1R7Ei?p=19"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-玖璃梦\n×云烨朱华\n返39-43s \n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 20000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 51,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1FR4y1j7oj?p=18"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D5",
+    "id": "D503",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "春妈刚需5★,RANK下限请自行测试"
+    ],
+    "labels": [],
+    "standard_damage": 8100000,
+    "sources": [
+      {
+        "description": "花舞-无糖\n克TP+3\n视频有轴 854w",
+        "author": null,
+        "damage": {
+          "value": 8540000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Vm4y1R7Ei?p=17"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-无糖\n克无TP+3\n视频有轴 767w",
+        "author": null,
+        "damage": {
+          "value": 7670000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Vm4y1R7Ei?p=18"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-玖璃梦\n×卡哇伊哟\n788w 视频有轴",
+        "author": null,
+        "damage": {
+          "value": 7880000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1FR4y1j7oj?p=19"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D5",
+    "id": "D504",
+    "characters": [
+      {
+        "id": 1011,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "春妈刚需5★,克总刚需tp+3"
+    ],
+    "labels": [],
+    "standard_damage": 7000000,
+    "sources": [
+      {
+        "description": "花舞-\n玖璃梦×忧默\n704w 视频有轴",
+        "author": null,
+        "damage": {
+          "value": 7040000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1FR4y1j7oj?p=20"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D5",
+    "id": "dt509",
+    "characters": [
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1014,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "透:5x春黑应该能全自动"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 8250000,
+    "sources": [
+      {
+        "description": "花舞\n玖璃梦x桜島麻衣\n半自动 825w",
+        "author": null,
+        "damage": {
+          "value": 8250000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=19"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "透过现象看本质\n半自动 955w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 9550000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=276.2"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-墨夕\n【刀3】全自动\n演示 569w",
+        "author": null,
+        "damage": {
+          "value": 5690000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1vF411t7xW?p=11"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D5",
+    "id": "dt508",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5100000,
+    "sources": [
+      {
+        "description": "花舞\n玖璃梦x桜島麻衣\n全自动 513w",
+        "author": null,
+        "damage": {
+          "value": 5130000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=19"
+        ],
+        "images": [],
         "comments": []
       }
     ]
@@ -937,6 +5057,373 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1vF411t7xW?p=3"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞\n玖璃梦x桜島麻衣\n全自动 567w",
+        "author": null,
+        "damage": {
+          "value": 5670000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=19"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D5",
+    "id": "dt502",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "春妈5★R16-4"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5000000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n全自动 506w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 5060000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=246.4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D5",
+    "id": "dt503",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "半自动 不能全自动\n连点顺序:克克妈狼猫511 \n然后全程连点春妈"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5150000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n半自动 549w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 5490000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=246.4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D5",
+    "id": "dt504",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1115,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "半自动 511会暴毙\n连点顺序:克克妈狼511\n然后全程连点春妈狼"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4600000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n半自动 476w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4760000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=246.4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D5",
+    "id": "dt505",
+    "characters": [
+      {
+        "id": 1107,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6000000,
+    "sources": [
+      {
+        "description": "花舞\n玖璃梦x桜島麻衣\n全自动 601w",
+        "author": null,
+        "damage": {
+          "value": 6010000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=19"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D5",
+    "id": "dt506",
+    "characters": [
+      {
+        "id": 1011,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5950000,
+    "sources": [
+      {
+        "description": "花舞\n玖璃梦x桜島麻衣\n全自动 597w",
+        "author": null,
+        "damage": {
+          "value": 5970000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=19"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D5",
+    "id": "dt507",
+    "characters": [
+      {
+        "id": 1011,
+        "requirements": []
+      },
+      {
+        "id": 1107,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4800000,
+    "sources": [
+      {
+        "description": "花舞\n玖璃梦x桜島麻衣\n全自动 480w",
+        "author": null,
+        "damage": {
+          "value": 4800000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=19"
         ],
         "images": [],
         "comments": []
