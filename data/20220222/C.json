@@ -371,7 +371,7 @@
     "labels": [
       "Auto"
     ],
-    "standard_damage": 6400000,
+    "standard_damage": 6000000,
     "sources": [
       {
         "description": "透过现象看本质\n连点自动 655w",
@@ -3002,7 +3002,7 @@
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1C34y1r7XF?p=6"
+          "https://www.bilibili.com/video/BV1C34y1r7XF?p=7"
         ],
         "images": [],
         "comments": []
@@ -6860,6 +6860,25 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "花舞-云烨朱云 4星驴视频有轴 1200w",
+        "author": "花舞-云烨朱云",
+        "damage": {
+          "value": 12000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1GT4y1Q7QL"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -7599,7 +7618,7 @@
       "high": null
     },
     "comments": [
-      "543w(满专流夏 4s水狼暴毙)\n全程连点流夏"
+      "543w(满专流夏 4s水狼暴毙)\n全程连点流夏\n最后1s连点狼 水狼"
     ],
     "labels": [
       "Auto"
@@ -8704,6 +8723,63 @@
     ]
   },
   {
+    "boss": "C4",
+    "id": "ct427",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4000000,
+    "sources": [
+      {
+        "description": "丶碧蓝幼龙\n全自动 450w",
+        "author": null,
+        "damage": {
+          "value": 4500000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1X3411L7E7"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
     "boss": "C5",
     "id": "C501",
     "characters": [
@@ -8911,7 +8987,7 @@
         "comments": []
       },
       {
-        "description": "小鸟游六花\nR10妈 1400w\n暂无文字轴",
+        "description": "小鸟游六花\nR10妈 1400w\n简介有轴",
         "author": null,
         "damage": {
           "value": 14000000,
@@ -8944,6 +9020,44 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Ci4y127j3"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "尔威希 3★R15驴 3★R15圣千 1300w 简介有轴",
+        "author": null,
+        "damage": {
+          "value": 13000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1mb4y1s7C7"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "小鸭么小鸡仔\n金妈 返27s",
+        "author": null,
+        "damage": {
+          "value": 20000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 63,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1FZ4y1C7Gh"
         ],
         "images": [],
         "comments": []
@@ -9004,7 +9118,7 @@
         "comments": []
       },
       {
-        "description": "THUnion\n72级R11狐狸&\nR11驴&R14妈\n1700w 暂无轴\n",
+        "description": "THUnion\n72级R11狐狸&\nR11驴&R14妈\n1700w 视频有轴\n",
         "author": null,
         "damage": {
           "value": 17000000,
@@ -9405,7 +9519,7 @@
       "high": null
     },
     "comments": [
-      "全程连点克总\n这刀上限高下限也低 \n就看511第一个横劈能不能把小鱼打死"
+      "全程连点克总\n这刀上限高下限也低 \n就看511第一个横劈能不能把小鱼打死\n600w~1000w"
     ],
     "labels": [
       "Auto"
