@@ -53,7 +53,7 @@
         "comments": []
       },
       {
-        "description": "花舞-无糖\n返22s\n春黑5xR16-4",
+        "description": "花舞-无糖\n返22s\n春黑5★R16-4",
         "author": null,
         "damage": {
           "value": 15000000,
@@ -67,6 +67,63 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Vm4y1R7Ei?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D1",
+    "id": "D108",
+    "characters": [
+      {
+        "id": 1114,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1014,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "147级5★R14-5.6春黑"
+    ],
+    "labels": [],
+    "standard_damage": 12000000,
+    "sources": [
+      {
+        "description": "手绘 1220w\n具体配置看简介\n暂时无轴",
+        "author": null,
+        "damage": {
+          "value": 12200000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV18T4y1Q7Nq"
         ],
         "images": [],
         "comments": []
@@ -258,10 +315,10 @@
         "comments": []
       },
       {
-        "description": "玩具喵\n蓝字817w",
+        "description": "玩具喵\n演示827w\n视频有轴",
         "author": "玩具喵",
         "damage": {
-          "value": 8170000,
+          "value": 8270000,
           "low": null,
           "high": null
         },
@@ -270,10 +327,10 @@
           "low": null,
           "high": null
         },
-        "links": [],
-        "images": [
-          "https://docimg4.docs.qq.com/image/FqimhQQspRzAJOKXzw8u0g.png?w=976&h=1561"
+        "links": [
+          "https://www.bilibili.com/video/BV1T3411j7W3"
         ],
+        "images": [],
         "comments": []
       },
       {
@@ -500,7 +557,7 @@
       "四保一大核c阵容"
     ],
     "labels": [],
-    "standard_damage": 4010000,
+    "standard_damage": 4000000,
     "sources": [
       {
         "description": "花舞-玖璃梦\n×樱岛麻衣\n416w 视频有轴",
@@ -676,6 +733,25 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动 539w",
+        "author": null,
+        "damage": {
+          "value": 5390000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qL4y1g7VW?spm_id_from=333.999.0.0"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -787,6 +863,103 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1ea41187W4?p=1"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "芥荒\n半自动 619w",
+        "author": null,
+        "damage": {
+          "value": 6190000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1C34y1r7XF?p=17"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "江风渔火\n全自动 520w",
+        "author": null,
+        "damage": {
+          "value": 5200000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7y7?spm_id_from=333.999.0.0"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D1",
+    "id": "dt116",
+    "characters": [
+      {
+        "id": 1100,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "要求3x春妈，能打560w"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5120000,
+    "sources": [
+      {
+        "description": "酷乐【物2】\n连点自动 512w",
+        "author": "酷乐",
+        "damage": {
+          "value": 5120000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=15"
         ],
         "images": [],
         "comments": []
@@ -959,7 +1132,7 @@
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4"
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=49.5"
         ],
         "images": [],
         "comments": []
@@ -996,14 +1169,16 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "川包：全程连点克\n酷乐：全程连点流夏"
+    ],
     "labels": [
       "Auto"
     ],
     "standard_damage": 6000000,
     "sources": [
       {
-        "description": "川包 半自动\n600-620w\n纯自动少90w",
+        "description": "川包 连点自动\n600-620w\n纯自动少90w",
         "author": "川包",
         "damage": {
           "value": null,
@@ -1017,6 +1192,44 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1S341177Zs?p=12"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "酷乐【物1】\n连点自动 530w",
+        "author": "酷乐",
+        "damage": {
+          "value": 5300000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=14"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动 525w",
+        "author": null,
+        "damage": {
+          "value": 5250000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qL4y1g7VW?p=2"
         ],
         "images": [],
         "comments": []
@@ -1113,7 +1326,7 @@
       "high": null
     },
     "comments": [
-      "全程连点流夏\n001连点克"
+      "全程连点流夏\n001连点克（吉他暴击太少会暴毙）"
     ],
     "labels": [
       "Auto"
@@ -1135,6 +1348,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV13T4y1Q7jY?p=10"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "江风渔火\n全自动 457w",
+        "author": null,
+        "damage": {
+          "value": 4570000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7y7?p=2"
         ],
         "images": [],
         "comments": []
@@ -1200,6 +1432,65 @@
   },
   {
     "boss": "D1",
+    "id": "dt117",
+    "characters": [
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "全程连点水狼、克"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5700000,
+    "sources": [
+      {
+        "description": "芥荒\n连点自动 586w",
+        "author": null,
+        "damage": {
+          "value": 5860000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1C34y1r7XF?p=18"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D1",
     "id": "dt106",
     "characters": [
       {
@@ -1251,6 +1542,63 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D1",
+    "id": "dt119",
+    "characters": [
+      {
+        "id": 1107,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3000000,
+    "sources": [
+      {
+        "description": "江风渔火\n全自动 304w",
+        "author": null,
+        "damage": {
+          "value": 3040000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7y7?p=3"
         ],
         "images": [],
         "comments": []
@@ -1425,9 +1773,108 @@
         ],
         "images": [],
         "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D1",
+    "id": "dt118",
+    "characters": [
+      {
+        "id": 1010,
+        "requirements": []
       },
       {
-        "description": "川包 半自动\n240w\n纯自动220w\n概率暴毙",
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1014,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "5x春黑\n全程连点春黑 驴\n26 连点春黑"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4500000,
+    "sources": [
+      {
+        "description": "芥荒\n半自动 549w",
+        "author": null,
+        "damage": {
+          "value": 5490000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1C34y1r7XF?p=20"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D1",
+    "id": "dt115",
+    "characters": [
+      {
+        "id": 1111,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1006,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "全自动概率暴毙"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 2200000,
+    "sources": [
+      {
+        "description": "川包 半自动\n240w",
         "author": "川包",
         "damage": {
           "value": 2400000,
@@ -1574,6 +2021,63 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1FR4y1j7oj?p=24"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞-墨夕\n演示1452w\n通配练度 视频有轴",
+        "author": null,
+        "damage": {
+          "value": 14520000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1VY411G7G4/"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "丶云鬼丶\n3★露娜&肉春田\n返21s 视频有轴",
+        "author": "云鬼",
+        "damage": {
+          "value": 14000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 69,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV153411j7MS"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "玩具喵\n演示1364w\n视频有轴",
+        "author": "玩具喵",
+        "damage": {
+          "value": 13640000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1T3411j7W3?p=2"
         ],
         "images": [],
         "comments": []
@@ -1768,6 +2272,143 @@
   },
   {
     "boss": "D2",
+    "id": "dt226",
+    "characters": [
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "142级真布"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 8780000,
+    "sources": [
+      {
+        "description": "天地z\n半自动 878w",
+        "author": null,
+        "damage": {
+          "value": 8780000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1fS4y1F7zw"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "叔魂\n地鼠连点 1000w",
+        "author": null,
+        "damage": {
+          "value": 10000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1bT4y1Q7gj/"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D2",
+    "id": "dt225",
+    "characters": [
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1117,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "半自动\n5★春黑"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6500000,
+    "sources": [
+      {
+        "description": "芥荒\n半自动 716w",
+        "author": null,
+        "damage": {
+          "value": 7160000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1C34y1r7XF?p=21"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D2",
     "id": "dt221",
     "characters": [
       {
@@ -1796,14 +2437,16 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "要求5★春黑\n全程连点春田"
+    ],
     "labels": [
       "Auto"
     ],
     "standard_damage": 5800000,
     "sources": [
       {
-        "description": "川包 半自动\n540-620w\n5★春黑\n全自动寄",
+        "description": "川包 半自动\n540-620w\n纯auto寄",
         "author": "川包",
         "damage": {
           "value": null,
@@ -1817,6 +2460,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1S341177Zs?p=13"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "韭月初八3x春田\n半自动 776w\n简介有轴",
+        "author": "韭月初八",
+        "damage": {
+          "value": 7760000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1nr4y1z7Ug/"
         ],
         "images": [],
         "comments": []
@@ -1854,7 +2516,7 @@
       "high": null
     },
     "comments": [
-      "春黑5★R14-6"
+      "春黑5★R14-6\n中二外打地鼠"
     ],
     "labels": [
       "Auto"
@@ -1993,6 +2655,120 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "酷乐\n全自动 535w",
+        "author": "酷乐",
+        "damage": {
+          "value": 5350000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=18"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动 490w",
+        "author": null,
+        "damage": {
+          "value": 4900000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qL4y1g7VW?p=4"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "江风渔火\n全自动 556w",
+        "author": null,
+        "damage": {
+          "value": 5560000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7y7?p=5"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D2",
+    "id": "dt223",
+    "characters": [
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1088,
+        "requirements": []
+      },
+      {
+        "id": 1013,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3200000,
+    "sources": [
+      {
+        "description": "川包 全自动\n320w\n",
+        "author": "川包",
+        "damage": {
+          "value": 3200000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341177Zs?p=13"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -2090,6 +2866,25 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "江风渔火\n连点自动 511w",
+        "author": null,
+        "damage": {
+          "value": 5110000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7y7?p=6"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -2124,7 +2919,7 @@
       "high": null
     },
     "comments": [
-      "全程连点克 最后1s连点狼、克(TP+3)"
+      "透:全程连点克 最后1s连点狼、克(TP+3)\n芥荒: 全程连点克 (最后一个UB不连点)"
     ],
     "labels": [
       "Auto"
@@ -2146,6 +2941,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=16"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "芥荒\n半自动 555w",
+        "author": null,
+        "damage": {
+          "value": 5550000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1C34y1r7XF?p=22"
         ],
         "images": [],
         "comments": []
@@ -2577,6 +3391,25 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "芥荒\n连点自动 521w",
+        "author": null,
+        "damage": {
+          "value": 5210000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1C34y1r7XF?p=23"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -2652,6 +3485,65 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1S341177Zs?p=13"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D2",
+    "id": "dt224",
+    "characters": [
+      {
+        "id": 1059,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "032连点克总"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4900000,
+    "sources": [
+      {
+        "description": "酷乐【物1】\n连点自动 494w",
+        "author": "酷乐",
+        "damage": {
+          "value": 4940000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=16"
         ],
         "images": [],
         "comments": []
@@ -2894,14 +3786,10 @@
   },
   {
     "boss": "D2",
-    "id": "dt201",
+    "id": "dt227",
     "characters": [
       {
-        "id": 1026,
-        "requirements": []
-      },
-      {
-        "id": 1091,
+        "id": 1034,
         "requirements": []
       },
       {
@@ -2909,11 +3797,15 @@
         "requirements": []
       },
       {
-        "id": 1057,
+        "id": 1087,
         "requirements": []
       },
       {
-        "id": 1104,
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
         "requirements": []
       }
     ],
@@ -2922,51 +3814,14 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "全程连点狼、黄骑"
+    ],
     "labels": [
       "Auto"
     ],
-    "standard_damage": 4590000,
-    "sources": [
-      {
-        "description": "花舞-墨夕\n【刀1】\n全自动 459w",
-        "author": null,
-        "damage": {
-          "value": 4590000,
-          "low": null,
-          "high": null
-        },
-        "time": {
-          "value": 90,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1vF411t7xW?p=2"
-        ],
-        "images": [],
-        "comments": []
-      },
-      {
-        "description": "花舞\n玖璃梦x桜島麻衣\n全自动 458w",
-        "author": null,
-        "damage": {
-          "value": 4580000,
-          "low": null,
-          "high": null
-        },
-        "time": {
-          "value": 90,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=16"
-        ],
-        "images": [],
-        "comments": []
-      }
-    ]
+    "standard_damage": 5200000,
+    "sources": []
   },
   {
     "boss": "D2",
@@ -3041,6 +3896,44 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动 498w",
+        "author": null,
+        "damage": {
+          "value": 4980000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qL4y1g7VW?p=5"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "江风渔火\n全自动 497w",
+        "author": null,
+        "damage": {
+          "value": 4970000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7y7?p=7"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -3095,6 +3988,63 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1SP4y1w7zf?p=16"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D2",
+    "id": "dt228",
+    "characters": [
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3400000,
+    "sources": [
+      {
+        "description": "江风渔火\n全自动 342w",
+        "author": null,
+        "damage": {
+          "value": 3420000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7y7?p=8"
         ],
         "images": [],
         "comments": []
@@ -3160,6 +4110,120 @@
   },
   {
     "boss": "D2",
+    "id": "dt201",
+    "characters": [
+      {
+        "id": 1026,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4590000,
+    "sources": [
+      {
+        "description": "花舞-墨夕\n【刀1】\n全自动 459w",
+        "author": null,
+        "damage": {
+          "value": 4590000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1vF411t7xW?p=2"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "花舞\n玖璃梦x桜島麻衣\n全自动 458w",
+        "author": null,
+        "damage": {
+          "value": 4580000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1SP4y1w7zf?p=16"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "酷乐【物2】\n全自动 465w",
+        "author": "酷乐",
+        "damage": {
+          "value": 4650000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=17"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动 483w",
+        "author": null,
+        "damage": {
+          "value": 4830000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qL4y1g7VW?p=6"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D2",
     "id": "dt222",
     "characters": [
       {
@@ -3201,63 +4265,6 @@
           "value": null,
           "low": 4600000,
           "high": 4900000
-        },
-        "time": {
-          "value": 90,
-          "low": null,
-          "high": null
-        },
-        "links": [
-          "https://www.bilibili.com/video/BV1S341177Zs?p=13"
-        ],
-        "images": [],
-        "comments": []
-      }
-    ]
-  },
-  {
-    "boss": "D2",
-    "id": "dt223",
-    "characters": [
-      {
-        "id": 1078,
-        "requirements": []
-      },
-      {
-        "id": 1088,
-        "requirements": []
-      },
-      {
-        "id": 1013,
-        "requirements": []
-      },
-      {
-        "id": 1070,
-        "requirements": []
-      },
-      {
-        "id": 1034,
-        "requirements": []
-      }
-    ],
-    "time": {
-      "value": 90,
-      "low": null,
-      "high": null
-    },
-    "comments": [],
-    "labels": [
-      "Auto"
-    ],
-    "standard_damage": 3200000,
-    "sources": [
-      {
-        "description": "川包 全自动\n320w\n",
-        "author": "川包",
-        "damage": {
-          "value": 3200000,
-          "low": null,
-          "high": null
         },
         "time": {
           "value": 90,
@@ -3326,10 +4333,10 @@
         "comments": []
       },
       {
-        "description": "玩具喵\n蓝字883w",
+        "description": "玩具喵\n演示960w\n视频有轴",
         "author": "玩具喵",
         "damage": {
-          "value": 8830000,
+          "value": 9600000,
           "low": null,
           "high": null
         },
@@ -3338,10 +4345,10 @@
           "low": null,
           "high": null
         },
-        "links": [],
-        "images": [
-          "https://docimg1.docs.qq.com/image/rB5kANzd6LepmYubdZZoNw.png?w=978&h=1249"
+        "links": [
+          "https://www.bilibili.com/video/BV1T3411j7W3?p=3"
         ],
+        "images": [],
         "comments": []
       },
       {
@@ -3827,6 +4834,103 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "川包 半自动\n580-700w\n全自动500w",
+        "author": "川包",
+        "damage": {
+          "value": null,
+          "low": 5800000,
+          "high": 7000000
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341177Zs?p=14"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动 528w",
+        "author": null,
+        "damage": {
+          "value": 5280000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qL4y1g7VW?p=7"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt338",
+    "characters": [
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "连点狐狸"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 6300000,
+    "sources": [
+      {
+        "description": "韭月初八\n连点自动 667w",
+        "author": "韭月初八",
+        "damage": {
+          "value": 6670000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/bv1SP4y1F7RE"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -3922,6 +5026,101 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "酷乐\n连点自动 532w",
+        "author": "酷乐",
+        "damage": {
+          "value": 5320000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=21"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "江风渔火\n全自动 491w",
+        "author": null,
+        "damage": {
+          "value": 4910000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7y7?p=9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt335",
+    "characters": [
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4500000,
+    "sources": [
+      {
+        "description": "芥荒\n半自动 496w",
+        "author": null,
+        "damage": {
+          "value": 4960000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1C34y1r7XF?p=24"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -3956,7 +5155,7 @@
       "high": null
     },
     "comments": [
-      "圣锤概率暴毙\n梦中飞过的雕:全程连点克"
+      "圣锤概率暴毙\n梦中飞过的雕、川包:全程连点克"
     ],
     "labels": [
       "Auto"
@@ -3997,6 +5196,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1YL4y1g7Zf?p=3"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "川包 连点自动\n590-630w\n全自动少80w",
+        "author": "川包",
+        "damage": {
+          "value": null,
+          "low": 5900000,
+          "high": 6300000
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341177Zs?p=14"
         ],
         "images": [],
         "comments": []
@@ -4056,6 +5274,63 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1YL4y1g7Zf?p=2"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt334",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 0,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5600000,
+    "sources": [
+      {
+        "description": "韭月初八 半自动 563w 简介有轴",
+        "author": "韭月初八",
+        "damage": {
+          "value": 5630000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/bv12a411C7Lz"
         ],
         "images": [],
         "comments": []
@@ -4170,6 +5445,63 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1SP4y1w7zf?p=17"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt339",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1090,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 0,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5200000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动 527w",
+        "author": null,
+        "damage": {
+          "value": 5270000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qL4y1g7VW?p=8"
         ],
         "images": [],
         "comments": []
@@ -4324,7 +5656,9 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "概率暴毙"
+    ],
     "labels": [
       "Auto"
     ],
@@ -4364,6 +5698,44 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1vF411t7xW?p=6"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "酷乐【物1】\n全自动 560w",
+        "author": "酷乐",
+        "damage": {
+          "value": 5600000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=19"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "江风渔火\n全自动 559w",
+        "author": null,
+        "damage": {
+          "value": 5590000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7y7?p=10"
         ],
         "images": [],
         "comments": []
@@ -4788,7 +6160,9 @@
       "low": null,
       "high": null
     },
-    "comments": [],
+    "comments": [
+      "川包：全程连点克"
+    ],
     "labels": [
       "Auto"
     ],
@@ -4809,6 +6183,143 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=113.9"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "川包 连点自动\n460-510w\n全自动少20w",
+        "author": "川包",
+        "damage": {
+          "value": null,
+          "low": 4600000,
+          "high": 5100000
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341177Zs?p=14"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt337",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1086,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "全程连点克"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4900000,
+    "sources": [
+      {
+        "description": "芥荒\n连点自动 509w",
+        "author": null,
+        "damage": {
+          "value": 5090000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1C34y1r7XF?p=25"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt332",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1047,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "全程连点克"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4350000,
+    "sources": [
+      {
+        "description": "川包 连点自动\n420-450w\n全自动少50w",
+        "author": "川包",
+        "damage": {
+          "value": null,
+          "low": 4200000,
+          "high": 4500000
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341177Zs?p=14"
         ],
         "images": [],
         "comments": []
@@ -5198,6 +6709,25 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "酷乐【物2】\n全自动 492w",
+        "author": "酷乐",
+        "damage": {
+          "value": 4920000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=20"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -5262,6 +6792,63 @@
   },
   {
     "boss": "D3",
+    "id": "dt340",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4000000,
+    "sources": [
+      {
+        "description": "江风渔火\n全自动 406w",
+        "author": null,
+        "damage": {
+          "value": 4060000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7y7?p=11"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
     "id": "dt318",
     "characters": [
       {
@@ -5311,6 +6898,84 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1SP4y1w7zf?p=17"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动 502w",
+        "author": null,
+        "damage": {
+          "value": 5020000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qL4y1g7VW?p=9"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt336",
+    "characters": [
+      {
+        "id": 1031,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1104,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "全程连点克"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5200000,
+    "sources": [
+      {
+        "description": "芥荒\n连点自动 535w",
+        "author": null,
+        "damage": {
+          "value": 5350000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1C34y1r7XF?p=25"
         ],
         "images": [],
         "comments": []
@@ -5679,6 +7344,25 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "川包\n全自动 390w",
+        "author": "川包",
+        "damage": {
+          "value": 3900000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341177Zs?p=14"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -5733,6 +7417,63 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1SP4y1w7zf?p=17"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D3",
+    "id": "dt333",
+    "characters": [
+      {
+        "id": 1036,
+        "requirements": []
+      },
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1103,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3900000,
+    "sources": [
+      {
+        "description": "川包\n全自动 390w",
+        "author": "川包",
+        "damage": {
+          "value": 3900000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341177Zs?p=14"
         ],
         "images": [],
         "comments": []
@@ -5888,10 +7629,10 @@
         "comments": []
       },
       {
-        "description": "玩具喵\n蓝字807w",
+        "description": "玩具喵\n演示803w\n视频有轴",
         "author": "玩具喵",
         "damage": {
-          "value": 8070000,
+          "value": 8030000,
           "low": null,
           "high": null
         },
@@ -5900,10 +7641,10 @@
           "low": null,
           "high": null
         },
-        "links": [],
-        "images": [
-          "https://docimg6.docs.qq.com/image/SU1wcrJNUmnYA8rd0PuEkA.png?w=978&h=1145"
+        "links": [
+          "https://www.bilibili.com/video/BV1T3411j7W3?p=4"
         ],
+        "images": [],
         "comments": []
       },
       {
@@ -5978,6 +7719,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1ru411X7Qn"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "幻兮huanX\n金框松鼠水电\n评论有轴\n演示855w",
+        "author": null,
+        "damage": {
+          "value": 8550000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1nF411t7st"
         ],
         "images": [],
         "comments": []
@@ -6121,6 +7881,65 @@
   },
   {
     "boss": "D4",
+    "id": "dt415",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1026,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "半自动\n全程连点克情姐春妈，\nboss抽蓝小技能后优先级情姐＞克＞春妈"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 5600000,
+    "sources": [
+      {
+        "description": "猴叽\n地鼠自动 571w",
+        "author": null,
+        "damage": {
+          "value": 5710000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1RS4y1F7hm"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D4",
     "id": "dt408",
     "characters": [
       {
@@ -6189,6 +8008,44 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1ea41187W4?p=10"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "川包 全自动\n440-490w",
+        "author": "川包",
+        "damage": {
+          "value": null,
+          "low": 4400000,
+          "high": 4900000
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341177Zs?p=15"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "江风渔火\n全自动 488w",
+        "author": null,
+        "damage": {
+          "value": 4880000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7y7?p=12"
         ],
         "images": [],
         "comments": []
@@ -6268,6 +8125,25 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动 458w",
+        "author": null,
+        "damage": {
+          "value": 4580000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qL4y1g7VW?p=10"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -6341,6 +8217,63 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1vF411t7xW?p=7"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "川包 全自动\n420-460w",
+        "author": "川包",
+        "damage": {
+          "value": null,
+          "low": 4200000,
+          "high": 4600000
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341177Zs?p=15"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "酷乐\n连点自动 452w",
+        "author": "酷乐",
+        "damage": {
+          "value": 4520000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=22"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "江风渔火\n全自动 468w",
+        "author": null,
+        "damage": {
+          "value": 4680000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7y7?p=13"
         ],
         "images": [],
         "comments": []
@@ -6505,6 +8438,240 @@
   },
   {
     "boss": "D4",
+    "id": "dt421",
+    "characters": [
+      {
+        "id": 1011,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1003,
+        "requirements": []
+      },
+      {
+        "id": 1087,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "注：剑圣是五星，只是头像是6星而已"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3410000,
+    "sources": [
+      {
+        "description": "花舞-云烨朱云 全自动 341w",
+        "author": "花舞-云烨朱云",
+        "damage": {
+          "value": 3410000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1D3411L7HJ/"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D4",
+    "id": "dt416",
+    "characters": [
+      {
+        "id": 1107,
+        "requirements": []
+      },
+      {
+        "id": 1026,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "半自动"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4400000,
+    "sources": [
+      {
+        "description": "酷乐\n半自动 441w",
+        "author": "酷乐",
+        "damage": {
+          "value": 4410000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=23"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D4",
+    "id": "dt417",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1026,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1089,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "连点情姐克总"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3800000,
+    "sources": [
+      {
+        "description": "不辅主的忠戏子\n连点自动 386w",
+        "author": null,
+        "damage": {
+          "value": 3860000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV11u411X7Mj"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D4",
+    "id": "dt419",
+    "characters": [
+      {
+        "id": 1103,
+        "requirements": []
+      },
+      {
+        "id": 1026,
+        "requirements": []
+      },
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1056,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3500000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动 358w",
+        "author": null,
+        "damage": {
+          "value": 3580000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qL4y1g7VW?p=13"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D4",
     "id": "dt402",
     "characters": [
       {
@@ -6630,6 +8797,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1SP4y1w7zf?p=18"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动 312w",
+        "author": null,
+        "damage": {
+          "value": 3120000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qL4y1g7VW?p=14"
         ],
         "images": [],
         "comments": []
@@ -6768,6 +8954,44 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "川包 全自动\n360-390w",
+        "author": "川包",
+        "damage": {
+          "value": null,
+          "low": 3600000,
+          "high": 3900000
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341177Zs?p=15"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "江风渔火\n全自动 374w",
+        "author": null,
+        "damage": {
+          "value": 3740000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7y7?p=14"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -6844,6 +9068,82 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "酷乐\n全自动 323w",
+        "author": "酷乐",
+        "damage": {
+          "value": 3230000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=24"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D4",
+    "id": "dt418",
+    "characters": [
+      {
+        "id": 1106,
+        "requirements": []
+      },
+      {
+        "id": 1078,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1092,
+        "requirements": []
+      },
+      {
+        "id": 0,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3700000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动 377w",
+        "author": null,
+        "damage": {
+          "value": 3770000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qL4y1g7VW?p=11"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -6881,7 +9181,7 @@
     "labels": [
       "Auto"
     ],
-    "standard_damage": 3770000,
+    "standard_damage": 3550000,
     "sources": [
       {
         "description": "玩具喵\n【刀1】全自动\n演示347w",
@@ -6898,6 +9198,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV13T4y1Q7jY?p=3"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动 359w",
+        "author": null,
+        "damage": {
+          "value": 3590000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qL4y1g7VW?p=12"
         ],
         "images": [],
         "comments": []
@@ -6958,6 +9277,25 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "川包 全自动\n370-400w",
+        "author": "川包",
+        "damage": {
+          "value": null,
+          "low": 3700000,
+          "high": 4000000
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341177Zs?p=15"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -7012,6 +9350,65 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1SP4y1w7zf?p=18"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D4",
+    "id": "dt420",
+    "characters": [
+      {
+        "id": 1010,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1095,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "半自动\n2-5号位连点均伤375w\n演示4x江花"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 2800000,
+    "sources": [
+      {
+        "description": "透过现象看本质\n半自动 414w",
+        "author": "透过现象看本质",
+        "damage": {
+          "value": 4140000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=32"
         ],
         "images": [],
         "comments": []
@@ -7110,10 +9507,10 @@
         "comments": []
       },
       {
-        "description": "玩具喵\n蓝字1955w",
+        "description": "玩具喵\n演示1539w\n视频有轴",
         "author": "玩具喵",
         "damage": {
-          "value": 19550000,
+          "value": 15390000,
           "low": null,
           "high": null
         },
@@ -7122,10 +9519,10 @@
           "low": null,
           "high": null
         },
-        "links": [],
-        "images": [
-          "https://docimg6.docs.qq.com/image/66jY1ST3OBgSqbqpjz0sCg.png?w=976&h=1821"
+        "links": [
+          "https://www.bilibili.com/video/BV1T3411j7W3?p=5"
         ],
+        "images": [],
         "comments": []
       },
       {
@@ -7162,6 +9559,25 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1fF411E7zV"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Wario233\n5★圣千\n视频有轴 返22s",
+        "author": null,
+        "damage": {
+          "value": 20000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 68,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Fr4y1z7Y5?spm_id_from=333.999.0.0"
         ],
         "images": [],
         "comments": []
@@ -7238,6 +9654,61 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1FR4y1j7oj?p=20"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D5",
+    "id": "D506",
+    "characters": [
+      {
+        "id": 1077,
+        "requirements": []
+      },
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1014,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 15000000,
+    "sources": [
+      {
+        "description": "川包Vision\n演示1619w\n连点手动 视频有轴",
+        "author": "川包",
+        "damage": {
+          "value": 16190000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1S341177Zs?p=16"
         ],
         "images": [],
         "comments": []
@@ -7512,6 +9983,61 @@
   },
   {
     "boss": "D5",
+    "id": "D507",
+    "characters": [
+      {
+        "id": 1091,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1061,
+        "requirements": []
+      },
+      {
+        "id": 1056,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 6330000,
+    "sources": [
+      {
+        "description": "優奈\n演示 669w\n视频有轴",
+        "author": null,
+        "damage": {
+          "value": 6690000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV16b4y1s7di?p=1&share_medium=android&share_plat=android&share_session_id=2d7f92cc-9cb4-4777-a36f-2f223ee93a7f&share_source=COPY&share_tag=s_i&timestamp=1645798848&unique_k=KSKZopm"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D5",
     "id": "dt509",
     "characters": [
       {
@@ -7642,6 +10168,179 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "酷乐\n半自动 862w",
+        "author": "酷乐",
+        "damage": {
+          "value": 8620000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=27"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "力拔山兮\n【一队】\n全自动 905w",
+        "author": null,
+        "damage": {
+          "value": 9050000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ea41187W4?p=13"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动 445w",
+        "author": null,
+        "damage": {
+          "value": 4450000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qL4y1g7VW?p=15"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "江风渔火\n全自动 1014w",
+        "author": null,
+        "damage": {
+          "value": 10140000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7y7?p=15"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D5",
+    "id": "dt515",
+    "characters": [
+      {
+        "id": 1084,
+        "requirements": []
+      },
+      {
+        "id": 1014,
+        "requirements": []
+      },
+      {
+        "id": 1120,
+        "requirements": []
+      },
+      {
+        "id": 1070,
+        "requirements": []
+      },
+      {
+        "id": 1059,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [
+      "半自动\n4、5x驴"
+    ],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 13500000,
+    "sources": [
+      {
+        "description": "果子哥孟果\n半自动 1353w",
+        "author": null,
+        "damage": {
+          "value": 13530000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ra411C7KK"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "灵の心 \n5xR16圣千 5x驴\n演示 1186w",
+        "author": null,
+        "damage": {
+          "value": 11860000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UP4y1F7Jj/"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "かごめ地鼠连点 1456w",
+        "author": null,
+        "damage": {
+          "value": 14560000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV12i4y127op/"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -7696,6 +10395,44 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1SP4y1w7zf?p=20"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "酷乐\n连点自动 558w",
+        "author": "酷乐",
+        "damage": {
+          "value": 5580000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=26"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "江风渔火\n全自动 500w",
+        "author": null,
+        "damage": {
+          "value": 5000000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7y7?p=17"
         ],
         "images": [],
         "comments": []
@@ -7812,6 +10549,63 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1Sa41187Qh"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "酷乐\n全自动 558w",
+        "author": "酷乐",
+        "damage": {
+          "value": 5580000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1UL411K7ru?p=25"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Daemonlucifer\n全自动 601w",
+        "author": null,
+        "damage": {
+          "value": 6010000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qL4y1g7VW?p=16"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "江风渔火\n全自动 591w",
+        "author": null,
+        "damage": {
+          "value": 5910000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7y7?p=16"
         ],
         "images": [],
         "comments": []
@@ -8028,6 +10822,25 @@
         ],
         "images": [],
         "comments": []
+      },
+      {
+        "description": "力拔山兮\n【二队】\n全自动 587w",
+        "author": null,
+        "damage": {
+          "value": 5870000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ea41187W4?p=14"
+        ],
+        "images": [],
+        "comments": []
       }
     ]
   },
@@ -8090,6 +10903,63 @@
   },
   {
     "boss": "D5",
+    "id": "dt512",
+    "characters": [
+      {
+        "id": 1011,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1119,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4040000,
+    "sources": [
+      {
+        "description": "力拔山兮\n【三队】\n全自动 404w",
+        "author": null,
+        "damage": {
+          "value": 4040000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ea41187W4?p=15"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D5",
     "id": "dt502",
     "characters": [
       {
@@ -8127,10 +10997,10 @@
     "standard_damage": 4200000,
     "sources": [
       {
-        "description": "透过现象看本质\n全自动 506w",
+        "description": "透过现象看本质\n全自动 515w",
         "author": "透过现象看本质",
         "damage": {
-          "value": 5060000,
+          "value": 5150000,
           "low": null,
           "high": null
         },
@@ -8140,7 +11010,7 @@
           "high": null
         },
         "links": [
-          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=4&t=246.4"
+          "https://www.bilibili.com/video/BV1hq4y1t7Hi?p=29"
         ],
         "images": [],
         "comments": []
@@ -8312,6 +11182,120 @@
         },
         "links": [
           "https://www.bilibili.com/video/BV1SP4y1w7zf?p=20"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D5",
+    "id": "dt513",
+    "characters": [
+      {
+        "id": 1011,
+        "requirements": []
+      },
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1058,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 4200000,
+    "sources": [
+      {
+        "description": "Daemonlucifer\n全自动422w",
+        "author": null,
+        "damage": {
+          "value": 4220000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1qL4y1g7VW?p=17"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "boss": "D5",
+    "id": "dt514",
+    "characters": [
+      {
+        "id": 1034,
+        "requirements": []
+      },
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1079,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      },
+      {
+        "id": 1058,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [
+      "Auto"
+    ],
+    "standard_damage": 3300000,
+    "sources": [
+      {
+        "description": "江风渔火\n全自动 330w",
+        "author": null,
+        "damage": {
+          "value": 3300000,
+          "low": null,
+          "high": null
+        },
+        "time": {
+          "value": 90,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1ir4y1r7y7?p=18"
         ],
         "images": [],
         "comments": []
